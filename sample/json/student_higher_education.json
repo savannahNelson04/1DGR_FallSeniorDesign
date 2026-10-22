@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "1606a98b-fca6-58f8-bd52-9d88b3788170",
+    "user_id": "36f0a5ce-9788-5484-b569-83b9c44252c6",
+    "unitid": 204796,
+    "university_label": "The Ohio State University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2025
+  },
+  {
+    "id": "1e1b639f-6e46-55ff-b934-37bc98933727",
+    "user_id": "2a65b699-3717-5fd4-9c16-5af09f17730b",
+    "unitid": 126614,
+    "university_label": "University of Colorado Boulder",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2026
+  },
+  {
+    "id": "5e1026f6-8fad-5c3c-9e7f-f0f45dcdbdc0",
+    "user_id": "655c7cb4-235d-55a6-ad8e-0b81386ed021",
+    "unitid": 236948,
+    "university_label": "University of Washington-Seattle Campus",
+    "education_level": "BACHELORS",
+    "field_of_study": "Psychology",
+    "graduation_year": 2020
+  },
+  {
+    "id": "140371a4-d7f2-50fc-a1a8-4f741cadc058",
+    "user_id": "655c7cb4-235d-55a6-ad8e-0b81386ed021",
+    "unitid": 214777,
+    "university_label": "Pennsylvania State University-Main Campus",
+    "education_level": "PHD",
+    "field_of_study": "Psychology",
+    "graduation_year": 2026
+  },
+  {
+    "id": "2b0c01d3-8274-5bc1-95b4-f59bed8a60c3",
+    "user_id": "31eb8122-3b93-5ad2-8248-1d38b1b44d7b",
+    "unitid": 214777,
+    "university_label": "Pennsylvania State University-Main Campus",
+    "education_level": "BACHELORS",
+    "field_of_study": "Industrial Design",
+    "graduation_year": 2025
+  },
+  {
+    "id": "bdbe0b3d-0fa5-5525-8786-cabe1ad98a43",
+    "user_id": "401bba4e-2076-5b19-9f0c-efd0428e0f26",
+    "unitid": 209551,
+    "university_label": "University of Oregon",
+    "education_level": "BACHELORS",
+    "field_of_study": "Cybersecurity",
+    "graduation_year": 2025
+  },
+  {
+    "id": "dd9e8560-8535-529c-ad8f-041a89be7186",
+    "user_id": "5785ea30-c2be-5d58-bbdb-c1202729eaf4",
+    "unitid": 228723,
+    "university_label": "Texas A & M University-College Station",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2025
+  },
+  {
+    "id": "27ef8d3f-6afe-5c50-9e49-68b898a53f2e",
+    "user_id": "f9672a95-5111-54e1-b24e-3f776635e809",
+    "unitid": 134130,
+    "university_label": "University of Florida",
+    "education_level": "BACHELORS",
+    "field_of_study": "Accounting",
+    "graduation_year": 2025
+  },
+  {
+    "id": "68689d33-c18d-5315-bcb2-bc8a0cb764cc",
+    "user_id": "a7197add-c8e7-5fd7-86ec-b5b39e69d33b",
+    "unitid": 233921,
+    "university_label": "Virginia Polytechnic Institute and State University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Computer Engineering",
+    "graduation_year": 2026
+  },
+  {
+    "id": "3264719f-2d24-5812-b24e-e90660382a87",
+    "user_id": "afd1a457-cbfd-5b6e-ac37-98ed904fb7c9",
+    "unitid": 233921,
+    "university_label": "Virginia Polytechnic Institute and State University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Information Technology",
+    "graduation_year": 2024
+  },
+  {
+    "id": "0ae7f086-ee03-5eeb-8e7e-f9517cf78962",
+    "user_id": "583fdaf7-c730-573c-a1a7-e239d21ea557",
+    "unitid": 240444,
+    "university_label": "University of Wisconsin-Madison",
+    "education_level": "BACHELORS",
+    "field_of_study": "Accounting",
+    "graduation_year": 2025
+  },
+  {
+    "id": "8653ac51-76f0-52ba-91ea-fdfd34be77f5",
+    "user_id": "86708463-bbf8-51bf-b3e0-dec7088a26ab",
+    "unitid": 211440,
+    "university_label": "Carnegie Mellon University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2025
+  },
+  {
+    "id": "c2fc32de-c3ba-5e80-acb3-ce8602eb20c9",
+    "user_id": "90161c27-ed1c-57a7-ac08-ba99a808d6b4",
+    "unitid": 126614,
+    "university_label": "University of Colorado Boulder",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2020
+  },
+  {
+    "id": "34900e72-4926-5f83-8b63-db7637a1604f",
+    "user_id": "90161c27-ed1c-57a7-ac08-ba99a808d6b4",
+    "unitid": 134130,
+    "university_label": "University of Florida",
+    "education_level": "PHD",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2026
+  },
+  {
+    "id": "4b3a6d87-5819-5a06-accc-fbfe583d2621",
+    "user_id": "d652b112-32e9-5601-a7cd-84e68cf4ea5f",
+    "unitid": 151351,
+    "university_label": "Indiana University-Bloomington",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2026
+  },
+  {
+    "id": "d6a7a54c-7ffb-5cd4-9a9f-4ef6f067b05c",
+    "user_id": "9b90aeab-cd5f-54f7-b159-add3ca32657a",
+    "unitid": 151351,
+    "university_label": "Indiana University-Bloomington",
+    "education_level": "BACHELORS",
+    "field_of_study": "Computer Science",
+    "graduation_year": 2024
+  },
+  {
+    "id": "0a3f8456-17f9-508a-815d-811e3f625e71",
+    "user_id": "9b90aeab-cd5f-54f7-b159-add3ca32657a",
+    "unitid": 163286,
+    "university_label": "University of Maryland-College Park",
+    "education_level": "MASTERS",
+    "field_of_study": "Computer Science",
+    "graduation_year": 2026
+  },
+  {
+    "id": "c5892811-517d-55d2-87d0-128dc93d1d98",
+    "user_id": "fc4347c7-9014-5a62-9d34-7d596047c263",
+    "unitid": 170976,
+    "university_label": "University of Michigan-Ann Arbor",
+    "education_level": "BACHELORS",
+    "field_of_study": "Computer Engineering",
+    "graduation_year": 2024
+  },
+  {
+    "id": "7797afad-253c-51cd-848a-cd29741500ce",
+    "user_id": "fc4347c7-9014-5a62-9d34-7d596047c263",
+    "unitid": 230764,
+    "university_label": "University of Utah",
+    "education_level": "MASTERS",
+    "field_of_study": "Computer Engineering",
+    "graduation_year": 2026
+  },
+  {
+    "id": "6c0e4d28-5d44-5db7-bd4c-4d443b7a5b24",
+    "user_id": "303d571d-c973-53a6-93b1-562c853ab14e",
+    "unitid": 211440,
+    "university_label": "Carnegie Mellon University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Communications",
+    "graduation_year": 2028
+  },
+  {
+    "id": "ca563b34-1dbc-5489-84f5-756b3ef758cb",
+    "user_id": "a493a733-fb9d-56ef-9655-1367ac618188",
+    "unitid": 236948,
+    "university_label": "University of Washington-Seattle Campus",
+    "education_level": "BACHELORS",
+    "field_of_study": "Biology",
+    "graduation_year": 2026
+  },
+  {
+    "id": "fe9d0d73-fe37-5703-8b56-4018e8826330",
+    "user_id": "b8844fdb-85e9-51c5-97fa-97f70c15c787",
+    "unitid": 145637,
+    "university_label": "University of Illinois Urbana-Champaign",
+    "education_level": "BACHELORS",
+    "field_of_study": "Supply Chain Management",
+    "graduation_year": 2025
+  },
+  {
+    "id": "53880b9e-9a9c-5453-a650-5c0634cbc4ed",
+    "user_id": "bd009e59-5eba-5130-9b19-aadc1ab2ffc5",
+    "unitid": 228778,
+    "university_label": "The University of Texas at Austin",
+    "education_level": "BACHELORS",
+    "field_of_study": "Mechanical Engineering",
+    "graduation_year": 2026
+  },
+  {
+    "id": "c29303d9-1e43-51e4-b0e3-506d28094894",
+    "user_id": "575d773a-b486-50e8-a422-cb823a2e07ab",
+    "unitid": 233921,
+    "university_label": "Virginia Polytechnic Institute and State University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2027
+  },
+  {
+    "id": "abd4e9d9-e28f-554a-be1b-db4948e8e4d4",
+    "user_id": "d33a356e-1379-5a7d-9de8-926b31bccc54",
+    "unitid": 126614,
+    "university_label": "University of Colorado Boulder",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2028
+  },
+  {
+    "id": "c4ea6c5d-5999-5e2f-8919-928e389a5010",
+    "user_id": "2cb442d8-8978-5917-9901-34b7e29d5864",
+    "unitid": 240444,
+    "university_label": "University of Wisconsin-Madison",
+    "education_level": "BACHELORS",
+    "field_of_study": "English",
+    "graduation_year": 2026
+  },
+  {
+    "id": "fdce9e43-e299-54ea-bdb9-f7ed35e09800",
+    "user_id": "84aa6e94-eb62-552f-8308-6a5f9c51368f",
+    "unitid": 228723,
+    "university_label": "Texas A & M University-College Station",
+    "education_level": "BACHELORS",
+    "field_of_study": "Communications",
+    "graduation_year": 2023
+  },
+  {
+    "id": "552db0ad-8521-5d84-8134-98b929a91120",
+    "user_id": "84aa6e94-eb62-552f-8308-6a5f9c51368f",
+    "unitid": 240444,
+    "university_label": "University of Wisconsin-Madison",
+    "education_level": "MASTERS",
+    "field_of_study": "Communications",
+    "graduation_year": 2025
+  },
+  {
+    "id": "61a9282b-0fee-5d32-868c-6be8d0ca8826",
+    "user_id": "340c8932-bf18-5eae-9c98-a1d856e939b1",
+    "unitid": 228778,
+    "university_label": "The University of Texas at Austin",
+    "education_level": "BACHELORS",
+    "field_of_study": "English",
+    "graduation_year": 2025
+  },
+  {
+    "id": "7b527678-1980-5304-8a56-4327a7d82388",
+    "user_id": "d56bdcc7-2374-598c-9b36-44fdede2cf8e",
+    "unitid": 211440,
+    "university_label": "Carnegie Mellon University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Marketing",
+    "graduation_year": 2026
+  },
+  {
+    "id": "04ffc183-6cc9-5b86-b0e9-764afc4234a1",
+    "user_id": "d686c1bf-8dc6-5428-b9e3-1e80a8261d25",
+    "unitid": 243780,
+    "university_label": "Purdue University-Main Campus",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2024
+  },
+  {
+    "id": "ec99e9fc-408e-5e44-9a25-72489e662ce6",
+    "user_id": "c8170f12-ac54-5e6d-ae66-22257b72024c",
+    "unitid": 230764,
+    "university_label": "University of Utah",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2016
+  },
+  {
+    "id": "06fdb85b-02f5-5e69-9717-5ba122e09cd5",
+    "user_id": "5e824de7-8a3c-5d06-8ca2-4c180fa0d450",
+    "unitid": 151351,
+    "university_label": "Indiana University-Bloomington",
+    "education_level": "BACHELORS",
+    "field_of_study": "Computer Science",
+    "graduation_year": 2023
+  },
+  {
+    "id": "41092725-1bca-5f21-adb5-8cd52d78320c",
+    "user_id": "5e824de7-8a3c-5d06-8ca2-4c180fa0d450",
+    "unitid": 211440,
+    "university_label": "Carnegie Mellon University",
+    "education_level": "MASTERS",
+    "field_of_study": "Computer Science",
+    "graduation_year": 2025
+  },
+  {
+    "id": "82a48a0b-0aa5-5fc2-ae9e-12933d225598",
+    "user_id": "67f248ff-d746-5dfe-a0fe-06d17f6b6aca",
+    "unitid": 233921,
+    "university_label": "Virginia Polytechnic Institute and State University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2020
+  },
+  {
+    "id": "ca11d939-4f1b-551c-a113-1ffbb1dacd45",
+    "user_id": "67f248ff-d746-5dfe-a0fe-06d17f6b6aca",
+    "unitid": 110662,
+    "university_label": "University of California-Los Angeles",
+    "education_level": "PHD",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2026
+  },
+  {
+    "id": "5227fa2d-a9eb-5b11-9fcc-aa747e46780b",
+    "user_id": "248afa23-f66e-528c-bc34-3e42b6f11a49",
+    "unitid": 209551,
+    "university_label": "University of Oregon",
+    "education_level": "BACHELORS",
+    "field_of_study": "Advertising",
+    "graduation_year": 2025
+  },
+  {
+    "id": "4716955d-08e6-5cda-8174-ab00d85c2192",
+    "user_id": "3220f856-b42d-523d-9a94-fb7681aec4f7",
+    "unitid": 193900,
+    "university_label": "New York University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Computer Engineering",
+    "graduation_year": 2026
+  },
+  {
+    "id": "e687d221-1e83-500d-afea-61588461454c",
+    "user_id": "286ee5a4-bee1-5041-b5e6-ef89ed83e493",
+    "unitid": 209551,
+    "university_label": "University of Oregon",
+    "education_level": "BACHELORS",
+    "field_of_study": "Finance",
+    "graduation_year": 2025
+  },
+  {
+    "id": "3456c51f-f8b6-5e75-bffd-9b739a094d53",
+    "user_id": "5cb18708-39a4-5647-988e-47623f5dba0f",
+    "unitid": 170976,
+    "university_label": "University of Michigan-Ann Arbor",
+    "education_level": "BACHELORS",
+    "field_of_study": "English",
+    "graduation_year": 2024
+  },
+  {
+    "id": "a29735d4-c1ba-5c91-8d13-a549194e73e1",
+    "user_id": "ddf4165c-cc4a-5256-ad55-edc3e788ef29",
+    "unitid": 204796,
+    "university_label": "The Ohio State University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Industrial Design",
+    "graduation_year": 2027
+  },
+  {
+    "id": "9a64029c-3419-5a56-9639-d1d545378550",
+    "user_id": "8e5ab03b-f34a-50d6-9203-f4d7fbbc8339",
+    "unitid": 151351,
+    "university_label": "Indiana University-Bloomington",
+    "education_level": "BACHELORS",
+    "field_of_study": "Software Engineering",
+    "graduation_year": 2028
+  },
+  {
+    "id": "4dcec4e7-c095-54e4-a2e6-73d4f006f653",
+    "user_id": "91fc7166-b8a0-57a5-80e0-a28ec3ca0700",
+    "unitid": 228778,
+    "university_label": "The University of Texas at Austin",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2019
+  },
+  {
+    "id": "93a86cb7-2887-522f-a052-a2faf4a643cd",
+    "user_id": "d653815c-7bb3-5b91-b2d5-9bfa9cf08744",
+    "unitid": 163286,
+    "university_label": "University of Maryland-College Park",
+    "education_level": "BACHELORS",
+    "field_of_study": "Computer Engineering",
+    "graduation_year": 2025
+  },
+  {
+    "id": "186e6b40-baab-5a5d-b232-ce94adfbb703",
+    "user_id": "2489d756-ac3f-5900-abb4-865db46e6276",
+    "unitid": 193900,
+    "university_label": "New York University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2018
+  },
+  {
+    "id": "4ea39e7e-7c16-537a-a5e9-f342f7bc7352",
+    "user_id": "be047f86-843e-5492-90ea-529ec649aa8d",
+    "unitid": 167358,
+    "university_label": "Northeastern University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Civil Engineering",
+    "graduation_year": 2025
+  },
+  {
+    "id": "1b6eab69-3de0-51c4-9c91-4f8b9ef62da7",
+    "user_id": "f789415a-41e0-584a-bb80-c72318318271",
+    "unitid": 110662,
+    "university_label": "University of California-Los Angeles",
+    "education_level": "BACHELORS",
+    "field_of_study": "Computer Engineering",
+    "graduation_year": 2024
+  },
+  {
+    "id": "2ca115d5-10b0-5dff-bf37-7a65458e2257",
+    "user_id": "f789415a-41e0-584a-bb80-c72318318271",
+    "unitid": 204796,
+    "university_label": "The Ohio State University",
+    "education_level": "MASTERS",
+    "field_of_study": "Computer Engineering",
+    "graduation_year": 2026
+  },
+  {
+    "id": "c4b7b7bd-0e03-5335-9574-f86d7beec95a",
+    "user_id": "9ff4a4b9-173c-5c13-b8dd-537d2fc2b064",
+    "unitid": 167358,
+    "university_label": "Northeastern University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Supply Chain Management",
+    "graduation_year": 2027
+  },
+  {
+    "id": "1a28aa8b-badf-55be-9646-d677e3af9ebe",
+    "user_id": "79d2b7a4-af11-51a3-8b64-2f6f716b6766",
+    "unitid": 104151,
+    "university_label": "Arizona State University Campus Immersion",
+    "education_level": "BACHELORS",
+    "field_of_study": "Journalism",
+    "graduation_year": 2025
+  },
+  {
+    "id": "9cc1c824-4517-5ef6-8388-acdbacd78a48",
+    "user_id": "3971767a-3959-5422-a668-477080d7b34c",
+    "unitid": 243780,
+    "university_label": "Purdue University-Main Campus",
+    "education_level": "BACHELORS",
+    "field_of_study": "Economics",
+    "graduation_year": 2024
+  },
+  {
+    "id": "fe579a35-2602-59de-aadf-f91b35df833b",
+    "user_id": "3971767a-3959-5422-a668-477080d7b34c",
+    "unitid": 145637,
+    "university_label": "University of Illinois Urbana-Champaign",
+    "education_level": "MASTERS",
+    "field_of_study": "Economics",
+    "graduation_year": 2026
+  },
+  {
+    "id": "c854afba-4830-5cf6-94e1-bd801974e891",
+    "user_id": "b2e3a643-3fd5-5824-9a01-ef72d5aabd1e",
+    "unitid": 110662,
+    "university_label": "University of California-Los Angeles",
+    "education_level": "BACHELORS",
+    "field_of_study": "Accounting",
+    "graduation_year": 2024
+  },
+  {
+    "id": "51846abb-23f4-56d1-96cf-eab94a5bf997",
+    "user_id": "b2e3a643-3fd5-5824-9a01-ef72d5aabd1e",
+    "unitid": 230764,
+    "university_label": "University of Utah",
+    "education_level": "MASTERS",
+    "field_of_study": "Accounting",
+    "graduation_year": 2026
+  },
+  {
+    "id": "2a55d482-2682-57c2-bdf3-53f0599b6e2f",
+    "user_id": "350b1982-a951-5837-9c7e-5860cd514df4",
+    "unitid": 236948,
+    "university_label": "University of Washington-Seattle Campus",
+    "education_level": "BACHELORS",
+    "field_of_study": "Industrial Engineering",
+    "graduation_year": 2025
+  },
+  {
+    "id": "70895772-c157-576b-abd9-7baf669d40c2",
+    "user_id": "e2896da3-d587-53d6-9bc4-cbff8a24a7ae",
+    "unitid": 236948,
+    "university_label": "University of Washington-Seattle Campus",
+    "education_level": "BACHELORS",
+    "field_of_study": "Software Engineering",
+    "graduation_year": 2023
+  },
+  {
+    "id": "3033da68-3e5c-538a-9f10-5279bd37cfa8",
+    "user_id": "e2896da3-d587-53d6-9bc4-cbff8a24a7ae",
+    "unitid": 243780,
+    "university_label": "Purdue University-Main Campus",
+    "education_level": "MASTERS",
+    "field_of_study": "Software Engineering",
+    "graduation_year": 2025
+  },
+  {
+    "id": "61edbf64-36cf-54fa-9a7f-22fba80eb0d8",
+    "user_id": "f8f2076d-b54e-5921-84ea-60dbb1e0eb8b",
+    "unitid": 170976,
+    "university_label": "University of Michigan-Ann Arbor",
+    "education_level": "BACHELORS",
+    "field_of_study": "Marketing",
+    "graduation_year": 2023
+  },
+  {
+    "id": "481bc508-968c-5fc3-810d-3659e1233c3e",
+    "user_id": "f8f2076d-b54e-5921-84ea-60dbb1e0eb8b",
+    "unitid": 163286,
+    "university_label": "University of Maryland-College Park",
+    "education_level": "MASTERS",
+    "field_of_study": "Marketing",
+    "graduation_year": 2025
+  },
+  {
+    "id": "168cce2b-8aa1-5f35-aef7-da91370b0b63",
+    "user_id": "543d28c3-6fa1-5aa9-b947-1ad908a804da",
+    "unitid": 139755,
+    "university_label": "Georgia Institute of Technology-Main Campus",
+    "education_level": "BACHELORS",
+    "field_of_study": "Statistics",
+    "graduation_year": 2023
+  },
+  {
+    "id": "9c6a88f9-9f20-54bf-a895-86a88f5de5de",
+    "user_id": "543d28c3-6fa1-5aa9-b947-1ad908a804da",
+    "unitid": 230764,
+    "university_label": "University of Utah",
+    "education_level": "MASTERS",
+    "field_of_study": "Statistics",
+    "graduation_year": 2025
+  },
+  {
+    "id": "4973f1f3-3835-5983-8415-52737e8d0b98",
+    "user_id": "4d8d2661-e175-5766-9e37-c96fb11de9d0",
+    "unitid": 199120,
+    "university_label": "University of North Carolina at Chapel Hill",
+    "education_level": "BACHELORS",
+    "field_of_study": "Accounting",
+    "graduation_year": 2027
+  },
+  {
+    "id": "b649b346-2841-5d72-9849-9f4e93907bbf",
+    "user_id": "0203e35b-2005-534b-b1b2-87273db061b8",
+    "unitid": 126614,
+    "university_label": "University of Colorado Boulder",
+    "education_level": "BACHELORS",
+    "field_of_study": "Mathematics",
+    "graduation_year": 2025
+  },
+  {
+    "id": "db369dfb-db02-5c0c-8869-b32947073e51",
+    "user_id": "06db3af5-0107-5d56-9ca9-4adafbdff148",
+    "unitid": 134130,
+    "university_label": "University of Florida",
+    "education_level": "BACHELORS",
+    "field_of_study": "Information Systems",
+    "graduation_year": 2024
+  },
+  {
+    "id": "92d8895f-6a87-5df9-a097-ce13460e3308",
+    "user_id": "06db3af5-0107-5d56-9ca9-4adafbdff148",
+    "unitid": 236948,
+    "university_label": "University of Washington-Seattle Campus",
+    "education_level": "MASTERS",
+    "field_of_study": "Information Systems",
+    "graduation_year": 2026
+  },
+  {
+    "id": "ecdf9c18-17d6-56e1-8763-4818b4a8194b",
+    "user_id": "41c5b2a9-c02b-5281-a11e-4d98244efd37",
+    "unitid": 199120,
+    "university_label": "University of North Carolina at Chapel Hill",
+    "education_level": "BACHELORS",
+    "field_of_study": "Supply Chain Management",
+    "graduation_year": 2027
+  },
+  {
+    "id": "ee981d53-5749-5f53-b563-f9bd3e8744a8",
+    "user_id": "99d04554-fd23-535b-9b5e-7472caf9271b",
+    "unitid": 167358,
+    "university_label": "Northeastern University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Aerospace Engineering",
+    "graduation_year": 2027
+  },
+  {
+    "id": "c549d59d-6eb5-598c-ac22-b67756fece02",
+    "user_id": "0d207c3d-5107-592d-970e-65d33d020f35",
+    "unitid": 236948,
+    "university_label": "University of Washington-Seattle Campus",
+    "education_level": "BACHELORS",
+    "field_of_study": "Data Science",
+    "graduation_year": 2024
+  },
+  {
+    "id": "9eef65fd-8dc8-5ae9-af9e-06f210b6942b",
+    "user_id": "f36c4dde-05ce-5b02-81f3-ee88dcf472bc",
+    "unitid": 174066,
+    "university_label": "University of Minnesota-Twin Cities",
+    "education_level": "BACHELORS",
+    "field_of_study": "Supply Chain Management",
+    "graduation_year": 2026
+  },
+  {
+    "id": "57e75203-1432-5145-abcc-b6a725418b1f",
+    "user_id": "5b61c7f8-bb42-581b-856f-3b527b033b5a",
+    "unitid": 211440,
+    "university_label": "Carnegie Mellon University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Biology",
+    "graduation_year": 2025
+  },
+  {
+    "id": "1414b6b9-389c-50cd-891d-33e166c5774a",
+    "user_id": "568ad13d-1248-545f-bcdb-099933681b30",
+    "unitid": 134130,
+    "university_label": "University of Florida",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2026
+  },
+  {
+    "id": "ef7f7b48-50f8-51c6-99b4-17c840b459f8",
+    "user_id": "21d6405a-cafc-5743-8b8b-84c5a8ccaec9",
+    "unitid": 151351,
+    "university_label": "Indiana University-Bloomington",
+    "education_level": "BACHELORS",
+    "field_of_study": "Electrical Engineering",
+    "graduation_year": 2024
+  },
+  {
+    "id": "274fa273-0650-5ba4-a8dd-32edf29c888b",
+    "user_id": "6b774cf9-3a76-58f0-a4e0-33c745908477",
+    "unitid": 104151,
+    "university_label": "Arizona State University Campus Immersion",
+    "education_level": "BACHELORS",
+    "field_of_study": "Computer Science",
+    "graduation_year": 2028
+  },
+  {
+    "id": "c366ea7f-faec-56e9-8ca2-c13d5bca046a",
+    "user_id": "4480c6aa-7a85-5ef6-b984-fa05addf0098",
+    "unitid": 211440,
+    "university_label": "Carnegie Mellon University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Computer Science",
+    "graduation_year": 2028
+  },
+  {
+    "id": "6fcbdb42-9344-5121-b1b3-16808ff4bcd7",
+    "user_id": "6a0fbe6e-f945-54d8-bdb3-60ec2d1e1414",
+    "unitid": 147767,
+    "university_label": "Northwestern University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Computer Engineering",
+    "graduation_year": 2025
+  },
+  {
+    "id": "dd278c7f-edcb-51b8-96f9-16d99fbfbb71",
+    "user_id": "faac329f-b74c-5e89-9091-1defd512283b",
+    "unitid": 230764,
+    "university_label": "University of Utah",
+    "education_level": "BACHELORS",
+    "field_of_study": "Cybersecurity",
+    "graduation_year": 2026
+  },
+  {
+    "id": "7a319587-117b-56ee-b869-97767dd47397",
+    "user_id": "f4e6ff77-27b1-56bd-b615-be4b64d1c0c4",
+    "unitid": 214777,
+    "university_label": "Pennsylvania State University-Main Campus",
+    "education_level": "BACHELORS",
+    "field_of_study": "Education",
+    "graduation_year": 2026
+  },
+  {
+    "id": "337c7567-6e10-538c-8cf6-2937f283f1ae",
+    "user_id": "a354a447-478c-5eb8-81de-5b81303f6c76",
+    "unitid": 163286,
+    "university_label": "University of Maryland-College Park",
+    "education_level": "BACHELORS",
+    "field_of_study": "Industrial Engineering",
+    "graduation_year": 2024
+  },
+  {
+    "id": "6d7da879-3616-5a4b-a7fb-2b97bab67332",
+    "user_id": "1bf2dfda-6cd7-5afb-bf6f-b7382e43faca",
+    "unitid": 193900,
+    "university_label": "New York University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2026
+  },
+  {
+    "id": "4b3d080f-e671-5fdd-b4af-3fd69de14fe7",
+    "user_id": "18ff9b9e-8193-5350-a75a-85933a22f3aa",
+    "unitid": 167358,
+    "university_label": "Northeastern University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Information Systems",
+    "graduation_year": 2024
+  },
+  {
+    "id": "eba6e165-a9da-5687-855d-342aca35cffe",
+    "user_id": "18ff9b9e-8193-5350-a75a-85933a22f3aa",
+    "unitid": 211440,
+    "university_label": "Carnegie Mellon University",
+    "education_level": "MASTERS",
+    "field_of_study": "Information Systems",
+    "graduation_year": 2026
+  },
+  {
+    "id": "735002e1-eb16-5af3-913e-226e285bdba1",
+    "user_id": "a2e7a83e-1369-5a32-95de-ddd3619f5ac0",
+    "unitid": 204796,
+    "university_label": "The Ohio State University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2023
+  },
+  {
+    "id": "891750e3-abb5-5381-b29d-b9fa860c38c1",
+    "user_id": "a2e7a83e-1369-5a32-95de-ddd3619f5ac0",
+    "unitid": 174066,
+    "university_label": "University of Minnesota-Twin Cities",
+    "education_level": "MASTERS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2025
+  },
+  {
+    "id": "bafc464d-100f-5831-a51d-2ab6c9bcf837",
+    "user_id": "0fef42aa-5981-5a51-8090-5bdf1985ad37",
+    "unitid": 199120,
+    "university_label": "University of North Carolina at Chapel Hill",
+    "education_level": "BACHELORS",
+    "field_of_study": "Communications",
+    "graduation_year": 2024
+  },
+  {
+    "id": "e160b86c-34c4-5a6a-b36a-c2f9dc9126ed",
+    "user_id": "0fef42aa-5981-5a51-8090-5bdf1985ad37",
+    "unitid": 170976,
+    "university_label": "University of Michigan-Ann Arbor",
+    "education_level": "MASTERS",
+    "field_of_study": "Communications",
+    "graduation_year": 2026
+  },
+  {
+    "id": "97f24ec5-d9d2-5c84-bc01-e11ff6028561",
+    "user_id": "ae435098-501c-53ed-ba77-4f5ff1afbf74",
+    "unitid": 167358,
+    "university_label": "Northeastern University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Computer Engineering",
+    "graduation_year": 2025
+  },
+  {
+    "id": "c4443dc7-2ced-534e-8609-c7dfd286db70",
+    "user_id": "3b54b091-19cf-5ddc-a89f-9ca25c81be9e",
+    "unitid": 228778,
+    "university_label": "The University of Texas at Austin",
+    "education_level": "BACHELORS",
+    "field_of_study": "Electrical Engineering",
+    "graduation_year": 2024
+  },
+  {
+    "id": "186003ba-7cb0-58e5-838b-b535d9639403",
+    "user_id": "0e8e9f04-9146-5614-b530-af9150e25bf0",
+    "unitid": 228778,
+    "university_label": "The University of Texas at Austin",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2024
+  },
+  {
+    "id": "bbee1dc0-a349-5ad5-bda0-2708fe80b973",
+    "user_id": "40e29b8a-43d2-5c1b-8515-f81238de23d2",
+    "unitid": 199120,
+    "university_label": "University of North Carolina at Chapel Hill",
+    "education_level": "BACHELORS",
+    "field_of_study": "Mechanical Engineering",
+    "graduation_year": 2027
+  },
+  {
+    "id": "e23e7d19-ebfb-563a-9cec-3119dcbec2bf",
+    "user_id": "def4a85f-4ebd-562b-ba48-fa299c3e0b14",
+    "unitid": 233921,
+    "university_label": "Virginia Polytechnic Institute and State University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Electrical Engineering",
+    "graduation_year": 2026
+  },
+  {
+    "id": "559b4ef7-292f-59b0-8972-fc249f765459",
+    "user_id": "39281efa-c966-5b51-9d3e-6c6ad4b4b719",
+    "unitid": 199120,
+    "university_label": "University of North Carolina at Chapel Hill",
+    "education_level": "BACHELORS",
+    "field_of_study": "Industrial Design",
+    "graduation_year": 2024
+  },
+  {
+    "id": "f56be3c4-92b7-5868-b4b4-22ee390fb024",
+    "user_id": "d37214f6-a3ac-5f3b-b101-0c7763486a5f",
+    "unitid": 214777,
+    "university_label": "Pennsylvania State University-Main Campus",
+    "education_level": "BACHELORS",
+    "field_of_study": "Supply Chain Management",
+    "graduation_year": 2027
+  },
+  {
+    "id": "3518e83a-7e21-5b45-848a-a3773297e4b5",
+    "user_id": "2bd48eff-e8f1-5a33-9164-a0e386013606",
+    "unitid": 147767,
+    "university_label": "Northwestern University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Biology",
+    "graduation_year": 2024
+  },
+  {
+    "id": "22de76b6-8e04-5a00-b048-a4370706df57",
+    "user_id": "fc336c9e-9622-503b-8ba9-380b0c486c20",
+    "unitid": 104151,
+    "university_label": "Arizona State University Campus Immersion",
+    "education_level": "BACHELORS",
+    "field_of_study": "Education",
+    "graduation_year": 2027
+  },
+  {
+    "id": "71848cca-cc2f-51a3-a784-88d19ff44ef5",
+    "user_id": "754b4f6a-eea4-5415-8a45-dfe7be32e138",
+    "unitid": 151351,
+    "university_label": "Indiana University-Bloomington",
+    "education_level": "BACHELORS",
+    "field_of_study": "Mechanical Engineering",
+    "graduation_year": 2028
+  },
+  {
+    "id": "ac1f76ef-82d6-5ab3-9272-5ed02cd69cd9",
+    "user_id": "21aaafb1-5dd5-587a-afd7-8531f3b83de9",
+    "unitid": 167358,
+    "university_label": "Northeastern University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Aerospace Engineering",
+    "graduation_year": 2028
+  },
+  {
+    "id": "8d9aa410-f600-5d34-bfed-0e91d3438552",
+    "user_id": "af03c7f9-d7a2-509f-8517-4cfc8f769c7a",
+    "unitid": 170976,
+    "university_label": "University of Michigan-Ann Arbor",
+    "education_level": "BACHELORS",
+    "field_of_study": "Psychology",
+    "graduation_year": 2020
+  },
+  {
+    "id": "cd82ae21-a653-5f40-9a13-89b1ec907d3b",
+    "user_id": "af03c7f9-d7a2-509f-8517-4cfc8f769c7a",
+    "unitid": 243780,
+    "university_label": "Purdue University-Main Campus",
+    "education_level": "PHD",
+    "field_of_study": "Psychology",
+    "graduation_year": 2026
+  },
+  {
+    "id": "c30384e7-8242-5729-a081-4587b0edc7eb",
+    "user_id": "32bc7b83-67d3-58dd-ad62-9c6791c3f78f",
+    "unitid": 126614,
+    "university_label": "University of Colorado Boulder",
+    "education_level": "BACHELORS",
+    "field_of_study": "Information Technology",
+    "graduation_year": 2025
+  },
+  {
+    "id": "77bea516-9a8d-5e1b-a580-0e09ffded44d",
+    "user_id": "abf4f05a-b48e-5440-bac6-6b0bc2ae6c28",
+    "unitid": 211440,
+    "university_label": "Carnegie Mellon University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Aerospace Engineering",
+    "graduation_year": 2025
+  },
+  {
+    "id": "04ddf2c6-2050-5bc1-8b44-12ef5f613079",
+    "user_id": "cd4cdca5-49d6-599b-913a-78baa59039be",
+    "unitid": 214777,
+    "university_label": "Pennsylvania State University-Main Campus",
+    "education_level": "BACHELORS",
+    "field_of_study": "Economics",
+    "graduation_year": 2020
+  },
+  {
+    "id": "7042fa9f-1f75-5925-b8cf-1f0d78df55b8",
+    "user_id": "cd4cdca5-49d6-599b-913a-78baa59039be",
+    "unitid": 211440,
+    "university_label": "Carnegie Mellon University",
+    "education_level": "PHD",
+    "field_of_study": "Economics",
+    "graduation_year": 2026
+  },
+  {
+    "id": "df99102b-06cf-5302-b0fe-efc0155cbccf",
+    "user_id": "b64fba96-b5f0-5a92-b473-d9fbf25eb821",
+    "unitid": 167358,
+    "university_label": "Northeastern University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Accounting",
+    "graduation_year": 2025
+  },
+  {
+    "id": "137c7b44-be2a-5035-aab6-0831c0c124fe",
+    "user_id": "196a7832-ef80-5a7a-9f32-ff73b4a6a975",
+    "unitid": 243780,
+    "university_label": "Purdue University-Main Campus",
+    "education_level": "BACHELORS",
+    "field_of_study": "Data Science",
+    "graduation_year": 2028
+  },
+  {
+    "id": "1249fa08-f680-544f-a509-982a4f75a0e4",
+    "user_id": "c2662b3f-7747-5db0-8550-9dc1bbf1e203",
+    "unitid": 110635,
+    "university_label": "University of California-Berkeley",
+    "education_level": "BACHELORS",
+    "field_of_study": "Education",
+    "graduation_year": 2024
+  },
+  {
+    "id": "31deae9e-8c6e-5533-9311-84ad6415d086",
+    "user_id": "da7b4db0-f9c5-5fc4-8e7e-139cedb2e281",
+    "unitid": 163286,
+    "university_label": "University of Maryland-College Park",
+    "education_level": "BACHELORS",
+    "field_of_study": "Education",
+    "graduation_year": 2026
+  },
+  {
+    "id": "f81f3dbe-80a8-5653-ba2a-67c68289bde1",
+    "user_id": "661b14fc-08fd-5c37-a374-9790802ba5c7",
+    "unitid": 126614,
+    "university_label": "University of Colorado Boulder",
+    "education_level": "BACHELORS",
+    "field_of_study": "Advertising",
+    "graduation_year": 2023
+  },
+  {
+    "id": "b6edfb77-de1b-5a08-a67c-4e187d846342",
+    "user_id": "661b14fc-08fd-5c37-a374-9790802ba5c7",
+    "unitid": 174066,
+    "university_label": "University of Minnesota-Twin Cities",
+    "education_level": "MASTERS",
+    "field_of_study": "Advertising",
+    "graduation_year": 2025
+  },
+  {
+    "id": "cc92d262-1d6b-5f45-93f4-4fc7e5797562",
+    "user_id": "cf1e26b3-bb50-5ef7-9d49-96e7c6bd7743",
+    "unitid": 193900,
+    "university_label": "New York University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Software Engineering",
+    "graduation_year": 2024
+  },
+  {
+    "id": "90bee16f-dd1e-5a97-a7b3-8ccbe965e691",
+    "user_id": "4016280d-813e-557e-b94a-3622fe1ed313",
+    "unitid": 134130,
+    "university_label": "University of Florida",
+    "education_level": "BACHELORS",
+    "field_of_study": "Business Administration",
+    "graduation_year": 2027
+  },
+  {
+    "id": "75933987-ea21-5ab2-9ce4-3cab6aa136d2",
+    "user_id": "675b292d-db38-581d-9d89-286551997bf5",
+    "unitid": 163286,
+    "university_label": "University of Maryland-College Park",
+    "education_level": "BACHELORS",
+    "field_of_study": "Computer Science",
+    "graduation_year": 2024
+  },
+  {
+    "id": "31fb80ea-5aae-57e3-b4d6-8dc964d17380",
+    "user_id": "675b292d-db38-581d-9d89-286551997bf5",
+    "unitid": 193900,
+    "university_label": "New York University",
+    "education_level": "MASTERS",
+    "field_of_study": "Computer Science",
+    "graduation_year": 2026
+  },
+  {
+    "id": "5bedb016-29e0-59e3-a9fa-c344c14f1254",
+    "user_id": "a3f9515a-550f-5a07-a227-0773c2a84f37",
+    "unitid": 163286,
+    "university_label": "University of Maryland-College Park",
+    "education_level": "BACHELORS",
+    "field_of_study": "Human Resources",
+    "graduation_year": 2026
+  },
+  {
+    "id": "fc2fd529-dd71-5715-a18c-bfcf27dbb3d4",
+    "user_id": "5135c747-4334-53cd-aafc-53e5193d0ba8",
+    "unitid": 233921,
+    "university_label": "Virginia Polytechnic Institute and State University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Graphic Design",
+    "graduation_year": 2020
+  },
+  {
+    "id": "eaf3b09a-f96e-50c9-8dc1-0ad4a7ce384b",
+    "user_id": "5135c747-4334-53cd-aafc-53e5193d0ba8",
+    "unitid": 199120,
+    "university_label": "University of North Carolina at Chapel Hill",
+    "education_level": "PHD",
+    "field_of_study": "Graphic Design",
+    "graduation_year": 2026
+  },
+  {
+    "id": "cee11507-41bd-5c41-b6bf-a8ead050dbcf",
+    "user_id": "2a34f51a-0150-574b-b4dc-a7ce8ac3d798",
+    "unitid": 233921,
+    "university_label": "Virginia Polytechnic Institute and State University",
+    "education_level": "BACHELORS",
+    "field_of_study": "English",
+    "graduation_year": 2024
+  },
+  {
+    "id": "74f79131-7b80-5f7c-97aa-17c68d9c7ffd",
+    "user_id": "2b4cc623-41b2-5c38-a71b-74d9911d1b2c",
+    "unitid": 163286,
+    "university_label": "University of Maryland-College Park",
+    "education_level": "BACHELORS",
+    "field_of_study": "Supply Chain Management",
+    "graduation_year": 2025
+  },
+  {
+    "id": "b8b10734-0147-5c93-a20a-ec3332360651",
+    "user_id": "a8403750-e1db-588b-a15d-f64207315722",
+    "unitid": 233921,
+    "university_label": "Virginia Polytechnic Institute and State University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Marketing",
+    "graduation_year": 2027
+  },
+  {
+    "id": "6c28a077-0d7a-5be1-a0cd-17034f68169c",
+    "user_id": "b3c9e21f-a245-5507-a612-1bc55146e3ce",
+    "unitid": 228778,
+    "university_label": "The University of Texas at Austin",
+    "education_level": "BACHELORS",
+    "field_of_study": "Supply Chain Management",
+    "graduation_year": 2028
+  },
+  {
+    "id": "f5d7cf96-1db7-5be8-9bee-3bc0c6a67244",
+    "user_id": "173e3ee4-1384-5a2d-945e-583b445cb220",
+    "unitid": 126614,
+    "university_label": "University of Colorado Boulder",
+    "education_level": "BACHELORS",
+    "field_of_study": "Industrial Engineering",
+    "graduation_year": 2024
+  },
+  {
+    "id": "2293faf7-a4b8-58f6-abc3-168c0a6c8a04",
+    "user_id": "4b8b113a-545c-59e2-bec5-590bd9ad0979",
+    "unitid": 193900,
+    "university_label": "New York University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Industrial Design",
+    "graduation_year": 2025
+  },
+  {
+    "id": "419ef3bf-b6a4-5883-97be-202b6fcc200e",
+    "user_id": "965e4801-7b83-5135-83ed-911aab023d6d",
+    "unitid": 211440,
+    "university_label": "Carnegie Mellon University",
+    "education_level": "BACHELORS",
+    "field_of_study": "Applied Mathematics",
+    "graduation_year": 2025
+  }
+]

@@ -1,0 +1,60 @@
+candidate_profile_id,candidate_name,job_posting_id,job_title,expected_fit,reason
+cf2e44cb-8cf4-58b3-948a-cdd4a5bb32af,Kwame Martinez,9152dab8-ea99-5088-9af2-27f53f12848a,Associate Consultant,poor,"Same field, but only 1 required skill, opposite work arrangement, different city with no relocation, and salary target far above range"
+515e8af3-84c9-56eb-9f1d-0b448eccfc23,Priya Ibrahim,f6659323-7745-516f-aa9e-96511e1fbc85,SOC Analyst,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+77bc34e8-6a95-5f54-9b48-6a64faf94296,Lauren Sanchez,,,sparse_profile,Mostly empty profile: should still get results (FR-09) with a low criteria count
+29c2d57b-89a3-5a92-802f-1a1d4275a826,Daniel Kowalski,c8ec9d30-f4bc-5c31-8aaf-7af3c7939ce6,Content Writer,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+d6315079-4e9d-555d-8da6-70cd4122949a,Kevin Ali,ae270a1f-4b8b-5730-b235-5c2f8f71d20d,Field Operations Coordinator,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+b0b9e81b-ed33-5d9a-90ae-ed375cef35b3,Grace Carter,88ed330a-22b9-5e82-8dcc-e02e433f77ea,Full-Stack Developer,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+f0597755-2742-5a3a-826c-4e081f0ababb,Ava Johnson,2975a922-cc4c-5156-950e-2338d2b4921e,Logistics Analyst,poor,"Same field, but only 1 required skill, opposite work arrangement, different city with no relocation, and salary target far above range"
+72871f6f-596e-535a-bb67-25ab2f0813da,Maya Lopez,,,sparse_profile,Mostly empty profile: should still get results (FR-09) with a low criteria count
+5f395797-0faf-5836-aacb-d028fb94bf68,Ana Kumar,8e433f98-e56e-5c13-aa49-784c9e709841,Copywriter,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+aeeafa5c-4e1c-58b2-9c04-7695b7805000,Rahul Park,d0debf57-c700-575c-9add-eab72541f1cb,Assistant Project Manager,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+a11ef2a5-14fd-59a6-af0d-1019438ede14,Leila Vargas,ae0959d7-7500-5cd5-a267-0b3d0f5d5974,Financial Analyst,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+c0e37635-ad60-58fc-b878-585e6d448425,Yuki Sanchez,87ee4ae3-30fe-5655-acc4-cd210dfab62e,Digital Marketing Associate,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+63be965c-b684-55bb-9c98-66c57b6d7a20,Maya Nguyen,09e48d80-bf3f-59ea-a459-58a6e4eb4531,Junior Data Analyst,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+9e39a7c2-e9dc-5ac4-8b65-19d1f37d4dcb,Zoe Chen,adaa2d17-d741-5a5e-ac10-917edc33d516,Business Analyst,poor,"Same field, but only 1 required skill, opposite work arrangement, different city with no relocation, and salary target far above range"
+42f88439-4d3f-55d4-aefe-b5eea18fdc0b,Camila Scott,e78e4c31-d0c6-5e89-a585-610b4ed66d38,Field Operations Coordinator Intern,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+83b6b19a-53e6-557a-b0ec-a0dce16ff4d9,Emily Castillo,89b43ae6-f54b-5c99-8fe1-e5112a8c5695,Demand Planner,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+ac4fa4c9-8e3e-5ccb-98f9-eac1ccbc54a4,Daniel Ellis,0e664e72-b2e0-55ec-8c6b-66a938009658,Electrical Engineer,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+37cfbff6-f13d-547c-8029-18da85a51636,Samuel Thompson,1aebd063-5e78-5f32-b48c-6b1375155430,SOC Analyst Intern,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+7ef3d782-82c0-5ea7-a854-885d866cd576,Lauren Tanaka,7d4a17ff-e225-55ad-b198-e07dd3c0c31e,Hardware Engineer,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+8098f97f-c403-5a57-bebd-1b20f4da47ba,Ibrahim Singh,05125c23-af9e-5396-9cd4-e41f2c717b6d,Cybersecurity Analyst,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+0206f46d-b2b2-538e-b315-75ee822ffe0f,Tariq Lee,77f0e687-e27a-5512-afcb-f0c22a2e9b3b,Demand Planner,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+b25451fd-7463-5c8e-a4ae-7097577d1163,Elena Moore,,,sparse_profile,Mostly empty profile: should still get results (FR-09) with a low criteria count
+13876067-ed36-552d-84e5-486953f5c3d9,Ethan Scott,3da39a5a-eeab-5ca7-949f-22d5ef1f4a10,Project Engineer Intern,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+7054627e-604f-5817-b392-df12a420e72b,Amara Green,,,sparse_profile,Mostly empty profile: should still get results (FR-09) with a low criteria count
+80a2d4d3-ba38-54bd-bab9-c0d7bd09eca7,Jordan Ahmed,db525ac5-5ccf-5ef0-9d2d-f1a4a1afc0e8,Manufacturing Engineer Intern,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+5d300c7a-daa4-5304-ae9b-dbec0555bcd0,Andre Rodriguez,ee9a41b3-5702-545f-9201-e10b8c677291,People Operations Associate,poor,"Same field, but only 1 required skill, opposite work arrangement, different city with no relocation, and salary target far above range"
+ef0f5f2b-abd8-561f-b281-b5542c1ec214,Aiden Liu,,,sparse_profile,Mostly empty profile: should still get results (FR-09) with a low criteria count
+12ce391e-e863-52dc-b9ab-adf34a7e3edf,Amara Thompson,5a100beb-9d35-5d25-9e0f-d57c5329f363,Logistics Coordinator Intern,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+15e58560-74fa-50a1-86b6-88b57f7b5468,Nikhil Carter,,,sparse_profile,Mostly empty profile: should still get results (FR-09) with a low criteria count
+e7889972-ece5-524e-b34d-e02552965f36,Nikhil Tanaka,a3ca84b9-a5e7-56df-8a66-88450f2e6491,UX Designer,poor,"Same field, but only 1 required skill, opposite work arrangement, different city with no relocation, and salary target far above range"
+0fc33c40-b415-545d-a4a2-5daba604c2fd,Diego Lee,53ad9d6d-0a4a-5f1c-a5dd-0659dbb940f8,Demand Planner,strong,"Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+*,(any),46395559-8f68-5ad8-8eb0-6fdbff51edf5,UI/UX Designer,never_shown,Posting is paused
+*,(any),4aaa5e50-0052-55ee-9c82-a855a6f733c7,Clinical Data Associate Intern,never_shown,Posting is paused
+*,(any),f3b0d2ff-d1df-5758-a26a-0b775512b60d,Research Assistant Intern,never_shown,Posting is paused
+*,(any),8e7e087e-3743-526a-b12d-2dded0e93411,Quality Control Analyst,never_shown,Posting is paused
+*,(any),ef551142-1f86-5ab0-9687-cd6c78574453,Junior Data Analyst,never_shown,Posting is paused
+*,(any),c3e16be3-c9bd-5706-ac94-6d76136147f8,Business Intelligence Analyst,never_shown,Posting is closed
+*,(any),53f7d65f-7d15-5c38-b8d1-e8c2ba6240c5,Digital Marketing Associate,never_shown,Posting is closed
+*,(any),9eb59ce8-b8e8-5e55-b53c-a619335b359e,Mechanical Engineer,never_shown,Posting is closed
+*,(any),e58cdc46-409e-502c-a8c0-98f38e244dfa,Manufacturing Engineer,never_shown,Posting is paused
+*,(any),ba2e24bc-3806-597f-afb3-3806caccc941,Associate Consultant,never_shown,Posting is paused
+*,(any),5d4fff0c-77db-5c84-ad67-91f4ff529b55,Copywriter,never_shown,Posting is paused
+*,(any),beaa6e01-173f-5637-a705-8b79e92a7419,Data Scientist Intern,never_shown,Posting is closed
+*,(any),78186b26-2912-5f70-b143-81a2a4edb556,Design Engineer,never_shown,Posting is paused
+*,(any),1a405047-e6d0-5fbe-8c13-31e1aed0bb7f,Full-Stack Developer,never_shown,Posting is closed
+*,(any),dd94a15f-53c8-59d6-962a-9260b3a52fd8,Data Analyst,never_shown,Posting is closed
+*,(any),1d68b84b-ebdd-5542-9770-476d9e13cd2b,Quality Control Analyst,never_shown,Posting is paused
+*,(any),c07eeff3-9ee2-55e6-9adc-87c76fee54d2,Machine Learning Engineer Intern,never_shown,Posting is closed
+*,(any),8dc4fd38-4b5e-559e-87a3-7b2401ce112c,Backend Engineer Intern,never_shown,Posting is closed
+*,(any),8a5489c7-bd3c-5c42-b721-638d2b0925cb,Project Engineer Intern,never_shown,Posting is closed
+*,(any),05596183-91bb-5281-a852-7c37edc202c2,Field Operations Coordinator,never_shown,Posting is closed
+*,(any),9c725321-f880-5761-8915-61bcbeec5acb,Operations Coordinator,never_shown,Posting is closed
+*,(any),f2cbe968-e7fb-5fbf-a5b5-7ca6862fe955,Business Intelligence Analyst,never_shown,Posting is paused
+*,(any),069e0c8d-e196-51db-ae3e-8ba42b1f6780,Backend Engineer,never_shown,Posting is paused
+*,(any),b4ea07b3-7963-529d-8b94-71e298ff5fc8,Clinical Research Coordinator Intern,never_shown,Posting is paused
+*,(any),5c4aa2b7-867e-53f3-bbdc-8ce87ed725ff,Project Engineer,never_shown,Posting is closed
+*,(any),19a986b9-f7bd-55a1-8b50-94170498915e,Manufacturing Engineer Intern,never_shown,Posting is paused
+*,(any),74e8f493-910d-538d-b6d6-71c70148cd06,Clinical Data Associate Intern,never_shown,Posting is paused
+*,(any),ae5d02f2-ea99-594d-9388-ee86881be043,Lab Technician,never_shown,Posting is closed
