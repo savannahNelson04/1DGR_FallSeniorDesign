@@ -14,7 +14,9 @@ Run with:
 """
 
 import tkinter as tk
-from tkinter import ttk
+from tkinter import messagebox, ttk
+
+from ui_matching import MatchingBackend
 
 # STYLE CONSTANTS — light theme matching the 1DGR site (white cards,
 # serif headlines, muted gray body text, soft blue accent chips)
@@ -124,112 +126,27 @@ def center(win, w, h):
     win.geometry(f"{w}x{h}+{(sw - w) // 2}+{(sh - h) // 2}")
 
 
-# PLACEHOLDER / HARDCODED SAMPLE DATA
-# Every candidate has their own ranked list of jobs and companies, and every
-# job posting / company has its own ranked list of candidates — so each is
-# keyed by who/what you're viewing results for. Replace with real scoring +
-# imported profiles later; the dropdown + lookup pattern below can stay the same.
-# Match scores are NOT shown to users (they only rank the lists), so the
-# sample rows below carry no score column.
-CANDIDATE_NAMES = ["Jordan Price", "Riley Chen", "Sam Okafor"]
-
-JOB_POSTINGS = [
-    "Software Engineer I — Acme Robotics",
-    "Data Analyst — Northfield Health",
-]
-
-COMPANIES = [
-    "Acme Robotics",
-    "Northfield Health",
-    "Lumen Logistics",
-    "BrightPath Finance",
-    "Maple Retail Co.",
-]
-
-# candidate name -> top 5 job matches for THAT candidate
-# (rank, job_title, company, location)
-SAMPLE_JOB_MATCHES_BY_CANDIDATE = {
-    "Jordan Price": [
-        (1, "Software Engineer I", "Acme Robotics",      "Dallas, TX"),
-        (2, "Backend Developer",   "Lumen Logistics",    "Remote"),
-        (3, "Data Analyst",        "Northfield Health",  "Austin, TX"),
-        (4, "Product Analyst",     "BrightPath Finance", "Dallas, TX"),
-        (5, "Junior Developer",    "Maple Retail Co.",   "Houston, TX"),
-    ],
-    "Riley Chen": [
-        (1, "Data Analyst",        "Northfield Health",  "Austin, TX"),
-        (2, "Product Analyst",     "BrightPath Finance", "Dallas, TX"),
-        (3, "Software Engineer I", "Acme Robotics",      "Dallas, TX"),
-        (4, "Backend Developer",   "Lumen Logistics",    "Remote"),
-        (5, "Junior Developer",    "Maple Retail Co.",   "Houston, TX"),
-    ],
-    "Sam Okafor": [
-        (1, "Backend Developer",   "Lumen Logistics",    "Remote"),
-        (2, "Software Engineer I", "Acme Robotics",      "Dallas, TX"),
-        (3, "Junior Developer",    "Maple Retail Co.",   "Houston, TX"),
-        (4, "Data Analyst",        "Northfield Health",  "Austin, TX"),
-        (5, "Product Analyst",     "BrightPath Finance", "Dallas, TX"),
-    ],
-}
-
-# candidate name -> top 5 company matches for THAT candidate
-# (rank, company, industry, best_matching_role)
-# Each company is scored on its best-matching open role.
-SAMPLE_COMPANY_MATCHES_BY_CANDIDATE = {
-    "Jordan Price": [
-        (1, "Acme Robotics",      "Manufacturing", "Software Engineer I"),
-        (2, "Lumen Logistics",    "Logistics",     "Backend Developer"),
-        (3, "Northfield Health",  "Healthcare",    "Data Analyst"),
-        (4, "BrightPath Finance", "Finance",       "Product Analyst"),
-        (5, "Maple Retail Co.",   "Retail",        "Junior Developer"),
-    ],
-    "Riley Chen": [
-        (1, "Northfield Health",  "Healthcare",    "Data Analyst"),
-        (2, "BrightPath Finance", "Finance",       "Product Analyst"),
-        (3, "Acme Robotics",      "Manufacturing", "Software Engineer I"),
-        (4, "Lumen Logistics",    "Logistics",     "Backend Developer"),
-        (5, "Maple Retail Co.",   "Retail",        "Junior Developer"),
-    ],
-    "Sam Okafor": [
-        (1, "Lumen Logistics",    "Logistics",     "Backend Developer"),
-        (2, "Acme Robotics",      "Manufacturing", "Software Engineer I"),
-        (3, "Maple Retail Co.",   "Retail",        "Junior Developer"),
-        (4, "Northfield Health",  "Healthcare",    "Data Analyst"),
-        (5, "BrightPath Finance", "Finance",       "Product Analyst"),
-    ],
-}
-
-# Company side ranks candidates by PROFILE COMPLETION (not match score):
-# the more fields a candidate has filled in, the higher they appear.
-# (rank, candidate_name, target_role, profile_completion_pct)
-# Placeholder: the same completion ranking is used for every job posting
-# and every company until real profiles are imported.
-SAMPLE_CANDIDATES_BY_COMPLETION = [
-    (1, "Riley Chen",     "Data Analyst",        96),
-    (2, "Jordan Price",   "Software Engineer I", 92),
-    (3, "Sam Okafor",     "Backend Developer",   88),
-    (4, "Casey Nguyen",   "Product Analyst",     81),
-    (5, "Morgan Blake",   "Junior Developer",    74),
-]
-SAMPLE_CANDIDATES_BY_JOB = {j: SAMPLE_CANDIDATES_BY_COMPLETION for j in JOB_POSTINGS}
-SAMPLE_CANDIDATES_BY_COMPANY = {c: SAMPLE_CANDIDATES_BY_COMPLETION for c in COMPANIES}
-
-
+# DATA — rankings come from the matching algorithm (matching-algorithm/matching)
+# through ui_matching.MatchingBackend. Each dropdown choice is looked up when
+# Match is pressed. Match scores are NOT shown to users (they only rank the
+# lists), so no row carries a score column.
 # MATCH PAGE — reusable page used by both the Job <-> Candidate tab and the
 # Candidate <-> Company tab. Each page has two modes (a toggle at the top),
 # a dropdown that picks whose list to show, and a Match button at the bottom.
 # Results stay hidden until Match is pressed.
 class MatchPage(tk.Frame):
     """modes = two dicts, one per toggle button, each with:
-        label, title, subtitle, selector_label, options, rows (dict keyed by
-        the dropdown choice), columns (for make_tree), pct_col (index of a
-        column to show with a % sign, or None)"""
+        label, title, subtitle, selector_label, options, rows (function that
+        takes the dropdown choice and returns a list of row tuples, or a
+        message string when there is nothing to rank), columns (for
+        make_tree), pct_col (index of a column to show with a % sign, or None)"""
 
     def __init__(self, parent, modes):
         super().__init__(parent, bg=BG)
         self._modes = modes
         self._mode = 0  # which toggle button is active
-        self._vars = [tk.StringVar(value=m["options"][0]) for m in modes]
+        self._vars = [tk.StringVar(value=m["options"][0] if m["options"] else "")
+                      for m in modes]
 
         # Match button — fixed at the bottom of the page
         btn_row = tk.Frame(self, bg=BG, pady=14)
@@ -316,9 +233,22 @@ class MatchPage(tk.Frame):
                      font=FONT_BODY, bg=BG, fg=SUBTEXT).pack(pady=40)
             return
 
+        choice = self._vars[self._mode].get()
+        if not choice:
+            return self._render_results(show=False)
+        try:
+            rows = m["rows"](choice)
+        except Exception as exc:  # keep the UI alive if scoring hits bad data
+            rows = f"Couldn't compute matches: {exc}"
+
         self._results_title.set(m["title"])
+        if isinstance(rows, str):
+            # Nothing to rank (e.g., candidate failed the must-pass gate)
+            self._results_subtitle.set("")
+            tk.Label(self._table_slot, text=rows, font=FONT_BODY, bg=BG,
+                     fg=SUBTEXT, wraplength=680, justify="center").pack(pady=40)
+            return
         self._results_subtitle.set(m["subtitle"])
-        rows = m["rows"][self._vars[self._mode].get()]
         wrap, tree = make_tree(self._table_slot, m["columns"], height=5)
         wrap.pack(fill="both", expand=True)
         for i, row in enumerate(rows):
@@ -330,15 +260,15 @@ class MatchPage(tk.Frame):
 
 
 # JOB <-> CANDIDATE PAGE
-def build_job_candidate_page(parent):
+def build_job_candidate_page(parent, backend):
     return MatchPage(parent, [
         {
             "label": "Candidate → Jobs",
             "title": "Ranked Jobs",
             "subtitle": "Best-matching job postings for the selected candidate.",
             "selector_label": "Candidate:",
-            "options": CANDIDATE_NAMES,
-            "rows": SAMPLE_JOB_MATCHES_BY_CANDIDATE,
+            "options": list(backend.candidate_options),
+            "rows": backend.job_matches_for_candidate,
             "columns": [
                 ("rank", "Rank", 50),
                 ("job_title", "Job Title", 200),
@@ -352,8 +282,8 @@ def build_job_candidate_page(parent):
             "title": "Ranked Candidates",
             "subtitle": "Ranked by profile completion for the selected job posting.",
             "selector_label": "Job posting:",
-            "options": JOB_POSTINGS,
-            "rows": SAMPLE_CANDIDATES_BY_JOB,
+            "options": list(backend.job_options),
+            "rows": backend.candidates_for_job,
             "columns": [
                 ("rank", "Rank", 50),
                 ("candidate_name", "Candidate", 170),
@@ -366,15 +296,15 @@ def build_job_candidate_page(parent):
 
 
 # CANDIDATE <-> COMPANY PAGE
-def build_candidate_company_page(parent):
+def build_candidate_company_page(parent, backend):
     return MatchPage(parent, [
         {
             "label": "Candidate → Companies",
             "title": "Ranked Companies",
             "subtitle": "Each company is scored on its best-matching open role.",
             "selector_label": "Candidate:",
-            "options": CANDIDATE_NAMES,
-            "rows": SAMPLE_COMPANY_MATCHES_BY_CANDIDATE,
+            "options": list(backend.candidate_options),
+            "rows": backend.company_matches_for_candidate,
             "columns": [
                 ("rank", "Rank", 50),
                 ("company", "Company", 180),
@@ -388,8 +318,8 @@ def build_candidate_company_page(parent):
             "title": "Ranked Candidates",
             "subtitle": "Ranked by profile completion for the selected company.",
             "selector_label": "Company:",
-            "options": COMPANIES,
-            "rows": SAMPLE_CANDIDATES_BY_COMPANY,
+            "options": list(backend.company_options),
+            "rows": backend.candidates_for_company,
             "columns": [
                 ("rank", "Rank", 50),
                 ("candidate_name", "Candidate", 170),
@@ -416,8 +346,9 @@ class AdminPage(tk.Frame):
 class MainApp(tk.Tk):
     TABS = ["Job ↔ Candidate", "Candidate ↔ Company", "Admin"]
 
-    def __init__(self):
+    def __init__(self, backend):
         super().__init__()
+        self.backend = backend
         self.title("1DGR Matching Algorithm")
         self.configure(bg=BG)
         self.resizable(False, False)
@@ -442,10 +373,10 @@ class MainApp(tk.Tk):
         nav = tk.Frame(self, bg=BG, padx=20, pady=14)
         nav.pack(fill="x")
         make_button(nav, "Candidate Info",
-                    lambda: CandidateInfoWindow(self)).pack(side="left", expand=True,
+                    lambda: CandidateInfoWindow(self, self.backend)).pack(side="left", expand=True,
                                                              fill="x", padx=(0, 6))
         make_button(nav, "Job Info",
-                    lambda: JobInfoWindow(self)).pack(side="left", expand=True,
+                    lambda: JobInfoWindow(self, self.backend)).pack(side="left", expand=True,
                                                        fill="x", padx=(6, 0))
 
         # Tabs — switch between the three pages
@@ -455,16 +386,16 @@ class MainApp(tk.Tk):
         tk.Frame(self, bg=BORDER, height=1).pack(fill="x", padx=20, pady=(10, 0))
 
         # Footer note — packed before the page area so it always stays visible
-        tk.Label(self, text="Rankings shown are hardcoded sample data — "
-                            "the scoring engine isn't wired in yet.",
+        tk.Label(self, text="Rankings come from the matching algorithm "
+                            "(sample data). Scores are used to rank only.",
                  font=FONT_SMALL, bg=BG, fg=SUBTEXT).pack(side="bottom", pady=(0, 10))
 
         # Page area — all three pages live here, only one is shown at a time
         self._page_slot = tk.Frame(self, bg=BG)
         self._page_slot.pack(fill="both", expand=True)
         self._pages = [
-            build_job_candidate_page(self._page_slot),
-            build_candidate_company_page(self._page_slot),
+            build_job_candidate_page(self._page_slot, self.backend),
+            build_candidate_company_page(self._page_slot, self.backend),
             AdminPage(self._page_slot),
         ]
         self._pages[self._tab].pack(fill="both", expand=True)
@@ -507,8 +438,9 @@ class CandidateInfoWindow(tk.Toplevel):
         ("availability", "Availability", 110),
     ]
 
-    def __init__(self, parent):
+    def __init__(self, parent, backend):
         super().__init__(parent)
+        self.backend = backend
         self.title("Candidate Info")
         self.configure(bg=BG)
         self.resizable(True, True)
@@ -525,14 +457,15 @@ class CandidateInfoWindow(tk.Toplevel):
         body = tk.Frame(self, bg=BG, padx=16, pady=14)
         body.pack(fill="both", expand=True)
 
-        tk.Label(body, text="No candidate profiles imported yet — "
-                            "this table will populate once profile data is loaded.",
+        rows = self.backend.candidate_info_rows()
+        tk.Label(body, text=f"{len(rows)} candidate profiles loaded.",
                  font=FONT_SMALL, bg=BG, fg=SUBTEXT, anchor="w",
                  wraplength=760, justify="left").pack(fill="x", pady=(0, 10))
 
         wrap, tree = make_tree(body, self.COLUMNS, height=12)
         wrap.pack(fill="both", expand=True)
-        # No rows inserted — headers only, ready for imported data.
+        for i, row in enumerate(rows):
+            tree.insert("", "end", tags=("odd" if i % 2 else "even",), values=row)
 
 
 # JOB INFO WINDOW — table of all company/job fields (empty, imported later)
@@ -550,8 +483,9 @@ class JobInfoWindow(tk.Toplevel):
         ("time_to_fill", "Time to Fill", 110),
     ]
 
-    def __init__(self, parent):
+    def __init__(self, parent, backend):
         super().__init__(parent)
+        self.backend = backend
         self.title("Job Info")
         self.configure(bg=BG)
         self.resizable(True, True)
@@ -568,17 +502,25 @@ class JobInfoWindow(tk.Toplevel):
         body = tk.Frame(self, bg=BG, padx=16, pady=14)
         body.pack(fill="both", expand=True)
 
-        tk.Label(body, text="No company/job postings imported yet — "
-                            "this table will populate once profile data is loaded.",
+        rows = self.backend.job_info_rows()
+        tk.Label(body, text=f"{len(rows)} job postings loaded.",
                  font=FONT_SMALL, bg=BG, fg=SUBTEXT, anchor="w",
                  wraplength=760, justify="left").pack(fill="x", pady=(0, 10))
 
         wrap, tree = make_tree(body, self.COLUMNS, height=12)
         wrap.pack(fill="both", expand=True)
-        # No rows inserted — headers only, ready for imported data.
+        for i, row in enumerate(rows):
+            tree.insert("", "end", tags=("odd" if i % 2 else "even",), values=row)
 
 
 # Entry point
 if __name__ == "__main__":
-    app = MainApp()
+    try:
+        backend = MatchingBackend()
+    except Exception as exc:
+        root = tk.Tk()
+        root.withdraw()
+        messagebox.showerror("1DGR Matching", f"Couldn't load matching data:\n{exc}")
+        raise SystemExit(1)
+    app = MainApp(backend)
     app.mainloop()

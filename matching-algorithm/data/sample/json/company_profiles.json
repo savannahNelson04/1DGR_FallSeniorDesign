@@ -1,0 +1,5404 @@
+[
+  {
+    "user_id": "a026d9fb-77ce-5f37-bd9f-bbd62ebcc5fc",
+    "company_name": "Maple Software",
+    "company_pin": "MSX-9296",
+    "legal_first_name": "Olivia",
+    "industry": "Software",
+    "business_age": "10+ years",
+    "work_type": "Remote",
+    "headquarters": "Philadelphia, PA",
+    "company_size": "501-1000",
+    "company_email": "careers@maplesoftware.example",
+    "company_phone": "(215) 555-0100",
+    "logo_image_key": "sample/logos/maplesoftware.png",
+    "banner_image_key": "sample/banners/maplesoftware.jpg",
+    "locations": [
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "type": "HQ"
+      },
+      {
+        "city": "Detroit",
+        "state": "MI",
+        "type": "Office"
+      },
+      {
+        "city": "Nashville",
+        "state": "TN",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "SOC Analyst",
+      "SOC Analyst Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Samuel Bennett",
+        "title": "Account Executive",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://maplesoftware.example"
+    },
+    "core_values": [
+      "Transparency",
+      "Sustainability",
+      "Ownership",
+      "Work-life balance"
+    ],
+    "benefits_summary": [
+      "Commuter benefits",
+      "Medical, dental & vision",
+      "Summer Fridays",
+      "Learning stipend"
+    ],
+    "mission_statement": "Maple Software helps communities work smarter through software.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-02-26T07:37:00Z"
+  },
+  {
+    "user_id": "eedaac46-d0bf-5685-ba27-50d2bf795a2c",
+    "company_name": "Wildflower Finance",
+    "company_pin": "WFX-3149",
+    "legal_first_name": "Tyler",
+    "industry": "Financial Technology",
+    "business_age": "6-10 years",
+    "work_type": "On-site",
+    "headquarters": "Pittsburgh, PA",
+    "company_size": "201-500",
+    "company_email": "careers@wildflowerfinance.example",
+    "company_phone": "(412) 555-0100",
+    "logo_image_key": "sample/logos/wildflowerfinance.png",
+    "banner_image_key": "sample/banners/wildflowerfinance.jpg",
+    "locations": [
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "type": "HQ"
+      },
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "type": "Office"
+      },
+      {
+        "city": "Washington",
+        "state": "DC",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Associate Consultant",
+      "Cybersecurity Analyst",
+      "Financial Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Aiden Moore",
+        "title": "Financial Analyst",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://wildflowerfinance.example"
+    },
+    "core_values": [
+      "Ownership",
+      "Diversity",
+      "Community",
+      "Collaboration"
+    ],
+    "benefits_summary": [
+      "Relocation assistance",
+      "Commuter benefits",
+      "Learning stipend",
+      "Equity"
+    ],
+    "mission_statement": "Wildflower Finance helps small businesses work smarter through financial technology.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-05-02T04:09:00Z"
+  },
+  {
+    "user_id": "4bb5e8c0-870d-58cc-8d4e-e2d52b552046",
+    "company_name": "Summit Partners",
+    "company_pin": "SPX-8927",
+    "legal_first_name": "Arjun",
+    "industry": "Financial Services",
+    "business_age": "0-2 years",
+    "work_type": "On-site",
+    "headquarters": "Phoenix, AZ",
+    "company_size": "51-200",
+    "company_email": "careers@summitpartners.example",
+    "company_phone": "(602) 555-0100",
+    "logo_image_key": "sample/logos/summitpartners.png",
+    "banner_image_key": "sample/banners/summitpartners.jpg",
+    "locations": [
+      {
+        "city": "Phoenix",
+        "state": "AZ",
+        "type": "HQ"
+      },
+      {
+        "city": "Dallas",
+        "state": "TX",
+        "type": "Office"
+      },
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Investment Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Elena Sanchez",
+        "title": "Operations Analyst",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://summitpartners.example"
+    },
+    "core_values": [
+      "Collaboration",
+      "Creativity",
+      "Excellence",
+      "Diversity"
+    ],
+    "benefits_summary": [
+      "Tuition reimbursement",
+      "Equity",
+      "Relocation assistance",
+      "Commuter benefits"
+    ],
+    "mission_statement": "Summit Partners helps small businesses stay healthy through financial services.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-01-18T00:52:00Z"
+  },
+  {
+    "user_id": "d86972f6-9f6a-5687-bae7-404184b60c24",
+    "company_name": "Copper Clinical",
+    "company_pin": "CCX-4513",
+    "legal_first_name": "Chloe",
+    "industry": "Healthcare Technology",
+    "business_age": "6-10 years",
+    "work_type": "Hybrid",
+    "headquarters": "Boston, MA",
+    "company_size": "11-50",
+    "company_email": "careers@copperclinical.example",
+    "company_phone": "(617) 555-0100",
+    "logo_image_key": "sample/logos/copperclinical.png",
+    "banner_image_key": "sample/banners/copperclinical.jpg",
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "UI/UX Designer"
+    ],
+    "current_employees": [
+      {
+        "name": "Emily Chen",
+        "title": "Data Analyst",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://copperclinical.example"
+    },
+    "core_values": [
+      "Learning",
+      "Diversity",
+      "Collaboration",
+      "Excellence"
+    ],
+    "benefits_summary": [
+      "Unlimited PTO",
+      "Medical, dental & vision",
+      "Paid parental leave",
+      "Hybrid schedule"
+    ],
+    "mission_statement": "Copper Clinical helps partners learn every day through healthcare technology.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-09-16T14:11:00Z"
+  },
+  {
+    "user_id": "b6f8d40b-25cf-5025-bd43-3f4c1d83a689",
+    "company_name": "Crescent Clinics",
+    "company_pin": "CCX-4532",
+    "legal_first_name": "Kwame",
+    "industry": "Healthcare",
+    "business_age": "10+ years",
+    "work_type": "Remote",
+    "headquarters": "Los Angeles, CA",
+    "company_size": "11-50",
+    "company_email": "careers@crescentclinics.example",
+    "company_phone": "(213) 555-0100",
+    "logo_image_key": "sample/logos/crescentclinics.png",
+    "banner_image_key": "sample/banners/crescentclinics.jpg",
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Clinical Data Associate Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Isaac Yamamoto",
+        "title": "Research Assistant",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://crescentclinics.example"
+    },
+    "core_values": [
+      "Excellence",
+      "Ownership",
+      "Creativity",
+      "Growth"
+    ],
+    "benefits_summary": [
+      "Equity",
+      "Tuition reimbursement",
+      "Paid parental leave",
+      "Medical, dental & vision"
+    ],
+    "mission_statement": "Crescent Clinics helps partners learn every day through healthcare.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-02-06T09:56:00Z"
+  },
+  {
+    "user_id": "6bd6c5f2-76c1-5e4a-8a64-504ad668e969",
+    "company_name": "Cedar Biosciences",
+    "company_pin": "CBX-5518",
+    "legal_first_name": "Ryan",
+    "industry": "Biotechnology",
+    "business_age": "6-10 years",
+    "work_type": "On-site",
+    "headquarters": "Miami, FL",
+    "company_size": "51-200",
+    "company_email": "careers@cedarbiosciences.example",
+    "company_phone": "(305) 555-0100",
+    "logo_image_key": "sample/logos/cedarbiosciences.png",
+    "banner_image_key": "sample/banners/cedarbiosciences.jpg",
+    "locations": [
+      {
+        "city": "Miami",
+        "state": "FL",
+        "type": "HQ"
+      },
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "type": "Office"
+      },
+      {
+        "city": "Raleigh",
+        "state": "NC",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Quality Control Analyst",
+      "Research Assistant Intern",
+      "Quality Control Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Minh Patel",
+        "title": "Machine Learning Engineer",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://cedarbiosciences.example"
+    },
+    "core_values": [
+      "Creativity",
+      "Sustainability",
+      "Ownership",
+      "Community"
+    ],
+    "benefits_summary": [
+      "Commuter benefits",
+      "Unlimited PTO",
+      "Summer Fridays",
+      "Tuition reimbursement"
+    ],
+    "mission_statement": "Cedar Biosciences helps communities grow sustainably through biotechnology.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-03-08T10:08:00Z"
+  },
+  {
+    "user_id": "ee70d24f-6a17-5431-af41-8aa492048b89",
+    "company_name": "Granite Power",
+    "company_pin": "GPX-4109",
+    "legal_first_name": "Ana",
+    "industry": "Renewable Energy",
+    "business_age": "3-5 years",
+    "work_type": "On-site",
+    "headquarters": "Chicago, IL",
+    "company_size": "1-10",
+    "company_email": "careers@granitepower.example",
+    "company_phone": "(312) 555-0100",
+    "logo_image_key": "sample/logos/granitepower.png",
+    "banner_image_key": "sample/banners/granitepower.jpg",
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Manufacturing Engineer Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Jalen Davis",
+        "title": "Manufacturing Engineer",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://granitepower.example"
+    },
+    "core_values": [
+      "Innovation",
+      "Collaboration",
+      "Diversity",
+      "Integrity"
+    ],
+    "benefits_summary": [
+      "Wellness stipend",
+      "Unlimited PTO",
+      "Medical, dental & vision",
+      "Summer Fridays"
+    ],
+    "mission_statement": "Granite Power helps partners stay healthy through renewable energy.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-08-02T01:16:00Z"
+  },
+  {
+    "user_id": "ce265a56-1492-5d98-9c6e-f4d0f32ae7ba",
+    "company_name": "Falcon Freight",
+    "company_pin": "FFX-8772",
+    "legal_first_name": "Rahul",
+    "industry": "Logistics & Supply Chain",
+    "business_age": "10+ years",
+    "work_type": "On-site",
+    "headquarters": "Washington, DC",
+    "company_size": "11-50",
+    "company_email": "careers@falconfreight.example",
+    "company_phone": "(202) 555-0100",
+    "logo_image_key": "sample/logos/falconfreight.png",
+    "banner_image_key": "sample/banners/falconfreight.jpg",
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Demand Planner"
+    ],
+    "current_employees": [
+      {
+        "name": "Marcus Torres",
+        "title": "Field Operations Coordinator",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://falconfreight.example"
+    },
+    "core_values": [
+      "Transparency",
+      "Innovation",
+      "Learning",
+      "Work-life balance"
+    ],
+    "benefits_summary": [
+      "Commuter benefits",
+      "401(k) match",
+      "Home-office stipend",
+      "Tuition reimbursement"
+    ],
+    "mission_statement": "Falcon Freight helps customers learn every day through logistics & supply chain.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-04-06T10:44:00Z"
+  },
+  {
+    "user_id": "3ccd973b-7454-52fc-90c9-007a12e4148a",
+    "company_name": "Clear Works",
+    "company_pin": "CWX-4838",
+    "legal_first_name": "Olivia",
+    "industry": "Manufacturing",
+    "business_age": "6-10 years",
+    "work_type": "Remote",
+    "headquarters": "Detroit, MI",
+    "company_size": "1000+",
+    "company_email": "careers@clearworks.example",
+    "company_phone": "(313) 555-0100",
+    "logo_image_key": "sample/logos/clearworks.png",
+    "banner_image_key": "sample/banners/clearworks.jpg",
+    "locations": [
+      {
+        "city": "Detroit",
+        "state": "MI",
+        "type": "HQ"
+      },
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "type": "Office"
+      },
+      {
+        "city": "Columbus",
+        "state": "OH",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Electrical Engineer"
+    ],
+    "current_employees": [
+      {
+        "name": "Tyler Torres",
+        "title": "Design Engineer",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://clearworks.example"
+    },
+    "core_values": [
+      "Transparency",
+      "Sustainability",
+      "Creativity",
+      "Diversity"
+    ],
+    "benefits_summary": [
+      "Equity",
+      "Medical, dental & vision",
+      "Relocation assistance",
+      "Paid parental leave"
+    ],
+    "mission_statement": "Clear Works helps partners stay healthy through manufacturing.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-06-23T11:00:00Z"
+  },
+  {
+    "user_id": "005996e5-a4e3-51dd-bdb6-942e2d794381",
+    "company_name": "Iron Dynamics",
+    "company_pin": "IDX-8636",
+    "legal_first_name": "Paige",
+    "industry": "Aerospace",
+    "business_age": "3-5 years",
+    "work_type": "Hybrid",
+    "headquarters": "Portland, OR",
+    "company_size": "51-200",
+    "company_email": "careers@irondynamics.example",
+    "company_phone": "(503) 555-0100",
+    "logo_image_key": "sample/logos/irondynamics.png",
+    "banner_image_key": "sample/banners/irondynamics.jpg",
+    "locations": [
+      {
+        "city": "Portland",
+        "state": "OR",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Full-Stack Developer Intern",
+      "Full-Stack Developer",
+      "Controls Engineer Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Kevin Chen",
+        "title": "Backend Engineer",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://irondynamics.example"
+    },
+    "core_values": [
+      "Integrity",
+      "Transparency",
+      "Impact",
+      "Diversity"
+    ],
+    "benefits_summary": [
+      "Mentorship program",
+      "401(k) match",
+      "Wellness stipend",
+      "Unlimited PTO"
+    ],
+    "mission_statement": "Iron Dynamics helps partners build with confidence through aerospace.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-04-22T14:29:00Z"
+  },
+  {
+    "user_id": "1020f4cb-4a7c-52a2-a29d-43152c2761d7",
+    "company_name": "Westfield Builders",
+    "company_pin": "WBX-9004",
+    "legal_first_name": "Rahul",
+    "industry": "Construction & Engineering",
+    "business_age": "3-5 years",
+    "work_type": "Hybrid",
+    "headquarters": "Philadelphia, PA",
+    "company_size": "51-200",
+    "company_email": "careers@westfieldbuilders.example",
+    "company_phone": "(215) 555-0101",
+    "logo_image_key": "sample/logos/westfieldbuilders.png",
+    "banner_image_key": "sample/banners/westfieldbuilders.jpg",
+    "locations": [
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "type": "HQ"
+      },
+      {
+        "city": "Boston",
+        "state": "MA",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Operations Coordinator"
+    ],
+    "current_employees": [
+      {
+        "name": "Mateo Yamamoto",
+        "title": "Design Engineer",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://westfieldbuilders.example"
+    },
+    "core_values": [
+      "Ownership",
+      "Transparency",
+      "Work-life balance",
+      "Excellence"
+    ],
+    "benefits_summary": [
+      "Learning stipend",
+      "Hybrid schedule",
+      "Summer Fridays",
+      "Relocation assistance"
+    ],
+    "mission_statement": "Westfield Builders helps partners grow sustainably through construction & engineering.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-06-20T16:41:00Z"
+  },
+  {
+    "user_id": "1aff3c04-f695-5691-b6c2-eacb8d291ad2",
+    "company_name": "Silver Creative",
+    "company_pin": "SCX-3386",
+    "legal_first_name": "Minh",
+    "industry": "Marketing & Advertising",
+    "business_age": "0-2 years",
+    "work_type": "Remote",
+    "headquarters": "Portland, OR",
+    "company_size": "11-50",
+    "company_email": "careers@silvercreative.example",
+    "company_phone": "(503) 555-0101",
+    "logo_image_key": "sample/logos/silvercreative.png",
+    "banner_image_key": "sample/banners/silvercreative.jpg",
+    "locations": [
+      {
+        "city": "Portland",
+        "state": "OR",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Product Designer Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Yuki Okafor",
+        "title": "Marketing Coordinator",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://silvercreative.example"
+    },
+    "core_values": [
+      "Transparency",
+      "Work-life balance",
+      "Community",
+      "Growth"
+    ],
+    "benefits_summary": [
+      "Paid parental leave",
+      "Commuter benefits",
+      "Medical, dental & vision",
+      "Hybrid schedule"
+    ],
+    "mission_statement": "Silver Creative helps families grow sustainably through marketing & advertising.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-05-28T10:13:00Z"
+  },
+  {
+    "user_id": "cb94c827-441a-5556-9ce7-8808b02b056b",
+    "company_name": "Sable Pictures",
+    "company_pin": "SPX-1790",
+    "legal_first_name": "Ibrahim",
+    "industry": "Media & Entertainment",
+    "business_age": "6-10 years",
+    "work_type": "Hybrid",
+    "headquarters": "New York, NY",
+    "company_size": "201-500",
+    "company_email": "careers@sablepictures.example",
+    "company_phone": "(646) 555-0100",
+    "logo_image_key": "sample/logos/sablepictures.png",
+    "banner_image_key": "sample/banners/sablepictures.jpg",
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "UX Designer",
+      "UX Designer"
+    ],
+    "current_employees": [
+      {
+        "name": "Lauren Hassan",
+        "title": "Product Designer",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://sablepictures.example"
+    },
+    "core_values": [
+      "Sustainability",
+      "Innovation",
+      "Ownership",
+      "Work-life balance"
+    ],
+    "benefits_summary": [
+      "Mentorship program",
+      "Relocation assistance",
+      "401(k) match",
+      "Tuition reimbursement"
+    ],
+    "mission_statement": "Sable Pictures helps customers work smarter through media & entertainment.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-04-02T08:13:00Z"
+  },
+  {
+    "user_id": "71863048-6038-51cc-b429-fe70d56e357b",
+    "company_name": "Lakeshore Goods",
+    "company_pin": "LGX-5827",
+    "legal_first_name": "Rahul",
+    "industry": "Retail & E-commerce",
+    "business_age": "3-5 years",
+    "work_type": "Hybrid",
+    "headquarters": "Atlanta, GA",
+    "company_size": "1000+",
+    "company_email": "careers@lakeshoregoods.example",
+    "company_phone": "(404) 555-0100",
+    "logo_image_key": "sample/logos/lakeshoregoods.png",
+    "banner_image_key": "sample/banners/lakeshoregoods.jpg",
+    "locations": [
+      {
+        "city": "Atlanta",
+        "state": "GA",
+        "type": "HQ"
+      },
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "type": "Office"
+      },
+      {
+        "city": "Salt Lake City",
+        "state": "UT",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Social Media Specialist Intern",
+      "Demand Planner"
+    ],
+    "current_employees": [
+      {
+        "name": "Minh Baker",
+        "title": "Business Intelligence Analyst",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://lakeshoregoods.example"
+    },
+    "core_values": [
+      "Excellence",
+      "Work-life balance",
+      "Transparency",
+      "Impact"
+    ],
+    "benefits_summary": [
+      "Paid parental leave",
+      "Summer Fridays",
+      "Relocation assistance",
+      "Hybrid schedule"
+    ],
+    "mission_statement": "Lakeshore Goods helps families work smarter through retail & e-commerce.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-08-24T19:15:00Z"
+  },
+  {
+    "user_id": "4bfccb57-4264-55c0-9c26-62e6845de220",
+    "company_name": "Ridge Consulting",
+    "company_pin": "RCX-8888",
+    "legal_first_name": "Aaliyah",
+    "industry": "Consulting",
+    "business_age": "0-2 years",
+    "work_type": "Remote",
+    "headquarters": "Raleigh, NC",
+    "company_size": "201-500",
+    "company_email": "careers@ridgeconsulting.example",
+    "company_phone": "(919) 555-0100",
+    "logo_image_key": "sample/logos/ridgeconsulting.png",
+    "banner_image_key": "sample/banners/ridgeconsulting.jpg",
+    "locations": [
+      {
+        "city": "Raleigh",
+        "state": "NC",
+        "type": "HQ"
+      },
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Business Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Fatima Park",
+        "title": "Junior Data Analyst",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://ridgeconsulting.example"
+    },
+    "core_values": [
+      "Growth",
+      "Integrity",
+      "Impact",
+      "Excellence"
+    ],
+    "benefits_summary": [
+      "Summer Fridays",
+      "Unlimited PTO",
+      "Medical, dental & vision",
+      "Home-office stipend"
+    ],
+    "mission_statement": "Ridge Consulting helps customers work smarter through consulting.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-07-31T03:47:00Z"
+  },
+  {
+    "user_id": "cc863e39-4013-55af-ab57-0ce9934af6e8",
+    "company_name": "Golden Education",
+    "company_pin": "GEX-3440",
+    "legal_first_name": "Megan",
+    "industry": "Education Technology",
+    "business_age": "6-10 years",
+    "work_type": "On-site",
+    "headquarters": "Pittsburgh, PA",
+    "company_size": "201-500",
+    "company_email": "careers@goldeneducation.example",
+    "company_phone": "(412) 555-0101",
+    "logo_image_key": "sample/logos/goldeneducation.png",
+    "banner_image_key": "sample/banners/goldeneducation.jpg",
+    "locations": [
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Learning Experience Designer"
+    ],
+    "current_employees": [
+      {
+        "name": "Noah Mitchell",
+        "title": "Instructional Designer",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://goldeneducation.example"
+    },
+    "core_values": [
+      "Excellence",
+      "Diversity",
+      "Learning",
+      "Sustainability"
+    ],
+    "benefits_summary": [
+      "Unlimited PTO",
+      "Equity",
+      "Mentorship program",
+      "Summer Fridays"
+    ],
+    "mission_statement": "Golden Education helps customers build with confidence through education technology.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-07-04T07:47:00Z"
+  },
+  {
+    "user_id": "300d92b1-1a6c-5f6b-a129-0024a397435a",
+    "company_name": "Blue Security",
+    "company_pin": "BSX-5110",
+    "legal_first_name": "Chloe",
+    "industry": "Cybersecurity",
+    "business_age": "10+ years",
+    "work_type": "Remote",
+    "headquarters": "Salt Lake City, UT",
+    "company_size": "51-200",
+    "company_email": "careers@bluesecurity.example",
+    "company_phone": "(801) 555-0100",
+    "logo_image_key": "sample/logos/bluesecurity.png",
+    "banner_image_key": "sample/banners/bluesecurity.jpg",
+    "locations": [
+      {
+        "city": "Salt Lake City",
+        "state": "UT",
+        "type": "HQ"
+      },
+      {
+        "city": "Miami",
+        "state": "FL",
+        "type": "Office"
+      },
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Customer Success Associate Intern",
+      "Sales Development Representative"
+    ],
+    "current_employees": [
+      {
+        "name": "Tariq Scott",
+        "title": "Backend Engineer",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://bluesecurity.example"
+    },
+    "core_values": [
+      "Excellence",
+      "Innovation",
+      "Collaboration",
+      "Learning"
+    ],
+    "benefits_summary": [
+      "Summer Fridays",
+      "Relocation assistance",
+      "Medical, dental & vision",
+      "Learning stipend"
+    ],
+    "mission_statement": "Blue Security helps communities learn every day through cybersecurity.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-03-05T12:52:00Z"
+  },
+  {
+    "user_id": "e3cf7146-ae58-57a2-b95e-124d763a51fd",
+    "company_name": "Wildflower Network",
+    "company_pin": "WNX-7382",
+    "legal_first_name": "Minh",
+    "industry": "Nonprofit",
+    "business_age": "3-5 years",
+    "work_type": "Remote",
+    "headquarters": "San Francisco, CA",
+    "company_size": "11-50",
+    "company_email": "careers@wildflowernetwork.example",
+    "company_phone": "(415) 555-0100",
+    "logo_image_key": "sample/logos/wildflowernetwork.png",
+    "banner_image_key": "sample/banners/wildflowernetwork.jpg",
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Field Operations Coordinator",
+      "Copywriter"
+    ],
+    "current_employees": [
+      {
+        "name": "Maya Moore",
+        "title": "Social Media Specialist",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://wildflowernetwork.example"
+    },
+    "core_values": [
+      "Excellence",
+      "Community",
+      "Integrity",
+      "Ownership"
+    ],
+    "benefits_summary": [
+      "Summer Fridays",
+      "Equity",
+      "Paid parental leave",
+      "Medical, dental & vision"
+    ],
+    "mission_statement": "Wildflower Network helps small businesses grow sustainably through nonprofit.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-06-20T05:39:00Z"
+  },
+  {
+    "user_id": "d5875a7e-16a4-5503-b957-8ab562680dfe",
+    "company_name": "Amber Labs",
+    "company_pin": "ALX-8238",
+    "legal_first_name": "Megan",
+    "industry": "Biotechnology",
+    "business_age": "10+ years",
+    "work_type": "Hybrid",
+    "headquarters": "Pittsburgh, PA",
+    "company_size": "1-10",
+    "company_email": "careers@amberlabs.example",
+    "company_phone": "(412) 555-0102",
+    "logo_image_key": "sample/logos/amberlabs.png",
+    "banner_image_key": "sample/banners/amberlabs.jpg",
+    "locations": [
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Lab Technician Intern",
+      "Quality Control Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Jordan Clark",
+        "title": "Machine Learning Engineer",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://amberlabs.example"
+    },
+    "core_values": [
+      "Impact",
+      "Diversity",
+      "Collaboration",
+      "Community"
+    ],
+    "benefits_summary": [
+      "Unlimited PTO",
+      "401(k) match",
+      "Tuition reimbursement",
+      "Relocation assistance"
+    ],
+    "mission_statement": "Amber Labs helps families grow sustainably through biotechnology.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-08-15T17:30:00Z"
+  },
+  {
+    "user_id": "c20be118-32c7-562a-b432-f1af602f43cd",
+    "company_name": "Falcon Care",
+    "company_pin": "FCX-7951",
+    "legal_first_name": "Paige",
+    "industry": "Healthcare Technology",
+    "business_age": "10+ years",
+    "work_type": "On-site",
+    "headquarters": "Chicago, IL",
+    "company_size": "201-500",
+    "company_email": "careers@falconcare.example",
+    "company_phone": "(312) 555-0101",
+    "logo_image_key": "sample/logos/falconcare.png",
+    "banner_image_key": "sample/banners/falconcare.jpg",
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Clinical Research Coordinator",
+      "Junior Data Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Sara Anderson",
+        "title": "Full-Stack Developer",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://falconcare.example"
+    },
+    "core_values": [
+      "Community",
+      "Creativity",
+      "Sustainability",
+      "Transparency"
+    ],
+    "benefits_summary": [
+      "Paid parental leave",
+      "Summer Fridays",
+      "Equity",
+      "Mentorship program"
+    ],
+    "mission_statement": "Falcon Care helps small businesses move faster through healthcare technology.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-06-11T08:48:00Z"
+  },
+  {
+    "user_id": "cb13b92f-58cd-5d13-bdf1-89cd9ea6ddf9",
+    "company_name": "Prairie Agency",
+    "company_pin": "PAX-9582",
+    "legal_first_name": "Kevin",
+    "industry": "Marketing & Advertising",
+    "business_age": "3-5 years",
+    "work_type": "On-site",
+    "headquarters": "Chicago, IL",
+    "company_size": "1000+",
+    "company_email": "careers@prairieagency.example",
+    "company_phone": "(312) 555-0102",
+    "logo_image_key": "sample/logos/prairieagency.png",
+    "banner_image_key": "sample/banners/prairieagency.jpg",
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "type": "HQ"
+      },
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Social Media Specialist Intern",
+      "Marketing Coordinator",
+      "Account Executive"
+    ],
+    "current_employees": [
+      {
+        "name": "Diego Singh",
+        "title": "Communications Associate",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://prairieagency.example"
+    },
+    "core_values": [
+      "Impact",
+      "Learning",
+      "Integrity",
+      "Sustainability"
+    ],
+    "benefits_summary": [
+      "Equity",
+      "401(k) match",
+      "Paid parental leave",
+      "Mentorship program"
+    ],
+    "mission_statement": "Prairie Agency helps small businesses work smarter through marketing & advertising.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-08-31T01:30:00Z"
+  },
+  {
+    "user_id": "8e495696-7007-5c8b-8cf8-b66916cfe220",
+    "company_name": "Beacon Capital",
+    "company_pin": "BCX-9065",
+    "legal_first_name": "Ryan",
+    "industry": "Financial Services",
+    "business_age": "10+ years",
+    "work_type": "On-site",
+    "headquarters": "New York, NY",
+    "company_size": "1-10",
+    "company_email": "careers@beaconcapital.example",
+    "company_phone": "(646) 555-0101",
+    "logo_image_key": "sample/logos/beaconcapital.png",
+    "banner_image_key": "sample/banners/beaconcapital.jpg",
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Investment Analyst",
+      "Investment Analyst",
+      "Investment Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Amara Hernandez",
+        "title": "FP&A Analyst",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://beaconcapital.example"
+    },
+    "core_values": [
+      "Excellence",
+      "Innovation",
+      "Integrity",
+      "Ownership"
+    ],
+    "benefits_summary": [
+      "Tuition reimbursement",
+      "Relocation assistance",
+      "Unlimited PTO",
+      "Commuter benefits"
+    ],
+    "mission_statement": "Beacon Capital helps customers stay healthy through financial services.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-02-21T10:21:00Z"
+  },
+  {
+    "user_id": "d8d3e732-6f69-5cda-b6a5-45daa09751c6",
+    "company_name": "Sable Cloud",
+    "company_pin": "SCX-3938",
+    "legal_first_name": "Jordan",
+    "industry": "Software",
+    "business_age": "6-10 years",
+    "work_type": "Hybrid",
+    "headquarters": "Portland, OR",
+    "company_size": "1000+",
+    "company_email": "careers@sablecloud.example",
+    "company_phone": "(503) 555-0102",
+    "logo_image_key": "sample/logos/sablecloud.png",
+    "banner_image_key": "sample/banners/sablecloud.jpg",
+    "locations": [
+      {
+        "city": "Portland",
+        "state": "OR",
+        "type": "HQ"
+      },
+      {
+        "city": "Columbus",
+        "state": "OH",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Cybersecurity Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Lauren Hernandez",
+        "title": "UX Designer",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://sablecloud.example"
+    },
+    "core_values": [
+      "Ownership",
+      "Diversity",
+      "Integrity",
+      "Learning"
+    ],
+    "benefits_summary": [
+      "Equity",
+      "Mentorship program",
+      "Paid parental leave",
+      "Learning stipend"
+    ],
+    "mission_statement": "Sable Cloud helps families build with confidence through software.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-01-25T16:07:00Z"
+  },
+  {
+    "user_id": "a9c7a1f0-3309-5e6e-a106-a22091bcc79c",
+    "company_name": "Larkspur Works",
+    "company_pin": "LWX-2218",
+    "legal_first_name": "Omar",
+    "industry": "Manufacturing",
+    "business_age": "3-5 years",
+    "work_type": "Hybrid",
+    "headquarters": "Miami, FL",
+    "company_size": "11-50",
+    "company_email": "careers@larkspurworks.example",
+    "company_phone": "(305) 555-0101",
+    "logo_image_key": "sample/logos/larkspurworks.png",
+    "banner_image_key": "sample/banners/larkspurworks.jpg",
+    "locations": [
+      {
+        "city": "Miami",
+        "state": "FL",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Electrical Engineer Intern",
+      "Field Operations Coordinator"
+    ],
+    "current_employees": [
+      {
+        "name": "Ethan Ibrahim",
+        "title": "Logistics Analyst",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://larkspurworks.example"
+    },
+    "core_values": [
+      "Collaboration",
+      "Diversity",
+      "Learning",
+      "Transparency"
+    ],
+    "benefits_summary": [
+      "Paid parental leave",
+      "Equity",
+      "Relocation assistance",
+      "Medical, dental & vision"
+    ],
+    "mission_statement": "Larkspur Works helps partners build with confidence through manufacturing.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-06-23T18:46:00Z"
+  },
+  {
+    "user_id": "55595c6b-6bec-5b8b-8ca9-3314428ba688",
+    "company_name": "Harbor Partners",
+    "company_pin": "HPX-3921",
+    "legal_first_name": "Priya",
+    "industry": "Financial Services",
+    "business_age": "3-5 years",
+    "work_type": "Hybrid",
+    "headquarters": "Miami, FL",
+    "company_size": "1-10",
+    "company_email": "careers@harborpartners.example",
+    "company_phone": "(305) 555-0102",
+    "logo_image_key": "sample/logos/harborpartners.png",
+    "banner_image_key": "sample/banners/harborpartners.jpg",
+    "locations": [
+      {
+        "city": "Miami",
+        "state": "FL",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Financial Analyst",
+      "Business Intelligence Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Ava Raman",
+        "title": "Financial Analyst",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://harborpartners.example"
+    },
+    "core_values": [
+      "Sustainability",
+      "Impact",
+      "Ownership",
+      "Learning"
+    ],
+    "benefits_summary": [
+      "Commuter benefits",
+      "Hybrid schedule",
+      "Summer Fridays",
+      "Home-office stipend"
+    ],
+    "mission_statement": "Harbor Partners helps teams work smarter through financial services.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-06-14T21:39:00Z"
+  },
+  {
+    "user_id": "7150278e-2b2b-512e-b039-3f941dfdd088",
+    "company_name": "Mosaic Education",
+    "company_pin": "MEX-7161",
+    "legal_first_name": "Wei",
+    "industry": "Education Technology",
+    "business_age": "6-10 years",
+    "work_type": "On-site",
+    "headquarters": "Charlotte, NC",
+    "company_size": "501-1000",
+    "company_email": "careers@mosaiceducation.example",
+    "company_phone": "(704) 555-0100",
+    "logo_image_key": "sample/logos/mosaiceducation.png",
+    "banner_image_key": "sample/banners/mosaiceducation.jpg",
+    "locations": [
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Software Engineer Intern",
+      "UX Designer Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Hannah Lee",
+        "title": "Account Executive",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://mosaiceducation.example"
+    },
+    "core_values": [
+      "Ownership",
+      "Community",
+      "Collaboration",
+      "Transparency"
+    ],
+    "benefits_summary": [
+      "Medical, dental & vision",
+      "Unlimited PTO",
+      "Summer Fridays",
+      "Hybrid schedule"
+    ],
+    "mission_statement": "Mosaic Education helps small businesses build with confidence through education technology.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-04-01T06:57:00Z"
+  },
+  {
+    "user_id": "66acb57e-f977-52b1-b7e1-ef33dacac8a1",
+    "company_name": "Granite Aviation",
+    "company_pin": "GAX-2952",
+    "legal_first_name": "Tariq",
+    "industry": "Aerospace",
+    "business_age": "0-2 years",
+    "work_type": "Hybrid",
+    "headquarters": "Chicago, IL",
+    "company_size": "11-50",
+    "company_email": "careers@graniteaviation.example",
+    "company_phone": "(312) 555-0103",
+    "logo_image_key": "sample/logos/graniteaviation.png",
+    "banner_image_key": "sample/banners/graniteaviation.jpg",
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Full-Stack Developer",
+      "Hardware Engineer",
+      "Hardware Engineer"
+    ],
+    "current_employees": [
+      {
+        "name": "Gabriela Ortiz",
+        "title": "Design Engineer",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://graniteaviation.example"
+    },
+    "core_values": [
+      "Work-life balance",
+      "Sustainability",
+      "Learning",
+      "Community"
+    ],
+    "benefits_summary": [
+      "401(k) match",
+      "Unlimited PTO",
+      "Mentorship program",
+      "Hybrid schedule"
+    ],
+    "mission_statement": "Granite Aviation helps customers grow sustainably through aerospace.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-03-15T13:46:00Z"
+  },
+  {
+    "user_id": "6e87ef85-2eae-51d1-b793-43af4a9aded3",
+    "company_name": "Summit Agency",
+    "company_pin": "SAX-2913",
+    "legal_first_name": "Mateo",
+    "industry": "Marketing & Advertising",
+    "business_age": "3-5 years",
+    "work_type": "Remote",
+    "headquarters": "Houston, TX",
+    "company_size": "1000+",
+    "company_email": "careers@summitagency.example",
+    "company_phone": "(713) 555-0100",
+    "logo_image_key": "sample/logos/summitagency.png",
+    "banner_image_key": "sample/banners/summitagency.jpg",
+    "locations": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "type": "HQ"
+      },
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Marketing Coordinator"
+    ],
+    "current_employees": [
+      {
+        "name": "Fatima Thompson",
+        "title": "Digital Marketing Associate",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://summitagency.example"
+    },
+    "core_values": [
+      "Community",
+      "Integrity",
+      "Ownership",
+      "Diversity"
+    ],
+    "benefits_summary": [
+      "Wellness stipend",
+      "Unlimited PTO",
+      "401(k) match",
+      "Learning stipend"
+    ],
+    "mission_statement": "Summit Agency helps customers grow sustainably through marketing & advertising.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-01-23T20:17:00Z"
+  },
+  {
+    "user_id": "33a49ccb-c5af-5b20-82e3-6c12de37a608",
+    "company_name": "Copper Medical Group",
+    "company_pin": "CMG-4740",
+    "legal_first_name": "Amara",
+    "industry": "Healthcare",
+    "business_age": "3-5 years",
+    "work_type": "On-site",
+    "headquarters": "New York, NY",
+    "company_size": "501-1000",
+    "company_email": "careers@coppermedicalgroup.example",
+    "company_phone": "(646) 555-0102",
+    "logo_image_key": "sample/logos/coppermedicalgroup.png",
+    "banner_image_key": "sample/banners/coppermedicalgroup.jpg",
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "type": "HQ"
+      },
+      {
+        "city": "Philadelphia",
+        "state": "PA",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Field Operations Coordinator",
+      "Business Intelligence Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Olivia Osei",
+        "title": "Recruiting Coordinator",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://coppermedicalgroup.example"
+    },
+    "core_values": [
+      "Sustainability",
+      "Learning",
+      "Impact",
+      "Transparency"
+    ],
+    "benefits_summary": [
+      "Commuter benefits",
+      "Summer Fridays",
+      "Equity",
+      "Tuition reimbursement"
+    ],
+    "mission_statement": "Copper Medical Group helps customers move faster through healthcare.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-07-17T06:59:00Z"
+  },
+  {
+    "user_id": "61a247f3-b8ef-5b22-bb3c-84d5c2808e71",
+    "company_name": "North Aviation",
+    "company_pin": "NAX-2851",
+    "legal_first_name": "Noah",
+    "industry": "Aerospace",
+    "business_age": "10+ years",
+    "work_type": "On-site",
+    "headquarters": "Minneapolis, MN",
+    "company_size": "11-50",
+    "company_email": "careers@northaviation.example",
+    "company_phone": "(612) 555-0100",
+    "logo_image_key": "sample/logos/northaviation.png",
+    "banner_image_key": "sample/banners/northaviation.jpg",
+    "locations": [
+      {
+        "city": "Minneapolis",
+        "state": "MN",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Electrical Engineer",
+      "Manufacturing Engineer",
+      "Full-Stack Developer"
+    ],
+    "current_employees": [
+      {
+        "name": "Amara Rivera",
+        "title": "Hardware Engineer",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://northaviation.example"
+    },
+    "core_values": [
+      "Learning",
+      "Growth",
+      "Excellence",
+      "Innovation"
+    ],
+    "benefits_summary": [
+      "Mentorship program",
+      "Learning stipend",
+      "Tuition reimbursement",
+      "Wellness stipend"
+    ],
+    "mission_statement": "North Aviation helps teams learn every day through aerospace.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-06-14T14:14:00Z"
+  },
+  {
+    "user_id": "5e0d5099-a348-5ec9-89e3-fa30713c4047",
+    "company_name": "Silver Partners",
+    "company_pin": "SPX-7127",
+    "legal_first_name": "Sofia",
+    "industry": "Consulting",
+    "business_age": "3-5 years",
+    "work_type": "Hybrid",
+    "headquarters": "Boston, MA",
+    "company_size": "1-10",
+    "company_email": "careers@silverpartners.example",
+    "company_phone": "(617) 555-0101",
+    "logo_image_key": "sample/logos/silverpartners.png",
+    "banner_image_key": "sample/banners/silverpartners.jpg",
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "People Operations Associate"
+    ],
+    "current_employees": [
+      {
+        "name": "Liam Nguyen",
+        "title": "Associate Consultant",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://silverpartners.example"
+    },
+    "core_values": [
+      "Collaboration",
+      "Innovation",
+      "Diversity",
+      "Community"
+    ],
+    "benefits_summary": [
+      "Home-office stipend",
+      "Summer Fridays",
+      "Relocation assistance",
+      "Learning stipend"
+    ],
+    "mission_statement": "Silver Partners helps teams work smarter through consulting.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-01-23T07:10:00Z"
+  },
+  {
+    "user_id": "fec1b1ed-dfc1-5a98-a1f1-2da4d5829d40",
+    "company_name": "Ridge Entertainment",
+    "company_pin": "REX-3814",
+    "legal_first_name": "Tyler",
+    "industry": "Media & Entertainment",
+    "business_age": "6-10 years",
+    "work_type": "Remote",
+    "headquarters": "Houston, TX",
+    "company_size": "51-200",
+    "company_email": "careers@ridgeentertainment.example",
+    "company_phone": "(713) 555-0101",
+    "logo_image_key": "sample/logos/ridgeentertainment.png",
+    "banner_image_key": "sample/banners/ridgeentertainment.jpg",
+    "locations": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "type": "HQ"
+      },
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Copywriter Intern",
+      "Content Writer",
+      "Communications Associate Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Fatima Wright",
+        "title": "Product Designer",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://ridgeentertainment.example"
+    },
+    "core_values": [
+      "Creativity",
+      "Learning",
+      "Ownership",
+      "Excellence"
+    ],
+    "benefits_summary": [
+      "Relocation assistance",
+      "Summer Fridays",
+      "Wellness stipend",
+      "Medical, dental & vision"
+    ],
+    "mission_statement": "Ridge Entertainment helps customers build with confidence through media & entertainment.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-01-22T14:34:00Z"
+  },
+  {
+    "user_id": "5a218ad1-01c4-5729-b9ed-eea3ef0fa040",
+    "company_name": "Summit Distribution",
+    "company_pin": "SDX-9736",
+    "legal_first_name": "Hannah",
+    "industry": "Logistics & Supply Chain",
+    "business_age": "6-10 years",
+    "work_type": "On-site",
+    "headquarters": "Boston, MA",
+    "company_size": "1000+",
+    "company_email": "careers@summitdistribution.example",
+    "company_phone": "(617) 555-0102",
+    "logo_image_key": "sample/logos/summitdistribution.png",
+    "banner_image_key": "sample/banners/summitdistribution.jpg",
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "type": "HQ"
+      },
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "type": "Office"
+      },
+      {
+        "city": "Nashville",
+        "state": "TN",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Logistics Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Imani Castillo",
+        "title": "Business Analyst",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://summitdistribution.example"
+    },
+    "core_values": [
+      "Work-life balance",
+      "Integrity",
+      "Growth",
+      "Impact"
+    ],
+    "benefits_summary": [
+      "Unlimited PTO",
+      "Paid parental leave",
+      "Equity",
+      "401(k) match"
+    ],
+    "mission_statement": "Summit Distribution helps communities move faster through logistics & supply chain.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-05-02T07:21:00Z"
+  },
+  {
+    "user_id": "9548a6e6-dc51-580e-be66-bca432362069",
+    "company_name": "Cedar Agency",
+    "company_pin": "CAX-2106",
+    "legal_first_name": "Amara",
+    "industry": "Marketing & Advertising",
+    "business_age": "3-5 years",
+    "work_type": "On-site",
+    "headquarters": "Charlotte, NC",
+    "company_size": "1000+",
+    "company_email": "careers@cedaragency.example",
+    "company_phone": "(704) 555-0101",
+    "logo_image_key": "sample/logos/cedaragency.png",
+    "banner_image_key": "sample/banners/cedaragency.jpg",
+    "locations": [
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "type": "HQ"
+      },
+      {
+        "city": "Raleigh",
+        "state": "NC",
+        "type": "Office"
+      },
+      {
+        "city": "Miami",
+        "state": "FL",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Product Designer"
+    ],
+    "current_employees": [
+      {
+        "name": "Arjun Sanchez",
+        "title": "Product Designer",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://cedaragency.example"
+    },
+    "core_values": [
+      "Transparency",
+      "Creativity",
+      "Innovation",
+      "Diversity"
+    ],
+    "benefits_summary": [
+      "Learning stipend",
+      "401(k) match",
+      "Tuition reimbursement",
+      "Mentorship program"
+    ],
+    "mission_statement": "Cedar Agency helps families learn every day through marketing & advertising.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-03-26T14:08:00Z"
+  },
+  {
+    "user_id": "a7f4d5db-de9f-5ee9-8901-8bb38b32d6d8",
+    "company_name": "Zephyr Fabrication",
+    "company_pin": "ZFX-5776",
+    "legal_first_name": "Marcus",
+    "industry": "Manufacturing",
+    "business_age": "3-5 years",
+    "work_type": "Remote",
+    "headquarters": "Indianapolis, IN",
+    "company_size": "51-200",
+    "company_email": "careers@zephyrfabrication.example",
+    "company_phone": "(317) 555-0100",
+    "logo_image_key": "sample/logos/zephyrfabrication.png",
+    "banner_image_key": "sample/banners/zephyrfabrication.jpg",
+    "locations": [
+      {
+        "city": "Indianapolis",
+        "state": "IN",
+        "type": "HQ"
+      },
+      {
+        "city": "Minneapolis",
+        "state": "MN",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Logistics Coordinator Intern",
+      "Field Operations Coordinator"
+    ],
+    "current_employees": [
+      {
+        "name": "Ava Carter",
+        "title": "Field Operations Coordinator",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://zephyrfabrication.example"
+    },
+    "core_values": [
+      "Ownership",
+      "Excellence",
+      "Work-life balance",
+      "Sustainability"
+    ],
+    "benefits_summary": [
+      "Relocation assistance",
+      "Paid parental leave",
+      "Learning stipend",
+      "401(k) match"
+    ],
+    "mission_statement": "Zephyr Fabrication helps teams grow sustainably through manufacturing.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-02-04T15:14:00Z"
+  },
+  {
+    "user_id": "7e45ea2d-5b0c-511f-b218-12d9ca74fc21",
+    "company_name": "Driftwood Dynamics",
+    "company_pin": "DDX-4466",
+    "legal_first_name": "Andre",
+    "industry": "Aerospace",
+    "business_age": "6-10 years",
+    "work_type": "Remote",
+    "headquarters": "Atlanta, GA",
+    "company_size": "11-50",
+    "company_email": "careers@driftwooddynamics.example",
+    "company_phone": "(404) 555-0101",
+    "logo_image_key": "sample/logos/driftwooddynamics.png",
+    "banner_image_key": "sample/banners/driftwooddynamics.jpg",
+    "locations": [
+      {
+        "city": "Atlanta",
+        "state": "GA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Electrical Engineer Intern",
+      "Hardware Engineer"
+    ],
+    "current_employees": [
+      {
+        "name": "Minh Thompson",
+        "title": "Design Engineer",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://driftwooddynamics.example"
+    },
+    "core_values": [
+      "Sustainability",
+      "Creativity",
+      "Ownership",
+      "Excellence"
+    ],
+    "benefits_summary": [
+      "Learning stipend",
+      "Equity",
+      "Commuter benefits",
+      "Home-office stipend"
+    ],
+    "mission_statement": "Driftwood Dynamics helps partners move faster through aerospace.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-05-18T17:46:00Z"
+  },
+  {
+    "user_id": "e786aea3-fefb-58dd-a360-c050728441a7",
+    "company_name": "Aspen Bank",
+    "company_pin": "ABX-1794",
+    "legal_first_name": "Elena",
+    "industry": "Financial Services",
+    "business_age": "6-10 years",
+    "work_type": "Remote",
+    "headquarters": "New York, NY",
+    "company_size": "51-200",
+    "company_email": "careers@aspenbank.example",
+    "company_phone": "(646) 555-0103",
+    "logo_image_key": "sample/logos/aspenbank.png",
+    "banner_image_key": "sample/banners/aspenbank.jpg",
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "type": "HQ"
+      },
+      {
+        "city": "Seattle",
+        "state": "WA",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Sales Development Representative",
+      "Junior Data Analyst",
+      "Data Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Tyler Kumar",
+        "title": "Account Executive",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://aspenbank.example"
+    },
+    "core_values": [
+      "Diversity",
+      "Impact",
+      "Innovation",
+      "Work-life balance"
+    ],
+    "benefits_summary": [
+      "401(k) match",
+      "Unlimited PTO",
+      "Relocation assistance",
+      "Learning stipend"
+    ],
+    "mission_statement": "Aspen Bank helps small businesses work smarter through financial services.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-02-20T05:38:00Z"
+  },
+  {
+    "user_id": "316f7a57-5ff6-50ef-9094-34da3043d84b",
+    "company_name": "Meridian Partners",
+    "company_pin": "MPX-1857",
+    "legal_first_name": "Ryan",
+    "industry": "Consulting",
+    "business_age": "6-10 years",
+    "work_type": "Hybrid",
+    "headquarters": "Phoenix, AZ",
+    "company_size": "51-200",
+    "company_email": "careers@meridianpartners.example",
+    "company_phone": "(602) 555-0101",
+    "logo_image_key": "sample/logos/meridianpartners.png",
+    "banner_image_key": "sample/banners/meridianpartners.jpg",
+    "locations": [
+      {
+        "city": "Phoenix",
+        "state": "AZ",
+        "type": "HQ"
+      },
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "type": "Office"
+      },
+      {
+        "city": "Raleigh",
+        "state": "NC",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Business Analyst",
+      "Business Intelligence Analyst Intern",
+      "Junior Data Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Gabriela Young",
+        "title": "Operations Analyst",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://meridianpartners.example"
+    },
+    "core_values": [
+      "Community",
+      "Work-life balance",
+      "Creativity",
+      "Sustainability"
+    ],
+    "benefits_summary": [
+      "Equity",
+      "401(k) match",
+      "Hybrid schedule",
+      "Paid parental leave"
+    ],
+    "mission_statement": "Meridian Partners helps communities build with confidence through consulting.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-04-06T23:57:00Z"
+  },
+  {
+    "user_id": "a29fb8d1-2314-5a0f-b42a-3f713e8bb287",
+    "company_name": "Westfield Construction",
+    "company_pin": "WCX-6691",
+    "legal_first_name": "Omar",
+    "industry": "Construction & Engineering",
+    "business_age": "3-5 years",
+    "work_type": "Hybrid",
+    "headquarters": "Miami, FL",
+    "company_size": "501-1000",
+    "company_email": "careers@westfieldconstruction.example",
+    "company_phone": "(305) 555-0103",
+    "logo_image_key": "sample/logos/westfieldconstruction.png",
+    "banner_image_key": "sample/banners/westfieldconstruction.jpg",
+    "locations": [
+      {
+        "city": "Miami",
+        "state": "FL",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Operations Coordinator",
+      "Field Engineer"
+    ],
+    "current_employees": [
+      {
+        "name": "Rahul Kim",
+        "title": "Field Engineer",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://westfieldconstruction.example"
+    },
+    "core_values": [
+      "Sustainability",
+      "Excellence",
+      "Impact",
+      "Transparency"
+    ],
+    "benefits_summary": [
+      "401(k) match",
+      "Learning stipend",
+      "Mentorship program",
+      "Home-office stipend"
+    ],
+    "mission_statement": "Westfield Construction helps customers stay healthy through construction & engineering.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-01-23T16:04:00Z"
+  },
+  {
+    "user_id": "536828fc-5725-555b-96a7-bfadd6e35409",
+    "company_name": "Harbor Media",
+    "company_pin": "HMX-5369",
+    "legal_first_name": "Camila",
+    "industry": "Media & Entertainment",
+    "business_age": "10+ years",
+    "work_type": "Remote",
+    "headquarters": "Columbus, OH",
+    "company_size": "201-500",
+    "company_email": "careers@harbormedia.example",
+    "company_phone": "(614) 555-0100",
+    "logo_image_key": "sample/logos/harbormedia.png",
+    "banner_image_key": "sample/banners/harbormedia.jpg",
+    "locations": [
+      {
+        "city": "Columbus",
+        "state": "OH",
+        "type": "HQ"
+      },
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "type": "Office"
+      },
+      {
+        "city": "Raleigh",
+        "state": "NC",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Digital Marketing Associate"
+    ],
+    "current_employees": [
+      {
+        "name": "Ethan Liu",
+        "title": "Social Media Specialist",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://harbormedia.example"
+    },
+    "core_values": [
+      "Sustainability",
+      "Creativity",
+      "Integrity",
+      "Work-life balance"
+    ],
+    "benefits_summary": [
+      "Unlimited PTO",
+      "Learning stipend",
+      "Home-office stipend",
+      "Tuition reimbursement"
+    ],
+    "mission_statement": "Harbor Media helps partners grow sustainably through media & entertainment.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-07-21T10:23:00Z"
+  },
+  {
+    "user_id": "d755b695-ea4d-56f6-a1e4-5ff3bf2f1292",
+    "company_name": "Trailhead Studios",
+    "company_pin": "TSX-5295",
+    "legal_first_name": "Megan",
+    "industry": "Media & Entertainment",
+    "business_age": "3-5 years",
+    "work_type": "Hybrid",
+    "headquarters": "Chicago, IL",
+    "company_size": "501-1000",
+    "company_email": "careers@trailheadstudios.example",
+    "company_phone": "(312) 555-0104",
+    "logo_image_key": "sample/logos/trailheadstudios.png",
+    "banner_image_key": "sample/banners/trailheadstudios.jpg",
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Product Designer"
+    ],
+    "current_employees": [
+      {
+        "name": "Megan Sanchez",
+        "title": "Product Designer",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://trailheadstudios.example"
+    },
+    "core_values": [
+      "Integrity",
+      "Diversity",
+      "Sustainability",
+      "Innovation"
+    ],
+    "benefits_summary": [
+      "401(k) match",
+      "Commuter benefits",
+      "Hybrid schedule",
+      "Home-office stipend"
+    ],
+    "mission_statement": "Trailhead Studios helps partners grow sustainably through media & entertainment.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-06-10T08:46:00Z"
+  },
+  {
+    "user_id": "b885e045-62c6-5f60-90cf-506062c059ef",
+    "company_name": "Quarry Studio",
+    "company_pin": "QSX-2868",
+    "legal_first_name": "Connor",
+    "industry": "Marketing & Advertising",
+    "business_age": "6-10 years",
+    "work_type": "Hybrid",
+    "headquarters": "Washington, DC",
+    "company_size": "201-500",
+    "company_email": "careers@quarrystudio.example",
+    "company_phone": "(202) 555-0101",
+    "logo_image_key": "sample/logos/quarrystudio.png",
+    "banner_image_key": "sample/banners/quarrystudio.jpg",
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Marketing Coordinator Intern",
+      "Customer Success Associate"
+    ],
+    "current_employees": [
+      {
+        "name": "Arjun Carter",
+        "title": "Social Media Specialist",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://quarrystudio.example"
+    },
+    "core_values": [
+      "Diversity",
+      "Community",
+      "Transparency",
+      "Innovation"
+    ],
+    "benefits_summary": [
+      "Paid parental leave",
+      "Medical, dental & vision",
+      "Tuition reimbursement",
+      "Learning stipend"
+    ],
+    "mission_statement": "Quarry Studio helps families stay healthy through marketing & advertising.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-06-20T03:48:00Z"
+  },
+  {
+    "user_id": "396b6884-752e-58a2-83f0-0bc50dde5221",
+    "company_name": "Bright Aviation",
+    "company_pin": "BAX-3179",
+    "legal_first_name": "Aaliyah",
+    "industry": "Aerospace",
+    "business_age": "3-5 years",
+    "work_type": "On-site",
+    "headquarters": "Phoenix, AZ",
+    "company_size": "11-50",
+    "company_email": "careers@brightaviation.example",
+    "company_phone": "(602) 555-0102",
+    "logo_image_key": "sample/logos/brightaviation.png",
+    "banner_image_key": "sample/banners/brightaviation.jpg",
+    "locations": [
+      {
+        "city": "Phoenix",
+        "state": "AZ",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Hardware Engineer",
+      "Manufacturing Engineer"
+    ],
+    "current_employees": [
+      {
+        "name": "Arjun Lopez",
+        "title": "Manufacturing Engineer",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://brightaviation.example"
+    },
+    "core_values": [
+      "Integrity",
+      "Community",
+      "Innovation",
+      "Learning"
+    ],
+    "benefits_summary": [
+      "Summer Fridays",
+      "Home-office stipend",
+      "Equity",
+      "Medical, dental & vision"
+    ],
+    "mission_statement": "Bright Aviation helps customers grow sustainably through aerospace.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-08-09T01:35:00Z"
+  },
+  {
+    "user_id": "f6cd4d7e-db5a-5748-9397-a921646d161e",
+    "company_name": "Golden Solar",
+    "company_pin": "GSX-2335",
+    "legal_first_name": "Tyler",
+    "industry": "Renewable Energy",
+    "business_age": "3-5 years",
+    "work_type": "Remote",
+    "headquarters": "Minneapolis, MN",
+    "company_size": "11-50",
+    "company_email": "careers@goldensolar.example",
+    "company_phone": "(612) 555-0101",
+    "logo_image_key": "sample/logos/goldensolar.png",
+    "banner_image_key": "sample/banners/goldensolar.jpg",
+    "locations": [
+      {
+        "city": "Minneapolis",
+        "state": "MN",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Mechanical Engineer",
+      "Manufacturing Engineer"
+    ],
+    "current_employees": [
+      {
+        "name": "Jalen Williams",
+        "title": "Field Operations Coordinator",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://goldensolar.example"
+    },
+    "core_values": [
+      "Excellence",
+      "Ownership",
+      "Work-life balance",
+      "Sustainability"
+    ],
+    "benefits_summary": [
+      "Mentorship program",
+      "Unlimited PTO",
+      "Hybrid schedule",
+      "Medical, dental & vision"
+    ],
+    "mission_statement": "Golden Solar helps partners move faster through renewable energy.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-02-16T13:50:00Z"
+  },
+  {
+    "user_id": "1899abbf-9738-5fd9-af87-791c1fd8951d",
+    "company_name": "Willow Logistics",
+    "company_pin": "WLX-1348",
+    "legal_first_name": "Marcus",
+    "industry": "Logistics & Supply Chain",
+    "business_age": "10+ years",
+    "work_type": "On-site",
+    "headquarters": "Columbus, OH",
+    "company_size": "51-200",
+    "company_email": "careers@willowlogistics.example",
+    "company_phone": "(614) 555-0101",
+    "logo_image_key": "sample/logos/willowlogistics.png",
+    "banner_image_key": "sample/banners/willowlogistics.jpg",
+    "locations": [
+      {
+        "city": "Columbus",
+        "state": "OH",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Business Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Connor Mehta",
+        "title": "Supply Chain Analyst",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://willowlogistics.example"
+    },
+    "core_values": [
+      "Diversity",
+      "Innovation",
+      "Sustainability",
+      "Excellence"
+    ],
+    "benefits_summary": [
+      "401(k) match",
+      "Hybrid schedule",
+      "Equity",
+      "Paid parental leave"
+    ],
+    "mission_statement": "Willow Logistics helps partners grow sustainably through logistics & supply chain.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-02-22T08:58:00Z"
+  },
+  {
+    "user_id": "ef0e5f7d-3a2d-5ff9-9c64-3f2761a3addf",
+    "company_name": "Willow Partners",
+    "company_pin": "WPX-5656",
+    "legal_first_name": "Ethan",
+    "industry": "Financial Services",
+    "business_age": "6-10 years",
+    "work_type": "Remote",
+    "headquarters": "Denver, CO",
+    "company_size": "11-50",
+    "company_email": "careers@willowpartners.example",
+    "company_phone": "(720) 555-0100",
+    "logo_image_key": "sample/logos/willowpartners.png",
+    "banner_image_key": "sample/banners/willowpartners.jpg",
+    "locations": [
+      {
+        "city": "Denver",
+        "state": "CO",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Associate Consultant"
+    ],
+    "current_employees": [
+      {
+        "name": "Aaliyah Thompson",
+        "title": "Data Analyst",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://willowpartners.example"
+    },
+    "core_values": [
+      "Community",
+      "Integrity",
+      "Innovation",
+      "Sustainability"
+    ],
+    "benefits_summary": [
+      "Wellness stipend",
+      "Home-office stipend",
+      "Hybrid schedule",
+      "401(k) match"
+    ],
+    "mission_statement": "Willow Partners helps small businesses build with confidence through financial services.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-07-20T22:29:00Z"
+  },
+  {
+    "user_id": "dd7a7d0a-e247-5267-8b88-dad82c0440df",
+    "company_name": "Tidal Group",
+    "company_pin": "TGX-6640",
+    "legal_first_name": "Liam",
+    "industry": "Construction & Engineering",
+    "business_age": "3-5 years",
+    "work_type": "Hybrid",
+    "headquarters": "Denver, CO",
+    "company_size": "51-200",
+    "company_email": "careers@tidalgroup.example",
+    "company_phone": "(720) 555-0101",
+    "logo_image_key": "sample/logos/tidalgroup.png",
+    "banner_image_key": "sample/banners/tidalgroup.jpg",
+    "locations": [
+      {
+        "city": "Denver",
+        "state": "CO",
+        "type": "HQ"
+      },
+      {
+        "city": "Boston",
+        "state": "MA",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Operations Coordinator Intern",
+      "Field Operations Coordinator Intern",
+      "Manufacturing Engineer Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Ryan Phillips",
+        "title": "Operations Coordinator",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://tidalgroup.example"
+    },
+    "core_values": [
+      "Transparency",
+      "Learning",
+      "Excellence",
+      "Diversity"
+    ],
+    "benefits_summary": [
+      "Paid parental leave",
+      "Hybrid schedule",
+      "Medical, dental & vision",
+      "Wellness stipend"
+    ],
+    "mission_statement": "Tidal Group helps communities learn every day through construction & engineering.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-06-20T06:36:00Z"
+  },
+  {
+    "user_id": "1705abbb-b326-5ad1-b4ef-8ee92db59894",
+    "company_name": "Driftwood Entertainment",
+    "company_pin": "DEX-2860",
+    "legal_first_name": "Maya",
+    "industry": "Media & Entertainment",
+    "business_age": "6-10 years",
+    "work_type": "Hybrid",
+    "headquarters": "Seattle, WA",
+    "company_size": "201-500",
+    "company_email": "careers@driftwoodentertainment.example",
+    "company_phone": "(206) 555-0100",
+    "logo_image_key": "sample/logos/driftwoodentertainment.png",
+    "banner_image_key": "sample/banners/driftwoodentertainment.jpg",
+    "locations": [
+      {
+        "city": "Seattle",
+        "state": "WA",
+        "type": "HQ"
+      },
+      {
+        "city": "Houston",
+        "state": "TX",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Copywriter"
+    ],
+    "current_employees": [
+      {
+        "name": "Amara Garcia",
+        "title": "Digital Marketing Associate",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://driftwoodentertainment.example"
+    },
+    "core_values": [
+      "Impact",
+      "Learning",
+      "Sustainability",
+      "Collaboration"
+    ],
+    "benefits_summary": [
+      "Home-office stipend",
+      "401(k) match",
+      "Mentorship program",
+      "Hybrid schedule"
+    ],
+    "mission_statement": "Driftwood Entertainment helps communities move faster through media & entertainment.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-04-18T10:37:00Z"
+  },
+  {
+    "user_id": "5b8bfb72-0fb9-59fa-b156-8b737a044f0e",
+    "company_name": "Highland Aerospace",
+    "company_pin": "HAX-7220",
+    "legal_first_name": "Kevin",
+    "industry": "Aerospace",
+    "business_age": "6-10 years",
+    "work_type": "Hybrid",
+    "headquarters": "Los Angeles, CA",
+    "company_size": "11-50",
+    "company_email": "careers@highlandaerospace.example",
+    "company_phone": "(213) 555-0101",
+    "logo_image_key": "sample/logos/highlandaerospace.png",
+    "banner_image_key": "sample/banners/highlandaerospace.jpg",
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Software Engineer"
+    ],
+    "current_employees": [
+      {
+        "name": "Jalen Adams",
+        "title": "Controls Engineer",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://highlandaerospace.example"
+    },
+    "core_values": [
+      "Transparency",
+      "Excellence",
+      "Innovation",
+      "Creativity"
+    ],
+    "benefits_summary": [
+      "401(k) match",
+      "Home-office stipend",
+      "Summer Fridays",
+      "Tuition reimbursement"
+    ],
+    "mission_statement": "Highland Aerospace helps teams move faster through aerospace.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-05-10T22:17:00Z"
+  },
+  {
+    "user_id": "6b3a26b1-b217-50a1-b85f-b198f36bb0ea",
+    "company_name": "Maple Health",
+    "company_pin": "MHX-1859",
+    "legal_first_name": "Megan",
+    "industry": "Healthcare",
+    "business_age": "6-10 years",
+    "work_type": "Remote",
+    "headquarters": "Pittsburgh, PA",
+    "company_size": "201-500",
+    "company_email": "careers@maplehealth.example",
+    "company_phone": "(412) 555-0103",
+    "logo_image_key": "sample/logos/maplehealth.png",
+    "banner_image_key": "sample/banners/maplehealth.jpg",
+    "locations": [
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "type": "HQ"
+      },
+      {
+        "city": "Phoenix",
+        "state": "AZ",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Clinical Research Coordinator",
+      "Logistics Coordinator Intern",
+      "Clinical Data Associate"
+    ],
+    "current_employees": [
+      {
+        "name": "Grace Hernandez",
+        "title": "Clinical Data Associate",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://maplehealth.example"
+    },
+    "core_values": [
+      "Diversity",
+      "Innovation",
+      "Impact",
+      "Community"
+    ],
+    "benefits_summary": [
+      "Wellness stipend",
+      "Hybrid schedule",
+      "Equity",
+      "Paid parental leave"
+    ],
+    "mission_statement": "Maple Health helps small businesses learn every day through healthcare.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-03-11T23:58:00Z"
+  },
+  {
+    "user_id": "9ebaf901-eb4c-541a-8349-dbabfdef7a7f",
+    "company_name": "Lumen Ledger",
+    "company_pin": "LLX-7291",
+    "legal_first_name": "Jasmine",
+    "industry": "Financial Technology",
+    "business_age": "0-2 years",
+    "work_type": "Hybrid",
+    "headquarters": "Salt Lake City, UT",
+    "company_size": "201-500",
+    "company_email": "careers@lumenledger.example",
+    "company_phone": "(801) 555-0101",
+    "logo_image_key": "sample/logos/lumenledger.png",
+    "banner_image_key": "sample/banners/lumenledger.jpg",
+    "locations": [
+      {
+        "city": "Salt Lake City",
+        "state": "UT",
+        "type": "HQ"
+      },
+      {
+        "city": "Raleigh",
+        "state": "NC",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Security Engineer"
+    ],
+    "current_employees": [
+      {
+        "name": "Omar Liu",
+        "title": "Security Engineer",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://lumenledger.example"
+    },
+    "core_values": [
+      "Creativity",
+      "Sustainability",
+      "Learning",
+      "Impact"
+    ],
+    "benefits_summary": [
+      "Tuition reimbursement",
+      "Hybrid schedule",
+      "Mentorship program",
+      "Summer Fridays"
+    ],
+    "mission_statement": "Lumen Ledger helps small businesses build with confidence through financial technology.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-07-24T12:10:00Z"
+  },
+  {
+    "user_id": "d39b5390-0c84-5d58-b153-1b521a9f8735",
+    "company_name": "Driftwood Academy",
+    "company_pin": "DAX-9228",
+    "legal_first_name": "Arjun",
+    "industry": "Education Technology",
+    "business_age": "10+ years",
+    "work_type": "Hybrid",
+    "headquarters": "Houston, TX",
+    "company_size": "11-50",
+    "company_email": "careers@driftwoodacademy.example",
+    "company_phone": "(713) 555-0102",
+    "logo_image_key": "sample/logos/driftwoodacademy.png",
+    "banner_image_key": "sample/banners/driftwoodacademy.jpg",
+    "locations": [
+      {
+        "city": "Houston",
+        "state": "TX",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Junior Software Engineer",
+      "Curriculum Developer"
+    ],
+    "current_employees": [
+      {
+        "name": "Ethan Ali",
+        "title": "Junior Software Engineer",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://driftwoodacademy.example"
+    },
+    "core_values": [
+      "Creativity",
+      "Work-life balance",
+      "Ownership",
+      "Diversity"
+    ],
+    "benefits_summary": [
+      "401(k) match",
+      "Equity",
+      "Unlimited PTO",
+      "Hybrid schedule"
+    ],
+    "mission_statement": "Driftwood Academy helps customers build with confidence through education technology.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-03-16T18:07:00Z"
+  },
+  {
+    "user_id": "d663a57e-cdd2-5cb8-8edc-1efc69de1cc5",
+    "company_name": "Aspen Entertainment",
+    "company_pin": "AEX-1444",
+    "legal_first_name": "Maya",
+    "industry": "Media & Entertainment",
+    "business_age": "0-2 years",
+    "work_type": "Hybrid",
+    "headquarters": "Indianapolis, IN",
+    "company_size": "11-50",
+    "company_email": "careers@aspenentertainment.example",
+    "company_phone": "(317) 555-0101",
+    "logo_image_key": "sample/logos/aspenentertainment.png",
+    "banner_image_key": "sample/banners/aspenentertainment.jpg",
+    "locations": [
+      {
+        "city": "Indianapolis",
+        "state": "IN",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Marketing Coordinator",
+      "Digital Marketing Associate"
+    ],
+    "current_employees": [
+      {
+        "name": "Caleb Singh",
+        "title": "Copywriter",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://aspenentertainment.example"
+    },
+    "core_values": [
+      "Transparency",
+      "Integrity",
+      "Impact",
+      "Creativity"
+    ],
+    "benefits_summary": [
+      "Summer Fridays",
+      "Hybrid schedule",
+      "Tuition reimbursement",
+      "401(k) match"
+    ],
+    "mission_statement": "Aspen Entertainment helps small businesses build with confidence through media & entertainment.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-08-26T02:36:00Z"
+  },
+  {
+    "user_id": "385890fe-9a06-52a4-a624-1d5465188351",
+    "company_name": "Harbor Orbital",
+    "company_pin": "HOX-8827",
+    "legal_first_name": "Lauren",
+    "industry": "Aerospace",
+    "business_age": "10+ years",
+    "work_type": "Remote",
+    "headquarters": "Pittsburgh, PA",
+    "company_size": "501-1000",
+    "company_email": "careers@harbororbital.example",
+    "company_phone": "(412) 555-0104",
+    "logo_image_key": "sample/logos/harbororbital.png",
+    "banner_image_key": "sample/banners/harbororbital.jpg",
+    "locations": [
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "type": "HQ"
+      },
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Design Engineer",
+      "Software Engineer"
+    ],
+    "current_employees": [
+      {
+        "name": "Jasmine Yamamoto",
+        "title": "Full-Stack Developer",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://harbororbital.example"
+    },
+    "core_values": [
+      "Community",
+      "Growth",
+      "Impact",
+      "Collaboration"
+    ],
+    "benefits_summary": [
+      "Commuter benefits",
+      "Equity",
+      "Home-office stipend",
+      "401(k) match"
+    ],
+    "mission_statement": "Harbor Orbital helps families learn every day through aerospace.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-06-05T09:42:00Z"
+  },
+  {
+    "user_id": "6f199559-bdd3-5316-b025-ac09ce0fdcae",
+    "company_name": "Prairie Foundation",
+    "company_pin": "PFX-4254",
+    "legal_first_name": "Isaac",
+    "industry": "Nonprofit",
+    "business_age": "6-10 years",
+    "work_type": "Hybrid",
+    "headquarters": "Salt Lake City, UT",
+    "company_size": "1000+",
+    "company_email": "careers@prairiefoundation.example",
+    "company_phone": "(801) 555-0102",
+    "logo_image_key": "sample/logos/prairiefoundation.png",
+    "banner_image_key": "sample/banners/prairiefoundation.jpg",
+    "locations": [
+      {
+        "city": "Salt Lake City",
+        "state": "UT",
+        "type": "HQ"
+      },
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "type": "Office"
+      },
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Digital Marketing Associate"
+    ],
+    "current_employees": [
+      {
+        "name": "Rahul Liu",
+        "title": "Content Writer",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://prairiefoundation.example"
+    },
+    "core_values": [
+      "Ownership",
+      "Innovation",
+      "Integrity",
+      "Excellence"
+    ],
+    "benefits_summary": [
+      "401(k) match",
+      "Hybrid schedule",
+      "Summer Fridays",
+      "Equity"
+    ],
+    "mission_statement": "Prairie Foundation helps communities move faster through nonprofit.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-07-15T20:41:00Z"
+  },
+  {
+    "user_id": "93efad96-8e48-561a-80e6-7661def378ee",
+    "company_name": "Riverbend Pictures",
+    "company_pin": "RPX-1585",
+    "legal_first_name": "Ethan",
+    "industry": "Media & Entertainment",
+    "business_age": "3-5 years",
+    "work_type": "Remote",
+    "headquarters": "Chicago, IL",
+    "company_size": "501-1000",
+    "company_email": "careers@riverbendpictures.example",
+    "company_phone": "(312) 555-0105",
+    "logo_image_key": "sample/logos/riverbendpictures.png",
+    "banner_image_key": "sample/banners/riverbendpictures.jpg",
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "type": "HQ"
+      },
+      {
+        "city": "Indianapolis",
+        "state": "IN",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Product Designer Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Tariq Phillips",
+        "title": "Copywriter",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://riverbendpictures.example"
+    },
+    "core_values": [
+      "Transparency",
+      "Collaboration",
+      "Sustainability",
+      "Community"
+    ],
+    "benefits_summary": [
+      "Mentorship program",
+      "Tuition reimbursement",
+      "Learning stipend",
+      "Unlimited PTO"
+    ],
+    "mission_statement": "Riverbend Pictures helps communities build with confidence through media & entertainment.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-03-05T08:48:00Z"
+  },
+  {
+    "user_id": "1ebf27b5-0e14-5b7b-b1b9-7c5803d3021a",
+    "company_name": "Redwood Cyber",
+    "company_pin": "RCX-2078",
+    "legal_first_name": "Omar",
+    "industry": "Cybersecurity",
+    "business_age": "10+ years",
+    "work_type": "Hybrid",
+    "headquarters": "Austin, TX",
+    "company_size": "201-500",
+    "company_email": "careers@redwoodcyber.example",
+    "company_phone": "(512) 555-0100",
+    "logo_image_key": "sample/logos/redwoodcyber.png",
+    "banner_image_key": "sample/banners/redwoodcyber.jpg",
+    "locations": [
+      {
+        "city": "Austin",
+        "state": "TX",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Software Engineer",
+      "Full-Stack Developer"
+    ],
+    "current_employees": [
+      {
+        "name": "Connor Ortiz",
+        "title": "SOC Analyst",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://redwoodcyber.example"
+    },
+    "core_values": [
+      "Ownership",
+      "Work-life balance",
+      "Growth",
+      "Diversity"
+    ],
+    "benefits_summary": [
+      "Learning stipend",
+      "401(k) match",
+      "Hybrid schedule",
+      "Commuter benefits"
+    ],
+    "mission_statement": "Redwood Cyber helps communities stay healthy through cybersecurity.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-07-22T09:01:00Z"
+  },
+  {
+    "user_id": "e4e59789-c04b-5acd-a319-ed77353a668d",
+    "company_name": "Sable Therapeutics",
+    "company_pin": "STX-2547",
+    "legal_first_name": "Jordan",
+    "industry": "Biotechnology",
+    "business_age": "3-5 years",
+    "work_type": "On-site",
+    "headquarters": "Pittsburgh, PA",
+    "company_size": "1000+",
+    "company_email": "careers@sabletherapeutics.example",
+    "company_phone": "(412) 555-0105",
+    "logo_image_key": "sample/logos/sabletherapeutics.png",
+    "banner_image_key": "sample/banners/sabletherapeutics.jpg",
+    "locations": [
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "type": "HQ"
+      },
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Data Scientist Intern",
+      "Research Associate"
+    ],
+    "current_employees": [
+      {
+        "name": "Maya Thompson",
+        "title": "Clinical Data Associate",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://sabletherapeutics.example"
+    },
+    "core_values": [
+      "Collaboration",
+      "Transparency",
+      "Growth",
+      "Integrity"
+    ],
+    "benefits_summary": [
+      "Hybrid schedule",
+      "Wellness stipend",
+      "401(k) match",
+      "Tuition reimbursement"
+    ],
+    "mission_statement": "Sable Therapeutics helps customers move faster through biotechnology.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-02-17T16:45:00Z"
+  },
+  {
+    "user_id": "b207dd0b-963f-510c-92fc-598f234c3378",
+    "company_name": "Willow Engineering",
+    "company_pin": "WEX-2627",
+    "legal_first_name": "Tyler",
+    "industry": "Construction & Engineering",
+    "business_age": "10+ years",
+    "work_type": "Remote",
+    "headquarters": "Miami, FL",
+    "company_size": "11-50",
+    "company_email": "careers@willowengineering.example",
+    "company_phone": "(305) 555-0104",
+    "logo_image_key": "sample/logos/willowengineering.png",
+    "banner_image_key": "sample/banners/willowengineering.jpg",
+    "locations": [
+      {
+        "city": "Miami",
+        "state": "FL",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Manufacturing Engineer",
+      "Assistant Project Manager"
+    ],
+    "current_employees": [
+      {
+        "name": "Lucas Cohen",
+        "title": "Mechanical Engineer",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://willowengineering.example"
+    },
+    "core_values": [
+      "Collaboration",
+      "Impact",
+      "Sustainability",
+      "Diversity"
+    ],
+    "benefits_summary": [
+      "Paid parental leave",
+      "Unlimited PTO",
+      "Learning stipend",
+      "Equity"
+    ],
+    "mission_statement": "Willow Engineering helps customers stay healthy through construction & engineering.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-03-28T17:35:00Z"
+  },
+  {
+    "user_id": "677b135d-d4fa-5e23-b6ca-dbf18086fceb",
+    "company_name": "Blue Dynamics",
+    "company_pin": "BDX-8680",
+    "legal_first_name": "Chloe",
+    "industry": "Aerospace",
+    "business_age": "3-5 years",
+    "work_type": "On-site",
+    "headquarters": "Raleigh, NC",
+    "company_size": "51-200",
+    "company_email": "careers@bluedynamics.example",
+    "company_phone": "(919) 555-0101",
+    "logo_image_key": "sample/logos/bluedynamics.png",
+    "banner_image_key": "sample/banners/bluedynamics.jpg",
+    "locations": [
+      {
+        "city": "Raleigh",
+        "state": "NC",
+        "type": "HQ"
+      },
+      {
+        "city": "Austin",
+        "state": "TX",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Hardware Engineer",
+      "Design Engineer",
+      "Full-Stack Developer"
+    ],
+    "current_employees": [
+      {
+        "name": "Arjun Brooks",
+        "title": "Controls Engineer",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://bluedynamics.example"
+    },
+    "core_values": [
+      "Integrity",
+      "Work-life balance",
+      "Community",
+      "Diversity"
+    ],
+    "benefits_summary": [
+      "Relocation assistance",
+      "Home-office stipend",
+      "Unlimited PTO",
+      "Equity"
+    ],
+    "mission_statement": "Blue Dynamics helps partners move faster through aerospace.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-05-21T02:41:00Z"
+  },
+  {
+    "user_id": "769eb7b5-9bdf-5af4-9fef-b558fc42c1c0",
+    "company_name": "Pinecrest Learning",
+    "company_pin": "PLX-9837",
+    "legal_first_name": "Camila",
+    "industry": "Education Technology",
+    "business_age": "10+ years",
+    "work_type": "On-site",
+    "headquarters": "San Francisco, CA",
+    "company_size": "201-500",
+    "company_email": "careers@pinecrestlearning.example",
+    "company_phone": "(415) 555-0101",
+    "logo_image_key": "sample/logos/pinecrestlearning.png",
+    "banner_image_key": "sample/banners/pinecrestlearning.jpg",
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "type": "HQ"
+      },
+      {
+        "city": "Nashville",
+        "state": "TN",
+        "type": "Office"
+      },
+      {
+        "city": "Dallas",
+        "state": "TX",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Account Executive"
+    ],
+    "current_employees": [
+      {
+        "name": "Hannah Ibrahim",
+        "title": "UX Designer",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://pinecrestlearning.example"
+    },
+    "core_values": [
+      "Diversity",
+      "Growth",
+      "Community",
+      "Integrity"
+    ],
+    "benefits_summary": [
+      "Learning stipend",
+      "Hybrid schedule",
+      "Summer Fridays",
+      "Tuition reimbursement"
+    ],
+    "mission_statement": "Pinecrest Learning helps partners grow sustainably through education technology.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-03-27T00:47:00Z"
+  },
+  {
+    "user_id": "d7f54633-dd04-53ab-b77e-fe0c4789f9fa",
+    "company_name": "Harbor Distribution",
+    "company_pin": "HDX-5122",
+    "legal_first_name": "Ava",
+    "industry": "Logistics & Supply Chain",
+    "business_age": "3-5 years",
+    "work_type": "Remote",
+    "headquarters": "Charlotte, NC",
+    "company_size": "201-500",
+    "company_email": "careers@harbordistribution.example",
+    "company_phone": "(704) 555-0102",
+    "logo_image_key": "sample/logos/harbordistribution.png",
+    "banner_image_key": "sample/banners/harbordistribution.jpg",
+    "locations": [
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Junior Data Analyst",
+      "Supply Chain Analyst",
+      "Logistics Coordinator"
+    ],
+    "current_employees": [
+      {
+        "name": "Connor Vargas",
+        "title": "Business Intelligence Analyst",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://harbordistribution.example"
+    },
+    "core_values": [
+      "Growth",
+      "Diversity",
+      "Creativity",
+      "Innovation"
+    ],
+    "benefits_summary": [
+      "Hybrid schedule",
+      "Paid parental leave",
+      "Relocation assistance",
+      "Learning stipend"
+    ],
+    "mission_statement": "Harbor Distribution helps communities move faster through logistics & supply chain.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-06-10T04:06:00Z"
+  },
+  {
+    "user_id": "5381fdf1-07e7-5d56-aa69-f8ab1e1ca474",
+    "company_name": "Lumen Goods",
+    "company_pin": "LGX-4258",
+    "legal_first_name": "Amara",
+    "industry": "Retail & E-commerce",
+    "business_age": "6-10 years",
+    "work_type": "On-site",
+    "headquarters": "Raleigh, NC",
+    "company_size": "201-500",
+    "company_email": "careers@lumengoods.example",
+    "company_phone": "(919) 555-0102",
+    "logo_image_key": "sample/logos/lumengoods.png",
+    "banner_image_key": "sample/banners/lumengoods.jpg",
+    "locations": [
+      {
+        "city": "Raleigh",
+        "state": "NC",
+        "type": "HQ"
+      },
+      {
+        "city": "Miami",
+        "state": "FL",
+        "type": "Office"
+      },
+      {
+        "city": "Portland",
+        "state": "OR",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Supply Chain Analyst",
+      "Data Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Marcus Phillips",
+        "title": "Data Analyst",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://lumengoods.example"
+    },
+    "core_values": [
+      "Ownership",
+      "Creativity",
+      "Collaboration",
+      "Excellence"
+    ],
+    "benefits_summary": [
+      "Equity",
+      "Tuition reimbursement",
+      "Unlimited PTO",
+      "Mentorship program"
+    ],
+    "mission_statement": "Lumen Goods helps customers grow sustainably through retail & e-commerce.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-06-10T23:51:00Z"
+  },
+  {
+    "user_id": "d46fcc91-7866-577e-83ea-7f4c36de151d",
+    "company_name": "Lakeshore Labs",
+    "company_pin": "LLX-9200",
+    "legal_first_name": "Minh",
+    "industry": "Biotechnology",
+    "business_age": "0-2 years",
+    "work_type": "Hybrid",
+    "headquarters": "San Francisco, CA",
+    "company_size": "1000+",
+    "company_email": "careers@lakeshorelabs.example",
+    "company_phone": "(415) 555-0102",
+    "logo_image_key": "sample/logos/lakeshorelabs.png",
+    "banner_image_key": "sample/banners/lakeshorelabs.jpg",
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Quality Control Analyst",
+      "Clinical Research Coordinator",
+      "Machine Learning Engineer Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Mei Davis",
+        "title": "Lab Technician",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://lakeshorelabs.example"
+    },
+    "core_values": [
+      "Integrity",
+      "Learning",
+      "Excellence",
+      "Diversity"
+    ],
+    "benefits_summary": [
+      "Mentorship program",
+      "Commuter benefits",
+      "Hybrid schedule",
+      "Tuition reimbursement"
+    ],
+    "mission_statement": "Lakeshore Labs helps families grow sustainably through biotechnology.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-04-11T14:46:00Z"
+  },
+  {
+    "user_id": "080f267a-1d0b-5560-8310-28b1d3a0b049",
+    "company_name": "Oakline Learn",
+    "company_pin": "OLX-5952",
+    "legal_first_name": "Daniel",
+    "industry": "Education Technology",
+    "business_age": "0-2 years",
+    "work_type": "On-site",
+    "headquarters": "Indianapolis, IN",
+    "company_size": "1000+",
+    "company_email": "careers@oaklinelearn.example",
+    "company_phone": "(317) 555-0102",
+    "logo_image_key": "sample/logos/oaklinelearn.png",
+    "banner_image_key": "sample/banners/oaklinelearn.jpg",
+    "locations": [
+      {
+        "city": "Indianapolis",
+        "state": "IN",
+        "type": "HQ"
+      },
+      {
+        "city": "Minneapolis",
+        "state": "MN",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Backend Engineer Intern",
+      "Product Designer"
+    ],
+    "current_employees": [
+      {
+        "name": "Paige Flores",
+        "title": "UI/UX Designer",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://oaklinelearn.example"
+    },
+    "core_values": [
+      "Impact",
+      "Work-life balance",
+      "Creativity",
+      "Sustainability"
+    ],
+    "benefits_summary": [
+      "Tuition reimbursement",
+      "401(k) match",
+      "Commuter benefits",
+      "Learning stipend"
+    ],
+    "mission_statement": "Oakline Learn helps families stay healthy through education technology.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-02-01T19:07:00Z"
+  },
+  {
+    "user_id": "2bc7ad5f-013f-52a7-be25-87fc4ecbfe7d",
+    "company_name": "Coastal Partners",
+    "company_pin": "CPX-4992",
+    "legal_first_name": "Imani",
+    "industry": "Financial Services",
+    "business_age": "10+ years",
+    "work_type": "On-site",
+    "headquarters": "Salt Lake City, UT",
+    "company_size": "1-10",
+    "company_email": "careers@coastalpartners.example",
+    "company_phone": "(801) 555-0103",
+    "logo_image_key": "sample/logos/coastalpartners.png",
+    "banner_image_key": "sample/banners/coastalpartners.jpg",
+    "locations": [
+      {
+        "city": "Salt Lake City",
+        "state": "UT",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Customer Success Associate"
+    ],
+    "current_employees": [
+      {
+        "name": "Lucas Torres",
+        "title": "Operations Analyst",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://coastalpartners.example"
+    },
+    "core_values": [
+      "Work-life balance",
+      "Creativity",
+      "Sustainability",
+      "Collaboration"
+    ],
+    "benefits_summary": [
+      "Unlimited PTO",
+      "Summer Fridays",
+      "Commuter benefits",
+      "Paid parental leave"
+    ],
+    "mission_statement": "Coastal Partners helps families move faster through financial services.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-01-11T04:08:00Z"
+  },
+  {
+    "user_id": "6f2a5032-163d-5472-9b35-352352450122",
+    "company_name": "Larkspur Ledger",
+    "company_pin": "LLX-7045",
+    "legal_first_name": "Ryan",
+    "industry": "Financial Technology",
+    "business_age": "6-10 years",
+    "work_type": "Hybrid",
+    "headquarters": "Detroit, MI",
+    "company_size": "1000+",
+    "company_email": "careers@larkspurledger.example",
+    "company_phone": "(313) 555-0101",
+    "logo_image_key": "sample/logos/larkspurledger.png",
+    "banner_image_key": "sample/banners/larkspurledger.jpg",
+    "locations": [
+      {
+        "city": "Detroit",
+        "state": "MI",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Cybersecurity Analyst",
+      "Junior Data Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Camila Kim",
+        "title": "Data Analyst",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://larkspurledger.example"
+    },
+    "core_values": [
+      "Collaboration",
+      "Work-life balance",
+      "Innovation",
+      "Community"
+    ],
+    "benefits_summary": [
+      "Unlimited PTO",
+      "Summer Fridays",
+      "Medical, dental & vision",
+      "Hybrid schedule"
+    ],
+    "mission_statement": "Larkspur Ledger helps communities grow sustainably through financial technology.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-05-11T04:31:00Z"
+  },
+  {
+    "user_id": "7fbff274-fc3a-514c-8b76-dc94329f2cd2",
+    "company_name": "Stonegate Learn",
+    "company_pin": "SLX-2380",
+    "legal_first_name": "Nina",
+    "industry": "Education Technology",
+    "business_age": "0-2 years",
+    "work_type": "Remote",
+    "headquarters": "Charlotte, NC",
+    "company_size": "51-200",
+    "company_email": "careers@stonegatelearn.example",
+    "company_phone": "(704) 555-0103",
+    "logo_image_key": "sample/logos/stonegatelearn.png",
+    "banner_image_key": "sample/banners/stonegatelearn.jpg",
+    "locations": [
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "type": "HQ"
+      },
+      {
+        "city": "Phoenix",
+        "state": "AZ",
+        "type": "Office"
+      },
+      {
+        "city": "Dallas",
+        "state": "TX",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Full-Stack Developer Intern",
+      "UX Designer Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Amara Nguyen",
+        "title": "Customer Success Associate",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://stonegatelearn.example"
+    },
+    "core_values": [
+      "Learning",
+      "Creativity",
+      "Innovation",
+      "Integrity"
+    ],
+    "benefits_summary": [
+      "401(k) match",
+      "Commuter benefits",
+      "Mentorship program",
+      "Learning stipend"
+    ],
+    "mission_statement": "Stonegate Learn helps small businesses move faster through education technology.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-06-29T13:50:00Z"
+  },
+  {
+    "user_id": "ae499989-b50a-5444-913b-8b9aa921364a",
+    "company_name": "Westfield Medical",
+    "company_pin": "WMX-6919",
+    "legal_first_name": "Arjun",
+    "industry": "Healthcare Technology",
+    "business_age": "10+ years",
+    "work_type": "Hybrid",
+    "headquarters": "Phoenix, AZ",
+    "company_size": "201-500",
+    "company_email": "careers@westfieldmedical.example",
+    "company_phone": "(602) 555-0103",
+    "logo_image_key": "sample/logos/westfieldmedical.png",
+    "banner_image_key": "sample/banners/westfieldmedical.jpg",
+    "locations": [
+      {
+        "city": "Phoenix",
+        "state": "AZ",
+        "type": "HQ"
+      },
+      {
+        "city": "Boston",
+        "state": "MA",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Business Intelligence Analyst Intern",
+      "Backend Engineer",
+      "UX Designer"
+    ],
+    "current_employees": [
+      {
+        "name": "Arjun Flores",
+        "title": "Full-Stack Developer",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://westfieldmedical.example"
+    },
+    "core_values": [
+      "Sustainability",
+      "Innovation",
+      "Impact",
+      "Excellence"
+    ],
+    "benefits_summary": [
+      "Paid parental leave",
+      "Home-office stipend",
+      "Hybrid schedule",
+      "401(k) match"
+    ],
+    "mission_statement": "Westfield Medical helps teams grow sustainably through healthcare technology.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-07-27T03:55:00Z"
+  },
+  {
+    "user_id": "a21578fe-6115-52ab-b313-5e2a160983d9",
+    "company_name": "Cobalt Power",
+    "company_pin": "CPX-6806",
+    "legal_first_name": "Samuel",
+    "industry": "Renewable Energy",
+    "business_age": "10+ years",
+    "work_type": "Hybrid",
+    "headquarters": "Washington, DC",
+    "company_size": "1-10",
+    "company_email": "careers@cobaltpower.example",
+    "company_phone": "(202) 555-0102",
+    "logo_image_key": "sample/logos/cobaltpower.png",
+    "banner_image_key": "sample/banners/cobaltpower.jpg",
+    "locations": [
+      {
+        "city": "Washington",
+        "state": "DC",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Logistics Coordinator",
+      "Design Engineer Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Olivia Williams",
+        "title": "Electrical Engineer",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://cobaltpower.example"
+    },
+    "core_values": [
+      "Learning",
+      "Creativity",
+      "Excellence",
+      "Community"
+    ],
+    "benefits_summary": [
+      "Hybrid schedule",
+      "Paid parental leave",
+      "Medical, dental & vision",
+      "Wellness stipend"
+    ],
+    "mission_statement": "Cobalt Power helps teams learn every day through renewable energy.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-05-14T11:15:00Z"
+  },
+  {
+    "user_id": "dbbb26a9-363e-58ee-9306-ae5a9d7a54b8",
+    "company_name": "Trailhead Logistics",
+    "company_pin": "TLX-7888",
+    "legal_first_name": "Elena",
+    "industry": "Logistics & Supply Chain",
+    "business_age": "10+ years",
+    "work_type": "On-site",
+    "headquarters": "Raleigh, NC",
+    "company_size": "51-200",
+    "company_email": "careers@trailheadlogistics.example",
+    "company_phone": "(919) 555-0103",
+    "logo_image_key": "sample/logos/trailheadlogistics.png",
+    "banner_image_key": "sample/banners/trailheadlogistics.jpg",
+    "locations": [
+      {
+        "city": "Raleigh",
+        "state": "NC",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Business Intelligence Analyst Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Caleb Yamamoto",
+        "title": "Data Analyst",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://trailheadlogistics.example"
+    },
+    "core_values": [
+      "Transparency",
+      "Impact",
+      "Diversity",
+      "Learning"
+    ],
+    "benefits_summary": [
+      "Home-office stipend",
+      "Unlimited PTO",
+      "Equity",
+      "Tuition reimbursement"
+    ],
+    "mission_statement": "Trailhead Logistics helps partners work smarter through logistics & supply chain.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-01-08T17:31:00Z"
+  },
+  {
+    "user_id": "58e90b6d-eb2d-5da2-90d0-de36a2ad5dd3",
+    "company_name": "Westfield Group",
+    "company_pin": "WGX-3719",
+    "legal_first_name": "Minh",
+    "industry": "Construction & Engineering",
+    "business_age": "6-10 years",
+    "work_type": "On-site",
+    "headquarters": "Columbus, OH",
+    "company_size": "51-200",
+    "company_email": "careers@westfieldgroup.example",
+    "company_phone": "(614) 555-0102",
+    "logo_image_key": "sample/logos/westfieldgroup.png",
+    "banner_image_key": "sample/banners/westfieldgroup.jpg",
+    "locations": [
+      {
+        "city": "Columbus",
+        "state": "OH",
+        "type": "HQ"
+      },
+      {
+        "city": "Denver",
+        "state": "CO",
+        "type": "Office"
+      },
+      {
+        "city": "Seattle",
+        "state": "WA",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Manufacturing Engineer Intern",
+      "Project Engineer Intern",
+      "Project Engineer Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Jordan Reyes",
+        "title": "Logistics Coordinator",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://westfieldgroup.example"
+    },
+    "core_values": [
+      "Excellence",
+      "Community",
+      "Transparency",
+      "Collaboration"
+    ],
+    "benefits_summary": [
+      "Wellness stipend",
+      "Learning stipend",
+      "Mentorship program",
+      "Relocation assistance"
+    ],
+    "mission_statement": "Westfield Group helps partners build with confidence through construction & engineering.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-02-23T03:50:00Z"
+  },
+  {
+    "user_id": "c29009bc-acc8-5084-b30a-79ca45a46a12",
+    "company_name": "Vantage Outfitters",
+    "company_pin": "VOX-3873",
+    "legal_first_name": "Fatima",
+    "industry": "Retail & E-commerce",
+    "business_age": "10+ years",
+    "work_type": "Remote",
+    "headquarters": "San Francisco, CA",
+    "company_size": "1-10",
+    "company_email": "careers@vantageoutfitters.example",
+    "company_phone": "(415) 555-0103",
+    "logo_image_key": "sample/logos/vantageoutfitters.png",
+    "banner_image_key": "sample/banners/vantageoutfitters.jpg",
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Customer Success Associate",
+      "Logistics Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Isaac Reyes",
+        "title": "Demand Planner",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://vantageoutfitters.example"
+    },
+    "core_values": [
+      "Work-life balance",
+      "Impact",
+      "Diversity",
+      "Community"
+    ],
+    "benefits_summary": [
+      "Relocation assistance",
+      "Medical, dental & vision",
+      "Tuition reimbursement",
+      "Unlimited PTO"
+    ],
+    "mission_statement": "Vantage Outfitters helps partners work smarter through retail & e-commerce.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-08-14T00:56:00Z"
+  },
+  {
+    "user_id": "ce4f84b5-b7b1-5724-8c67-da78361b73d9",
+    "company_name": "Coastal Medical Group",
+    "company_pin": "CMG-9186",
+    "legal_first_name": "Camila",
+    "industry": "Healthcare",
+    "business_age": "3-5 years",
+    "work_type": "On-site",
+    "headquarters": "Pittsburgh, PA",
+    "company_size": "501-1000",
+    "company_email": "careers@coastalmedicalgroup.example",
+    "company_phone": "(412) 555-0106",
+    "logo_image_key": "sample/logos/coastalmedicalgroup.png",
+    "banner_image_key": "sample/banners/coastalmedicalgroup.jpg",
+    "locations": [
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Field Operations Coordinator Intern",
+      "Field Operations Coordinator",
+      "Operations Coordinator"
+    ],
+    "current_employees": [
+      {
+        "name": "Caleb Flores",
+        "title": "Clinical Research Coordinator",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://coastalmedicalgroup.example"
+    },
+    "core_values": [
+      "Integrity",
+      "Work-life balance",
+      "Innovation",
+      "Collaboration"
+    ],
+    "benefits_summary": [
+      "401(k) match",
+      "Home-office stipend",
+      "Medical, dental & vision",
+      "Equity"
+    ],
+    "mission_statement": "Coastal Medical Group helps customers stay healthy through healthcare.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-02-20T08:36:00Z"
+  },
+  {
+    "user_id": "0c108f66-d09a-5e47-9d37-909a73e6fcb7",
+    "company_name": "Quarry Orbital",
+    "company_pin": "QOX-7922",
+    "legal_first_name": "Grace",
+    "industry": "Aerospace",
+    "business_age": "6-10 years",
+    "work_type": "Hybrid",
+    "headquarters": "Charlotte, NC",
+    "company_size": "501-1000",
+    "company_email": "careers@quarryorbital.example",
+    "company_phone": "(704) 555-0104",
+    "logo_image_key": "sample/logos/quarryorbital.png",
+    "banner_image_key": "sample/banners/quarryorbital.jpg",
+    "locations": [
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "type": "HQ"
+      },
+      {
+        "city": "New York",
+        "state": "NY",
+        "type": "Office"
+      },
+      {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Electrical Engineer",
+      "Electrical Engineer",
+      "Software Engineer"
+    ],
+    "current_employees": [
+      {
+        "name": "Hiro Lee",
+        "title": "Controls Engineer",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://quarryorbital.example"
+    },
+    "core_values": [
+      "Learning",
+      "Community",
+      "Creativity",
+      "Excellence"
+    ],
+    "benefits_summary": [
+      "Mentorship program",
+      "Hybrid schedule",
+      "Wellness stipend",
+      "Paid parental leave"
+    ],
+    "mission_statement": "Quarry Orbital helps families work smarter through aerospace.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-07-24T20:46:00Z"
+  },
+  {
+    "user_id": "7381db7f-4b31-5184-9623-b5b9af79318f",
+    "company_name": "Oakline Foundation",
+    "company_pin": "OFX-6185",
+    "legal_first_name": "Priya",
+    "industry": "Nonprofit",
+    "business_age": "6-10 years",
+    "work_type": "On-site",
+    "headquarters": "Miami, FL",
+    "company_size": "11-50",
+    "company_email": "careers@oaklinefoundation.example",
+    "company_phone": "(305) 555-0105",
+    "logo_image_key": "sample/logos/oaklinefoundation.png",
+    "banner_image_key": "sample/banners/oaklinefoundation.jpg",
+    "locations": [
+      {
+        "city": "Miami",
+        "state": "FL",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Logistics Coordinator Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Kevin Anderson",
+        "title": "Logistics Coordinator",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://oaklinefoundation.example"
+    },
+    "core_values": [
+      "Community",
+      "Diversity",
+      "Growth",
+      "Creativity"
+    ],
+    "benefits_summary": [
+      "Medical, dental & vision",
+      "Hybrid schedule",
+      "Paid parental leave",
+      "Wellness stipend"
+    ],
+    "mission_statement": "Oakline Foundation helps customers build with confidence through nonprofit.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-03-27T11:34:00Z"
+  },
+  {
+    "user_id": "725c47d1-8411-58db-a406-c909beef494e",
+    "company_name": "Upland Clinics",
+    "company_pin": "UCX-7111",
+    "legal_first_name": "Fatima",
+    "industry": "Healthcare",
+    "business_age": "0-2 years",
+    "work_type": "Hybrid",
+    "headquarters": "Seattle, WA",
+    "company_size": "51-200",
+    "company_email": "careers@uplandclinics.example",
+    "company_phone": "(206) 555-0101",
+    "logo_image_key": "sample/logos/uplandclinics.png",
+    "banner_image_key": "sample/banners/uplandclinics.jpg",
+    "locations": [
+      {
+        "city": "Seattle",
+        "state": "WA",
+        "type": "HQ"
+      },
+      {
+        "city": "Phoenix",
+        "state": "AZ",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Operations Coordinator Intern",
+      "Clinical Data Associate Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Tyler Singh",
+        "title": "Recruiting Coordinator",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://uplandclinics.example"
+    },
+    "core_values": [
+      "Excellence",
+      "Community",
+      "Creativity",
+      "Innovation"
+    ],
+    "benefits_summary": [
+      "Tuition reimbursement",
+      "Medical, dental & vision",
+      "Unlimited PTO",
+      "Paid parental leave"
+    ],
+    "mission_statement": "Upland Clinics helps customers move faster through healthcare.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-09-14T07:55:00Z"
+  },
+  {
+    "user_id": "85c29074-ee75-58a9-b618-a3850779c38e",
+    "company_name": "Larkspur Market",
+    "company_pin": "LMX-4377",
+    "legal_first_name": "Ana",
+    "industry": "Retail & E-commerce",
+    "business_age": "6-10 years",
+    "work_type": "Remote",
+    "headquarters": "San Francisco, CA",
+    "company_size": "1000+",
+    "company_email": "careers@larkspurmarket.example",
+    "company_phone": "(415) 555-0104",
+    "logo_image_key": "sample/logos/larkspurmarket.png",
+    "banner_image_key": "sample/banners/larkspurmarket.jpg",
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Business Intelligence Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Rahul Clark",
+        "title": "Digital Marketing Associate",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://larkspurmarket.example"
+    },
+    "core_values": [
+      "Innovation",
+      "Sustainability",
+      "Community",
+      "Diversity"
+    ],
+    "benefits_summary": [
+      "Mentorship program",
+      "Medical, dental & vision",
+      "Summer Fridays",
+      "Home-office stipend"
+    ],
+    "mission_statement": "Larkspur Market helps communities learn every day through retail & e-commerce.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-04-25T11:01:00Z"
+  },
+  {
+    "user_id": "f4cc6c24-50fd-5da8-b100-7ddc7b8d899e",
+    "company_name": "Cobalt Health",
+    "company_pin": "CHX-8896",
+    "legal_first_name": "Ana",
+    "industry": "Healthcare",
+    "business_age": "0-2 years",
+    "work_type": "Hybrid",
+    "headquarters": "Detroit, MI",
+    "company_size": "51-200",
+    "company_email": "careers@cobalthealth.example",
+    "company_phone": "(313) 555-0102",
+    "logo_image_key": "sample/logos/cobalthealth.png",
+    "banner_image_key": "sample/banners/cobalthealth.jpg",
+    "locations": [
+      {
+        "city": "Detroit",
+        "state": "MI",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Research Assistant Intern",
+      "People Operations Associate"
+    ],
+    "current_employees": [
+      {
+        "name": "Ibrahim Sanchez",
+        "title": "Clinical Data Associate",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://cobalthealth.example"
+    },
+    "core_values": [
+      "Innovation",
+      "Impact",
+      "Learning",
+      "Creativity"
+    ],
+    "benefits_summary": [
+      "Commuter benefits",
+      "401(k) match",
+      "Mentorship program",
+      "Unlimited PTO"
+    ],
+    "mission_statement": "Cobalt Health helps small businesses learn every day through healthcare.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-08-07T17:46:00Z"
+  },
+  {
+    "user_id": "17c836f3-cad0-5ae5-97d2-d15e9c8b33a4",
+    "company_name": "Blue Supply",
+    "company_pin": "BSX-5912",
+    "legal_first_name": "Noah",
+    "industry": "Logistics & Supply Chain",
+    "business_age": "3-5 years",
+    "work_type": "Hybrid",
+    "headquarters": "San Francisco, CA",
+    "company_size": "11-50",
+    "company_email": "careers@bluesupply.example",
+    "company_phone": "(415) 555-0105",
+    "logo_image_key": "sample/logos/bluesupply.png",
+    "banner_image_key": "sample/banners/bluesupply.jpg",
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Associate Consultant",
+      "Demand Planner"
+    ],
+    "current_employees": [
+      {
+        "name": "Zoe Ahmed",
+        "title": "Logistics Analyst",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://bluesupply.example"
+    },
+    "core_values": [
+      "Growth",
+      "Diversity",
+      "Learning",
+      "Creativity"
+    ],
+    "benefits_summary": [
+      "Learning stipend",
+      "Medical, dental & vision",
+      "Summer Fridays",
+      "Equity"
+    ],
+    "mission_statement": "Blue Supply helps communities stay healthy through logistics & supply chain.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-04-19T19:17:00Z"
+  },
+  {
+    "user_id": "60ff8b43-6b98-54d7-8469-22d8d4762866",
+    "company_name": "Upland Learn",
+    "company_pin": "ULX-2142",
+    "legal_first_name": "Priya",
+    "industry": "Education Technology",
+    "business_age": "0-2 years",
+    "work_type": "Hybrid",
+    "headquarters": "Chicago, IL",
+    "company_size": "201-500",
+    "company_email": "careers@uplandlearn.example",
+    "company_phone": "(312) 555-0106",
+    "logo_image_key": "sample/logos/uplandlearn.png",
+    "banner_image_key": "sample/banners/uplandlearn.jpg",
+    "locations": [
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Learning Experience Designer",
+      "Backend Engineer"
+    ],
+    "current_employees": [
+      {
+        "name": "Minh Wilson",
+        "title": "Customer Success Associate",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://uplandlearn.example"
+    },
+    "core_values": [
+      "Community",
+      "Work-life balance",
+      "Growth",
+      "Integrity"
+    ],
+    "benefits_summary": [
+      "Learning stipend",
+      "Summer Fridays",
+      "Home-office stipend",
+      "Wellness stipend"
+    ],
+    "mission_statement": "Upland Learn helps customers learn every day through education technology.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-03-09T15:12:00Z"
+  },
+  {
+    "user_id": "c7066757-09bb-5f9b-8b52-b9db8eb41f2c",
+    "company_name": "Oakline Therapeutics",
+    "company_pin": "OTX-6124",
+    "legal_first_name": "Yuki",
+    "industry": "Biotechnology",
+    "business_age": "0-2 years",
+    "work_type": "Remote",
+    "headquarters": "Dallas, TX",
+    "company_size": "1000+",
+    "company_email": "careers@oaklinetherapeutics.example",
+    "company_phone": "(214) 555-0100",
+    "logo_image_key": "sample/logos/oaklinetherapeutics.png",
+    "banner_image_key": "sample/banners/oaklinetherapeutics.jpg",
+    "locations": [
+      {
+        "city": "Dallas",
+        "state": "TX",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Associate Data Scientist",
+      "Clinical Research Coordinator Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Hiro Morales",
+        "title": "Clinical Data Associate",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://oaklinetherapeutics.example"
+    },
+    "core_values": [
+      "Excellence",
+      "Impact",
+      "Growth",
+      "Ownership"
+    ],
+    "benefits_summary": [
+      "Wellness stipend",
+      "Paid parental leave",
+      "Medical, dental & vision",
+      "Summer Fridays"
+    ],
+    "mission_statement": "Oakline Therapeutics helps small businesses move faster through biotechnology.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-03-29T06:23:00Z"
+  },
+  {
+    "user_id": "afd4011c-ca12-56ab-aad5-695e0a3320c2",
+    "company_name": "Riverbend Orbital",
+    "company_pin": "ROX-5167",
+    "legal_first_name": "Daniel",
+    "industry": "Aerospace",
+    "business_age": "10+ years",
+    "work_type": "On-site",
+    "headquarters": "Raleigh, NC",
+    "company_size": "501-1000",
+    "company_email": "careers@riverbendorbital.example",
+    "company_phone": "(919) 555-0104",
+    "logo_image_key": "sample/logos/riverbendorbital.png",
+    "banner_image_key": "sample/banners/riverbendorbital.jpg",
+    "locations": [
+      {
+        "city": "Raleigh",
+        "state": "NC",
+        "type": "HQ"
+      },
+      {
+        "city": "Seattle",
+        "state": "WA",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Mechanical Engineer Intern",
+      "Backend Engineer",
+      "Mechanical Engineer"
+    ],
+    "current_employees": [
+      {
+        "name": "Imani Kowalski",
+        "title": "Mechanical Engineer",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://riverbendorbital.example"
+    },
+    "core_values": [
+      "Innovation",
+      "Impact",
+      "Work-life balance",
+      "Community"
+    ],
+    "benefits_summary": [
+      "Equity",
+      "Hybrid schedule",
+      "Relocation assistance",
+      "Paid parental leave"
+    ],
+    "mission_statement": "Riverbend Orbital helps customers grow sustainably through aerospace.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-03-28T00:35:00Z"
+  },
+  {
+    "user_id": "dcdb13f9-6670-521c-a054-6a32eec56ba6",
+    "company_name": "Summit Studio",
+    "company_pin": "SSX-8738",
+    "legal_first_name": "Ibrahim",
+    "industry": "Marketing & Advertising",
+    "business_age": "0-2 years",
+    "work_type": "Hybrid",
+    "headquarters": "Charlotte, NC",
+    "company_size": "11-50",
+    "company_email": "careers@summitstudio.example",
+    "company_phone": "(704) 555-0105",
+    "logo_image_key": "sample/logos/summitstudio.png",
+    "banner_image_key": "sample/banners/summitstudio.jpg",
+    "locations": [
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Customer Success Associate",
+      "Account Executive Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Sofia Chen",
+        "title": "Marketing Coordinator",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://summitstudio.example"
+    },
+    "core_values": [
+      "Impact",
+      "Ownership",
+      "Integrity",
+      "Collaboration"
+    ],
+    "benefits_summary": [
+      "Tuition reimbursement",
+      "Summer Fridays",
+      "Paid parental leave",
+      "Home-office stipend"
+    ],
+    "mission_statement": "Summit Studio helps customers move faster through marketing & advertising.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-07-05T19:11:00Z"
+  },
+  {
+    "user_id": "dc24c7b1-1892-5c41-8cc4-6b11e2816b05",
+    "company_name": "Juniper Outfitters",
+    "company_pin": "JOX-8853",
+    "legal_first_name": "Maya",
+    "industry": "Retail & E-commerce",
+    "business_age": "6-10 years",
+    "work_type": "Remote",
+    "headquarters": "Los Angeles, CA",
+    "company_size": "1-10",
+    "company_email": "careers@juniperoutfitters.example",
+    "company_phone": "(213) 555-0102",
+    "logo_image_key": "sample/logos/juniperoutfitters.png",
+    "banner_image_key": "sample/banners/juniperoutfitters.jpg",
+    "locations": [
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Sales Development Representative",
+      "Marketing Coordinator",
+      "Digital Marketing Associate"
+    ],
+    "current_employees": [
+      {
+        "name": "Nina Davis",
+        "title": "Sales Development Representative",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://juniperoutfitters.example"
+    },
+    "core_values": [
+      "Community",
+      "Ownership",
+      "Learning",
+      "Sustainability"
+    ],
+    "benefits_summary": [
+      "Summer Fridays",
+      "Wellness stipend",
+      "Paid parental leave",
+      "Commuter benefits"
+    ],
+    "mission_statement": "Juniper Outfitters helps communities grow sustainably through retail & e-commerce.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-07-30T02:04:00Z"
+  },
+  {
+    "user_id": "73f98fb4-0f74-5155-b79b-ef5a617d11c7",
+    "company_name": "Lumen Builders",
+    "company_pin": "LBX-3976",
+    "legal_first_name": "Aiden",
+    "industry": "Construction & Engineering",
+    "business_age": "0-2 years",
+    "work_type": "Hybrid",
+    "headquarters": "Portland, OR",
+    "company_size": "51-200",
+    "company_email": "careers@lumenbuilders.example",
+    "company_phone": "(503) 555-0103",
+    "logo_image_key": "sample/logos/lumenbuilders.png",
+    "banner_image_key": "sample/banners/lumenbuilders.jpg",
+    "locations": [
+      {
+        "city": "Portland",
+        "state": "OR",
+        "type": "HQ"
+      },
+      {
+        "city": "Chicago",
+        "state": "IL",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Manufacturing Engineer",
+      "Field Engineer Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Nina Hernandez",
+        "title": "Mechanical Engineer",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://lumenbuilders.example"
+    },
+    "core_values": [
+      "Integrity",
+      "Creativity",
+      "Ownership",
+      "Excellence"
+    ],
+    "benefits_summary": [
+      "Commuter benefits",
+      "401(k) match",
+      "Paid parental leave",
+      "Tuition reimbursement"
+    ],
+    "mission_statement": "Lumen Builders helps teams grow sustainably through construction & engineering.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-05-28T10:44:00Z"
+  },
+  {
+    "user_id": "8b2f98b2-e470-5cc6-8cb1-9d5572484a66",
+    "company_name": "Keystone Group",
+    "company_pin": "KGX-5897",
+    "legal_first_name": "Samuel",
+    "industry": "Consulting",
+    "business_age": "6-10 years",
+    "work_type": "On-site",
+    "headquarters": "Minneapolis, MN",
+    "company_size": "11-50",
+    "company_email": "careers@keystonegroup.example",
+    "company_phone": "(612) 555-0102",
+    "logo_image_key": "sample/logos/keystonegroup.png",
+    "banner_image_key": "sample/banners/keystonegroup.jpg",
+    "locations": [
+      {
+        "city": "Minneapolis",
+        "state": "MN",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Junior Data Analyst",
+      "HR Coordinator"
+    ],
+    "current_employees": [
+      {
+        "name": "Ana Carter",
+        "title": "Financial Analyst",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://keystonegroup.example"
+    },
+    "core_values": [
+      "Growth",
+      "Innovation",
+      "Transparency",
+      "Work-life balance"
+    ],
+    "benefits_summary": [
+      "Medical, dental & vision",
+      "Learning stipend",
+      "Relocation assistance",
+      "Paid parental leave"
+    ],
+    "mission_statement": "Keystone Group helps communities move faster through consulting.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-02-11T22:32:00Z"
+  },
+  {
+    "user_id": "36a27a0e-4cb4-5974-bd7e-7e36cb65b67b",
+    "company_name": "Aspen Engineering",
+    "company_pin": "AEX-8490",
+    "legal_first_name": "Marcus",
+    "industry": "Construction & Engineering",
+    "business_age": "3-5 years",
+    "work_type": "Hybrid",
+    "headquarters": "New York, NY",
+    "company_size": "501-1000",
+    "company_email": "careers@aspenengineering.example",
+    "company_phone": "(646) 555-0104",
+    "logo_image_key": "sample/logos/aspenengineering.png",
+    "banner_image_key": "sample/banners/aspenengineering.jpg",
+    "locations": [
+      {
+        "city": "New York",
+        "state": "NY",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Project Engineer",
+      "Design Engineer Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Grace Lee",
+        "title": "Logistics Coordinator",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://aspenengineering.example"
+    },
+    "core_values": [
+      "Impact",
+      "Sustainability",
+      "Transparency",
+      "Growth"
+    ],
+    "benefits_summary": [
+      "401(k) match",
+      "Home-office stipend",
+      "Paid parental leave",
+      "Equity"
+    ],
+    "mission_statement": "Aspen Engineering helps communities learn every day through construction & engineering.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-06-22T05:04:00Z"
+  },
+  {
+    "user_id": "cc20be31-1ca5-54e2-b9c7-233dcafb681f",
+    "company_name": "Pinecrest Software",
+    "company_pin": "PSX-2208",
+    "legal_first_name": "Jasmine",
+    "industry": "Software",
+    "business_age": "10+ years",
+    "work_type": "Hybrid",
+    "headquarters": "Atlanta, GA",
+    "company_size": "11-50",
+    "company_email": "careers@pinecrestsoftware.example",
+    "company_phone": "(404) 555-0102",
+    "logo_image_key": "sample/logos/pinecrestsoftware.png",
+    "banner_image_key": "sample/banners/pinecrestsoftware.jpg",
+    "locations": [
+      {
+        "city": "Atlanta",
+        "state": "GA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Sales Development Representative Intern",
+      "Business Intelligence Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Megan Ortiz",
+        "title": "Product Designer",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://pinecrestsoftware.example"
+    },
+    "core_values": [
+      "Collaboration",
+      "Innovation",
+      "Community",
+      "Ownership"
+    ],
+    "benefits_summary": [
+      "Paid parental leave",
+      "Learning stipend",
+      "Unlimited PTO",
+      "Home-office stipend"
+    ],
+    "mission_statement": "Pinecrest Software helps families move faster through software.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-02-28T07:24:00Z"
+  },
+  {
+    "user_id": "75c380b7-d979-5acb-94e2-76a542430099",
+    "company_name": "Blue Consulting",
+    "company_pin": "BCX-7496",
+    "legal_first_name": "Jordan",
+    "industry": "Consulting",
+    "business_age": "6-10 years",
+    "work_type": "Hybrid",
+    "headquarters": "Portland, OR",
+    "company_size": "11-50",
+    "company_email": "careers@blueconsulting.example",
+    "company_phone": "(503) 555-0104",
+    "logo_image_key": "sample/logos/blueconsulting.png",
+    "banner_image_key": "sample/banners/blueconsulting.jpg",
+    "locations": [
+      {
+        "city": "Portland",
+        "state": "OR",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "FP&A Analyst Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Arjun Ortiz",
+        "title": "Investment Analyst",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://blueconsulting.example"
+    },
+    "core_values": [
+      "Excellence",
+      "Integrity",
+      "Ownership",
+      "Diversity"
+    ],
+    "benefits_summary": [
+      "Tuition reimbursement",
+      "Summer Fridays",
+      "Medical, dental & vision",
+      "Wellness stipend"
+    ],
+    "mission_statement": "Blue Consulting helps partners stay healthy through consulting.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-04-04T01:13:00Z"
+  },
+  {
+    "user_id": "7b98f250-3219-5ce7-9f87-efd6a8f465fd",
+    "company_name": "Coastal Clinical",
+    "company_pin": "CCX-7054",
+    "legal_first_name": "Maya",
+    "industry": "Healthcare Technology",
+    "business_age": "6-10 years",
+    "work_type": "On-site",
+    "headquarters": "Denver, CO",
+    "company_size": "201-500",
+    "company_email": "careers@coastalclinical.example",
+    "company_phone": "(720) 555-0102",
+    "logo_image_key": "sample/logos/coastalclinical.png",
+    "banner_image_key": "sample/banners/coastalclinical.jpg",
+    "locations": [
+      {
+        "city": "Denver",
+        "state": "CO",
+        "type": "HQ"
+      },
+      {
+        "city": "Boston",
+        "state": "MA",
+        "type": "Office"
+      },
+      {
+        "city": "Nashville",
+        "state": "TN",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Full-Stack Developer",
+      "Junior Data Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Hannah Rivera",
+        "title": "UX Designer",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://coastalclinical.example"
+    },
+    "core_values": [
+      "Impact",
+      "Sustainability",
+      "Ownership",
+      "Collaboration"
+    ],
+    "benefits_summary": [
+      "Hybrid schedule",
+      "Mentorship program",
+      "401(k) match",
+      "Learning stipend"
+    ],
+    "mission_statement": "Coastal Clinical helps partners build with confidence through healthcare technology.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-09-16T10:35:00Z"
+  },
+  {
+    "user_id": "df922d27-868e-5cd9-9cc2-ada16af51b01",
+    "company_name": "Oakline Freight",
+    "company_pin": "OFX-7777",
+    "legal_first_name": "Rosa",
+    "industry": "Logistics & Supply Chain",
+    "business_age": "3-5 years",
+    "work_type": "On-site",
+    "headquarters": "Boston, MA",
+    "company_size": "201-500",
+    "company_email": "careers@oaklinefreight.example",
+    "company_phone": "(617) 555-0103",
+    "logo_image_key": "sample/logos/oaklinefreight.png",
+    "banner_image_key": "sample/banners/oaklinefreight.jpg",
+    "locations": [
+      {
+        "city": "Boston",
+        "state": "MA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Logistics Coordinator",
+      "Supply Chain Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Hiro Torres",
+        "title": "Demand Planner",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://oaklinefreight.example"
+    },
+    "core_values": [
+      "Transparency",
+      "Ownership",
+      "Sustainability",
+      "Excellence"
+    ],
+    "benefits_summary": [
+      "Summer Fridays",
+      "401(k) match",
+      "Paid parental leave",
+      "Commuter benefits"
+    ],
+    "mission_statement": "Oakline Freight helps small businesses build with confidence through logistics & supply chain.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-02-05T04:29:00Z"
+  },
+  {
+    "user_id": "1d1919d4-96cb-53f8-83ae-7359b8709dbf",
+    "company_name": "Westfield Orbital",
+    "company_pin": "WOX-9196",
+    "legal_first_name": "Ibrahim",
+    "industry": "Aerospace",
+    "business_age": "10+ years",
+    "work_type": "Remote",
+    "headquarters": "Austin, TX",
+    "company_size": "1000+",
+    "company_email": "careers@westfieldorbital.example",
+    "company_phone": "(512) 555-0101",
+    "logo_image_key": "sample/logos/westfieldorbital.png",
+    "banner_image_key": "sample/banners/westfieldorbital.jpg",
+    "locations": [
+      {
+        "city": "Austin",
+        "state": "TX",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Manufacturing Engineer",
+      "Full-Stack Developer"
+    ],
+    "current_employees": [
+      {
+        "name": "Emily Anderson",
+        "title": "Design Engineer",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://westfieldorbital.example"
+    },
+    "core_values": [
+      "Community",
+      "Impact",
+      "Growth",
+      "Diversity"
+    ],
+    "benefits_summary": [
+      "Hybrid schedule",
+      "Home-office stipend",
+      "401(k) match",
+      "Unlimited PTO"
+    ],
+    "mission_statement": "Westfield Orbital helps partners learn every day through aerospace.",
+    "why_us": "Structured mentorship and a clear promotion path.",
+    "created_at": "2026-05-23T00:00:00Z"
+  },
+  {
+    "user_id": "12ee63d3-d1a7-5fe6-aaed-1c91708630c7",
+    "company_name": "Keystone Industries",
+    "company_pin": "KIX-2077",
+    "legal_first_name": "Emily",
+    "industry": "Manufacturing",
+    "business_age": "0-2 years",
+    "work_type": "On-site",
+    "headquarters": "Indianapolis, IN",
+    "company_size": "1000+",
+    "company_email": "careers@keystoneindustries.example",
+    "company_phone": "(317) 555-0103",
+    "logo_image_key": "sample/logos/keystoneindustries.png",
+    "banner_image_key": "sample/banners/keystoneindustries.jpg",
+    "locations": [
+      {
+        "city": "Indianapolis",
+        "state": "IN",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Logistics Analyst Intern",
+      "Manufacturing Engineer Intern"
+    ],
+    "current_employees": [
+      {
+        "name": "Grace Martinez",
+        "title": "Controls Engineer",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://keystoneindustries.example"
+    },
+    "core_values": [
+      "Diversity",
+      "Community",
+      "Impact",
+      "Sustainability"
+    ],
+    "benefits_summary": [
+      "Summer Fridays",
+      "401(k) match",
+      "Commuter benefits",
+      "Mentorship program"
+    ],
+    "mission_statement": "Keystone Industries helps communities move faster through manufacturing.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-03-26T03:10:00Z"
+  },
+  {
+    "user_id": "5201b815-39be-5635-a076-f79bda073712",
+    "company_name": "Golden Goods",
+    "company_pin": "GGX-7572",
+    "legal_first_name": "Ethan",
+    "industry": "Retail & E-commerce",
+    "business_age": "0-2 years",
+    "work_type": "On-site",
+    "headquarters": "San Francisco, CA",
+    "company_size": "1000+",
+    "company_email": "careers@goldengoods.example",
+    "company_phone": "(415) 555-0106",
+    "logo_image_key": "sample/logos/goldengoods.png",
+    "banner_image_key": "sample/banners/goldengoods.jpg",
+    "locations": [
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "type": "HQ"
+      },
+      {
+        "city": "Houston",
+        "state": "TX",
+        "type": "Office"
+      },
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Demand Planner",
+      "Junior Data Analyst",
+      "Customer Success Associate"
+    ],
+    "current_employees": [
+      {
+        "name": "Ryan Mehta",
+        "title": "Data Analyst",
+        "quote": "My work ships to customers every sprint."
+      }
+    ],
+    "urls": {
+      "website": "https://goldengoods.example"
+    },
+    "core_values": [
+      "Excellence",
+      "Learning",
+      "Work-life balance",
+      "Transparency"
+    ],
+    "benefits_summary": [
+      "Hybrid schedule",
+      "Home-office stipend",
+      "Summer Fridays",
+      "Learning stipend"
+    ],
+    "mission_statement": "Golden Goods helps teams work smarter through retail & e-commerce.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-08-02T07:27:00Z"
+  },
+  {
+    "user_id": "61b0c87a-e0eb-5d23-8e77-b987c8a5b2c7",
+    "company_name": "Blue Goods",
+    "company_pin": "BGX-9097",
+    "legal_first_name": "Elena",
+    "industry": "Retail & E-commerce",
+    "business_age": "0-2 years",
+    "work_type": "On-site",
+    "headquarters": "Atlanta, GA",
+    "company_size": "51-200",
+    "company_email": "careers@bluegoods.example",
+    "company_phone": "(404) 555-0103",
+    "logo_image_key": "sample/logos/bluegoods.png",
+    "banner_image_key": "sample/banners/bluegoods.jpg",
+    "locations": [
+      {
+        "city": "Atlanta",
+        "state": "GA",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Data Analyst",
+      "Social Media Specialist",
+      "Demand Planner"
+    ],
+    "current_employees": [
+      {
+        "name": "Marcus Sanchez",
+        "title": "Digital Marketing Associate",
+        "quote": "Leadership actually listens here."
+      }
+    ],
+    "urls": {
+      "website": "https://bluegoods.example"
+    },
+    "core_values": [
+      "Sustainability",
+      "Ownership",
+      "Work-life balance",
+      "Transparency"
+    ],
+    "benefits_summary": [
+      "Equity",
+      "Hybrid schedule",
+      "Home-office stipend",
+      "Learning stipend"
+    ],
+    "mission_statement": "Blue Goods helps communities work smarter through retail & e-commerce.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-06-02T23:41:00Z"
+  },
+  {
+    "user_id": "8800c74f-dcf5-52c0-b2f5-8ed630a99b49",
+    "company_name": "Granite Biosciences",
+    "company_pin": "GBX-8439",
+    "legal_first_name": "Hiro",
+    "industry": "Biotechnology",
+    "business_age": "3-5 years",
+    "work_type": "On-site",
+    "headquarters": "Austin, TX",
+    "company_size": "11-50",
+    "company_email": "careers@granitebiosciences.example",
+    "company_phone": "(512) 555-0102",
+    "logo_image_key": "sample/logos/granitebiosciences.png",
+    "banner_image_key": "sample/banners/granitebiosciences.jpg",
+    "locations": [
+      {
+        "city": "Austin",
+        "state": "TX",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Machine Learning Engineer"
+    ],
+    "current_employees": [
+      {
+        "name": "Mateo Okafor",
+        "title": "Data Scientist",
+        "quote": "I got real mentorship from week one."
+      }
+    ],
+    "urls": {
+      "website": "https://granitebiosciences.example"
+    },
+    "core_values": [
+      "Integrity",
+      "Excellence",
+      "Collaboration",
+      "Creativity"
+    ],
+    "benefits_summary": [
+      "Relocation assistance",
+      "Wellness stipend",
+      "Mentorship program",
+      "Equity"
+    ],
+    "mission_statement": "Granite Biosciences helps families work smarter through biotechnology.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-05-03T21:02:00Z"
+  },
+  {
+    "user_id": "f458396b-fdb5-5172-afee-46f8b8b761b2",
+    "company_name": "Cedar Capital",
+    "company_pin": "CCX-6163",
+    "legal_first_name": "Mateo",
+    "industry": "Financial Technology",
+    "business_age": "6-10 years",
+    "work_type": "On-site",
+    "headquarters": "Austin, TX",
+    "company_size": "1-10",
+    "company_email": "careers@cedarcapital.example",
+    "company_phone": "(512) 555-0103",
+    "logo_image_key": "sample/logos/cedarcapital.png",
+    "banner_image_key": "sample/banners/cedarcapital.jpg",
+    "locations": [
+      {
+        "city": "Austin",
+        "state": "TX",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Business Intelligence Analyst",
+      "Business Analyst"
+    ],
+    "current_employees": [
+      {
+        "name": "Camila Ellis",
+        "title": "SOC Analyst",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://cedarcapital.example"
+    },
+    "core_values": [
+      "Transparency",
+      "Community",
+      "Sustainability",
+      "Creativity"
+    ],
+    "benefits_summary": [
+      "Home-office stipend",
+      "Relocation assistance",
+      "401(k) match",
+      "Paid parental leave"
+    ],
+    "mission_statement": "Cedar Capital helps families move faster through financial technology.",
+    "why_us": "Small teams, big impact, and leaders who know your name.",
+    "created_at": "2026-01-23T11:30:00Z"
+  },
+  {
+    "user_id": "2fd2979b-2901-52e9-8b22-d24a17784a3c",
+    "company_name": "Wildflower Orbital",
+    "company_pin": "WOX-3713",
+    "legal_first_name": "Ana",
+    "industry": "Aerospace",
+    "business_age": "6-10 years",
+    "work_type": "Hybrid",
+    "headquarters": "Charlotte, NC",
+    "company_size": "201-500",
+    "company_email": "careers@wildflowerorbital.example",
+    "company_phone": "(704) 555-0106",
+    "logo_image_key": "sample/logos/wildflowerorbital.png",
+    "banner_image_key": "sample/banners/wildflowerorbital.jpg",
+    "locations": [
+      {
+        "city": "Charlotte",
+        "state": "NC",
+        "type": "HQ"
+      },
+      {
+        "city": "Miami",
+        "state": "FL",
+        "type": "Office"
+      },
+      {
+        "city": "Washington",
+        "state": "DC",
+        "type": "Office"
+      }
+    ],
+    "open_roles": [
+      "Design Engineer"
+    ],
+    "current_employees": [
+      {
+        "name": "Tyler Liu",
+        "title": "Full-Stack Developer",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://wildflowerorbital.example"
+    },
+    "core_values": [
+      "Work-life balance",
+      "Collaboration",
+      "Impact",
+      "Sustainability"
+    ],
+    "benefits_summary": [
+      "Tuition reimbursement",
+      "Paid parental leave",
+      "Learning stipend",
+      "Commuter benefits"
+    ],
+    "mission_statement": "Wildflower Orbital helps families build with confidence through aerospace.",
+    "why_us": "We invest in learning: every employee gets a training budget.",
+    "created_at": "2026-07-23T07:04:00Z"
+  },
+  {
+    "user_id": "9a380db4-0806-5a91-a5e3-75e13986a8c0",
+    "company_name": "Redwood Biosciences",
+    "company_pin": "RBX-9717",
+    "legal_first_name": "Ethan",
+    "industry": "Biotechnology",
+    "business_age": "3-5 years",
+    "work_type": "Remote",
+    "headquarters": "Salt Lake City, UT",
+    "company_size": "1-10",
+    "company_email": "careers@redwoodbiosciences.example",
+    "company_phone": "(801) 555-0104",
+    "logo_image_key": "sample/logos/redwoodbiosciences.png",
+    "banner_image_key": "sample/banners/redwoodbiosciences.jpg",
+    "locations": [
+      {
+        "city": "Salt Lake City",
+        "state": "UT",
+        "type": "HQ"
+      }
+    ],
+    "open_roles": [
+      "Clinical Data Associate Intern",
+      "Lab Technician",
+      "Research Assistant"
+    ],
+    "current_employees": [
+      {
+        "name": "Gabriela Bennett",
+        "title": "Clinical Research Coordinator",
+        "quote": "I've grown more here in a year than I expected."
+      }
+    ],
+    "urls": {
+      "website": "https://redwoodbiosciences.example"
+    },
+    "core_values": [
+      "Ownership",
+      "Diversity",
+      "Transparency",
+      "Learning"
+    ],
+    "benefits_summary": [
+      "Mentorship program",
+      "Learning stipend",
+      "Paid parental leave",
+      "Summer Fridays"
+    ],
+    "mission_statement": "Redwood Biosciences helps teams move faster through biotechnology.",
+    "why_us": "Early-career hires own real projects from their first month.",
+    "created_at": "2026-02-06T19:22:00Z"
+  }
+]

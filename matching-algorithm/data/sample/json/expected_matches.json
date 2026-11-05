@@ -1,0 +1,586 @@
+[
+  {
+    "candidate_profile_id": "cf2e44cb-8cf4-58b3-948a-cdd4a5bb32af",
+    "candidate_name": "Kwame Martinez",
+    "job_posting_id": "9152dab8-ea99-5088-9af2-27f53f12848a",
+    "job_title": "Associate Consultant",
+    "expected_fit": "poor",
+    "reason": "Same field, but only 1 required skill, opposite work arrangement, different city with no relocation, and salary target far above range"
+  },
+  {
+    "candidate_profile_id": "515e8af3-84c9-56eb-9f1d-0b448eccfc23",
+    "candidate_name": "Priya Ibrahim",
+    "job_posting_id": "f6659323-7745-516f-aa9e-96511e1fbc85",
+    "job_title": "SOC Analyst",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "77bc34e8-6a95-5f54-9b48-6a64faf94296",
+    "candidate_name": "Lauren Sanchez",
+    "job_posting_id": "",
+    "job_title": "",
+    "expected_fit": "sparse_profile",
+    "reason": "Mostly empty profile: should still get results (FR-09) with a low criteria count"
+  },
+  {
+    "candidate_profile_id": "29c2d57b-89a3-5a92-802f-1a1d4275a826",
+    "candidate_name": "Daniel Kowalski",
+    "job_posting_id": "c8ec9d30-f4bc-5c31-8aaf-7af3c7939ce6",
+    "job_title": "Content Writer",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "d6315079-4e9d-555d-8da6-70cd4122949a",
+    "candidate_name": "Kevin Ali",
+    "job_posting_id": "ae270a1f-4b8b-5730-b235-5c2f8f71d20d",
+    "job_title": "Field Operations Coordinator",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "b0b9e81b-ed33-5d9a-90ae-ed375cef35b3",
+    "candidate_name": "Grace Carter",
+    "job_posting_id": "88ed330a-22b9-5e82-8dcc-e02e433f77ea",
+    "job_title": "Full-Stack Developer",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "f0597755-2742-5a3a-826c-4e081f0ababb",
+    "candidate_name": "Ava Johnson",
+    "job_posting_id": "2975a922-cc4c-5156-950e-2338d2b4921e",
+    "job_title": "Logistics Analyst",
+    "expected_fit": "poor",
+    "reason": "Same field, but only 1 required skill, opposite work arrangement, different city with no relocation, and salary target far above range"
+  },
+  {
+    "candidate_profile_id": "72871f6f-596e-535a-bb67-25ab2f0813da",
+    "candidate_name": "Maya Lopez",
+    "job_posting_id": "",
+    "job_title": "",
+    "expected_fit": "sparse_profile",
+    "reason": "Mostly empty profile: should still get results (FR-09) with a low criteria count"
+  },
+  {
+    "candidate_profile_id": "5f395797-0faf-5836-aacb-d028fb94bf68",
+    "candidate_name": "Ana Kumar",
+    "job_posting_id": "8e433f98-e56e-5c13-aa49-784c9e709841",
+    "job_title": "Copywriter",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "aeeafa5c-4e1c-58b2-9c04-7695b7805000",
+    "candidate_name": "Rahul Park",
+    "job_posting_id": "d0debf57-c700-575c-9add-eab72541f1cb",
+    "job_title": "Assistant Project Manager",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "a11ef2a5-14fd-59a6-af0d-1019438ede14",
+    "candidate_name": "Leila Vargas",
+    "job_posting_id": "ae0959d7-7500-5cd5-a267-0b3d0f5d5974",
+    "job_title": "Financial Analyst",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "c0e37635-ad60-58fc-b878-585e6d448425",
+    "candidate_name": "Yuki Sanchez",
+    "job_posting_id": "87ee4ae3-30fe-5655-acc4-cd210dfab62e",
+    "job_title": "Digital Marketing Associate",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "63be965c-b684-55bb-9c98-66c57b6d7a20",
+    "candidate_name": "Maya Nguyen",
+    "job_posting_id": "09e48d80-bf3f-59ea-a459-58a6e4eb4531",
+    "job_title": "Junior Data Analyst",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "9e39a7c2-e9dc-5ac4-8b65-19d1f37d4dcb",
+    "candidate_name": "Zoe Chen",
+    "job_posting_id": "adaa2d17-d741-5a5e-ac10-917edc33d516",
+    "job_title": "Business Analyst",
+    "expected_fit": "poor",
+    "reason": "Same field, but only 1 required skill, opposite work arrangement, different city with no relocation, and salary target far above range"
+  },
+  {
+    "candidate_profile_id": "42f88439-4d3f-55d4-aefe-b5eea18fdc0b",
+    "candidate_name": "Camila Scott",
+    "job_posting_id": "e78e4c31-d0c6-5e89-a585-610b4ed66d38",
+    "job_title": "Field Operations Coordinator Intern",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "83b6b19a-53e6-557a-b0ec-a0dce16ff4d9",
+    "candidate_name": "Emily Castillo",
+    "job_posting_id": "89b43ae6-f54b-5c99-8fe1-e5112a8c5695",
+    "job_title": "Demand Planner",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "ac4fa4c9-8e3e-5ccb-98f9-eac1ccbc54a4",
+    "candidate_name": "Daniel Ellis",
+    "job_posting_id": "0e664e72-b2e0-55ec-8c6b-66a938009658",
+    "job_title": "Electrical Engineer",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "37cfbff6-f13d-547c-8029-18da85a51636",
+    "candidate_name": "Samuel Thompson",
+    "job_posting_id": "1aebd063-5e78-5f32-b48c-6b1375155430",
+    "job_title": "SOC Analyst Intern",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "7ef3d782-82c0-5ea7-a854-885d866cd576",
+    "candidate_name": "Lauren Tanaka",
+    "job_posting_id": "7d4a17ff-e225-55ad-b198-e07dd3c0c31e",
+    "job_title": "Hardware Engineer",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "8098f97f-c403-5a57-bebd-1b20f4da47ba",
+    "candidate_name": "Ibrahim Singh",
+    "job_posting_id": "05125c23-af9e-5396-9cd4-e41f2c717b6d",
+    "job_title": "Cybersecurity Analyst",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "0206f46d-b2b2-538e-b315-75ee822ffe0f",
+    "candidate_name": "Tariq Lee",
+    "job_posting_id": "77f0e687-e27a-5512-afcb-f0c22a2e9b3b",
+    "job_title": "Demand Planner",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "b25451fd-7463-5c8e-a4ae-7097577d1163",
+    "candidate_name": "Elena Moore",
+    "job_posting_id": "",
+    "job_title": "",
+    "expected_fit": "sparse_profile",
+    "reason": "Mostly empty profile: should still get results (FR-09) with a low criteria count"
+  },
+  {
+    "candidate_profile_id": "13876067-ed36-552d-84e5-486953f5c3d9",
+    "candidate_name": "Ethan Scott",
+    "job_posting_id": "3da39a5a-eeab-5ca7-949f-22d5ef1f4a10",
+    "job_title": "Project Engineer Intern",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "80a2d4d3-ba38-54bd-bab9-c0d7bd09eca7",
+    "candidate_name": "Jordan Ahmed",
+    "job_posting_id": "db525ac5-5ccf-5ef0-9d2d-f1a4a1afc0e8",
+    "job_title": "Manufacturing Engineer Intern",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "5d300c7a-daa4-5304-ae9b-dbec0555bcd0",
+    "candidate_name": "Andre Rodriguez",
+    "job_posting_id": "ee9a41b3-5702-545f-9201-e10b8c677291",
+    "job_title": "People Operations Associate",
+    "expected_fit": "poor",
+    "reason": "Same field, but only 1 required skill, opposite work arrangement, different city with no relocation, and salary target far above range"
+  },
+  {
+    "candidate_profile_id": "ef0f5f2b-abd8-561f-b281-b5542c1ec214",
+    "candidate_name": "Aiden Liu",
+    "job_posting_id": "",
+    "job_title": "",
+    "expected_fit": "sparse_profile",
+    "reason": "Mostly empty profile: should still get results (FR-09) with a low criteria count"
+  },
+  {
+    "candidate_profile_id": "12ce391e-e863-52dc-b9ab-adf34a7e3edf",
+    "candidate_name": "Amara Thompson",
+    "job_posting_id": "5a100beb-9d35-5d25-9e0f-d57c5329f363",
+    "job_title": "Logistics Coordinator Intern",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "15e58560-74fa-50a1-86b6-88b57f7b5468",
+    "candidate_name": "Nikhil Carter",
+    "job_posting_id": "",
+    "job_title": "",
+    "expected_fit": "sparse_profile",
+    "reason": "Mostly empty profile: should still get results (FR-09) with a low criteria count"
+  },
+  {
+    "candidate_profile_id": "e7889972-ece5-524e-b34d-e02552965f36",
+    "candidate_name": "Nikhil Tanaka",
+    "job_posting_id": "a3ca84b9-a5e7-56df-8a66-88450f2e6491",
+    "job_title": "UX Designer",
+    "expected_fit": "poor",
+    "reason": "Same field, but only 1 required skill, opposite work arrangement, different city with no relocation, and salary target far above range"
+  },
+  {
+    "candidate_profile_id": "0fc33c40-b415-545d-a4a2-5daba604c2fd",
+    "candidate_name": "Diego Lee",
+    "job_posting_id": "53ad9d6d-0a4a-5f1c-a5dd-0659dbb940f8",
+    "job_title": "Demand Planner",
+    "expected_fit": "strong",
+    "reason": "Built from this posting: all required skills, matching location or remote, employment type and work arrangement, pay target in range when the posting lists one, industry interest"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "46395559-8f68-5ad8-8eb0-6fdbff51edf5",
+    "job_title": "UI/UX Designer",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "4aaa5e50-0052-55ee-9c82-a855a6f733c7",
+    "job_title": "Clinical Data Associate Intern",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "f3b0d2ff-d1df-5758-a26a-0b775512b60d",
+    "job_title": "Research Assistant Intern",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "8e7e087e-3743-526a-b12d-2dded0e93411",
+    "job_title": "Quality Control Analyst",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "ef551142-1f86-5ab0-9687-cd6c78574453",
+    "job_title": "Junior Data Analyst",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "c3e16be3-c9bd-5706-ac94-6d76136147f8",
+    "job_title": "Business Intelligence Analyst",
+    "expected_fit": "never_shown",
+    "reason": "Posting is closed"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "53f7d65f-7d15-5c38-b8d1-e8c2ba6240c5",
+    "job_title": "Digital Marketing Associate",
+    "expected_fit": "never_shown",
+    "reason": "Posting is closed"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "9eb59ce8-b8e8-5e55-b53c-a619335b359e",
+    "job_title": "Mechanical Engineer",
+    "expected_fit": "never_shown",
+    "reason": "Posting is closed"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "e58cdc46-409e-502c-a8c0-98f38e244dfa",
+    "job_title": "Manufacturing Engineer",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "ba2e24bc-3806-597f-afb3-3806caccc941",
+    "job_title": "Associate Consultant",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "5d4fff0c-77db-5c84-ad67-91f4ff529b55",
+    "job_title": "Copywriter",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "beaa6e01-173f-5637-a705-8b79e92a7419",
+    "job_title": "Data Scientist Intern",
+    "expected_fit": "never_shown",
+    "reason": "Posting is closed"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "78186b26-2912-5f70-b143-81a2a4edb556",
+    "job_title": "Design Engineer",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "1a405047-e6d0-5fbe-8c13-31e1aed0bb7f",
+    "job_title": "Full-Stack Developer",
+    "expected_fit": "never_shown",
+    "reason": "Posting is closed"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "dd94a15f-53c8-59d6-962a-9260b3a52fd8",
+    "job_title": "Data Analyst",
+    "expected_fit": "never_shown",
+    "reason": "Posting is closed"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "1d68b84b-ebdd-5542-9770-476d9e13cd2b",
+    "job_title": "Quality Control Analyst",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "c07eeff3-9ee2-55e6-9adc-87c76fee54d2",
+    "job_title": "Machine Learning Engineer Intern",
+    "expected_fit": "never_shown",
+    "reason": "Posting is closed"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "8dc4fd38-4b5e-559e-87a3-7b2401ce112c",
+    "job_title": "Backend Engineer Intern",
+    "expected_fit": "never_shown",
+    "reason": "Posting is closed"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "8a5489c7-bd3c-5c42-b721-638d2b0925cb",
+    "job_title": "Project Engineer Intern",
+    "expected_fit": "never_shown",
+    "reason": "Posting is closed"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "05596183-91bb-5281-a852-7c37edc202c2",
+    "job_title": "Field Operations Coordinator",
+    "expected_fit": "never_shown",
+    "reason": "Posting is closed"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "9c725321-f880-5761-8915-61bcbeec5acb",
+    "job_title": "Operations Coordinator",
+    "expected_fit": "never_shown",
+    "reason": "Posting is closed"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "f2cbe968-e7fb-5fbf-a5b5-7ca6862fe955",
+    "job_title": "Business Intelligence Analyst",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "069e0c8d-e196-51db-ae3e-8ba42b1f6780",
+    "job_title": "Backend Engineer",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "b4ea07b3-7963-529d-8b94-71e298ff5fc8",
+    "job_title": "Clinical Research Coordinator Intern",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "5c4aa2b7-867e-53f3-bbdc-8ce87ed725ff",
+    "job_title": "Project Engineer",
+    "expected_fit": "never_shown",
+    "reason": "Posting is closed"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "19a986b9-f7bd-55a1-8b50-94170498915e",
+    "job_title": "Manufacturing Engineer Intern",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "74e8f493-910d-538d-b6d6-71c70148cd06",
+    "job_title": "Clinical Data Associate Intern",
+    "expected_fit": "never_shown",
+    "reason": "Posting is paused"
+  },
+  {
+    "candidate_profile_id": "*",
+    "candidate_name": "(any)",
+    "job_posting_id": "ae5d02f2-ea99-594d-9388-ee86881be043",
+    "job_title": "Lab Technician",
+    "expected_fit": "never_shown",
+    "reason": "Posting is closed"
+  },
+  {
+    "candidate_profile_id": "3023f6c5-44be-50ca-afab-eabb5f42dfce",
+    "candidate_name": "Grace Castillo",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: not open to work"
+  },
+  {
+    "candidate_profile_id": "595a5d8e-42b4-551f-ac1c-8570a9d47af2",
+    "candidate_name": "Zoe Wilson",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: job search status is Not looking"
+  },
+  {
+    "candidate_profile_id": "cdb986f9-92ef-5524-9e4c-07c829d08b08",
+    "candidate_name": "Mateo Hall",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: not open to work"
+  },
+  {
+    "candidate_profile_id": "08f42f5a-8650-55b0-8b23-520c849e50e9",
+    "candidate_name": "Ava Brooks",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: not open to work"
+  },
+  {
+    "candidate_profile_id": "e11dcd0d-ae34-525b-b8f0-ffa557823132",
+    "candidate_name": "Ava Torres",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: not open to work"
+  },
+  {
+    "candidate_profile_id": "4efa245b-68b7-5555-9b97-70bf746dbc13",
+    "candidate_name": "Tariq Nguyen",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: not open to work"
+  },
+  {
+    "candidate_profile_id": "4fee3eb1-a10a-57b0-8d8a-8d7180209c5c",
+    "candidate_name": "Brianna Brooks",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: not open to work"
+  },
+  {
+    "candidate_profile_id": "e34bf69d-dc7e-5bac-af91-7591a3328f0c",
+    "candidate_name": "Emily Shah",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: not open to work"
+  },
+  {
+    "candidate_profile_id": "f11424f3-53f4-52da-bd95-684a8ba86705",
+    "candidate_name": "Tyler Nguyen",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: no FCRA consent"
+  },
+  {
+    "candidate_profile_id": "7054627e-604f-5817-b392-df12a420e72b",
+    "candidate_name": "Amara Green",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: not open to work"
+  },
+  {
+    "candidate_profile_id": "7359bb12-f145-5cc5-b233-7bcb229817be",
+    "candidate_name": "Kwame Hernandez",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: no FCRA consent, job search status is Not looking"
+  },
+  {
+    "candidate_profile_id": "fa3c3d73-f007-5e1e-a7f3-04a82066efc0",
+    "candidate_name": "Rosa Rodriguez",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: job search status is Not looking"
+  },
+  {
+    "candidate_profile_id": "e5d602ec-f154-5898-b18e-5d45baf27a06",
+    "candidate_name": "Hannah Flores",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: job search status is Not looking"
+  },
+  {
+    "candidate_profile_id": "113f7938-5d25-5ff6-996a-95d8554f88ba",
+    "candidate_name": "Lucas Carter",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: job search status is Not looking"
+  },
+  {
+    "candidate_profile_id": "12c5274e-9fb5-5a65-aa0d-04a0a4446a5d",
+    "candidate_name": "Gabriela Hassan",
+    "job_posting_id": "*",
+    "job_title": "(any)",
+    "expected_fit": "gate_excluded",
+    "reason": "Fails Step 1 must-pass: job search status is Not looking"
+  }
+]
